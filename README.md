@@ -5,2861 +5,59 @@ __[mmccaff](https://github.com/mmccaff)__ on GitHub.
 
 ## Languages
 
-- [JavaScript](#javascript)
-- [CSS](#css)
-- [Go](#go)
-- [Unknown](#unknown)
 - [Java](#java)
 - [Python](#python)
-- [C++](#c++)
-- [Ruby](#ruby)
+- [JavaScript](#javascript)
 - [PHP](#php)
-- [CoffeeScript](#coffeescript)
 - [Shell](#shell)
+- [HTML](#html)
+- [Ruby](#ruby)
+- [CoffeeScript](#coffeescript)
+- [Unknown](#unknown)
+- [C](#c)
+- [Go](#go)
+- [Scala](#scala)
+- [Smarty](#smarty)
+- [C++](#c++)
+- [CSS](#css)
+- [Haskell](#haskell)
+- [AGS Script](#ags script)
 - [Perl](#perl)
 - [Objective-C](#objective-c)
-- [C](#c)
-- [Haskell](#haskell)
-- [Scala](#scala)
+- [PigLatin](#piglatin)
 - [VimL](#viml)
 - [C#](#c#)
 
 # Index
 
-## [JavaScript](id:javascript)
-
-230 repositories
-### janpaepke/ScrollMagic
-
-The jQuery plugin for magical scroll interactions.
-
-- URL: <https://github.com/janpaepke/ScrollMagic>
-
-- Site: <http://janpaepke.github.io/ScrollMagic>
-
-- Pushed at: _Dec 10, 2014 8:11PM (UTC)_
-
-### dimsemenov/PhotoSwipe
-
-JavaScript image gallery for mobile and desktop, modular, framework independent.
-
-- URL: <https://github.com/dimsemenov/PhotoSwipe>
-
-- Site: <http://photoswipe.com>
-
-- Pushed at: _Dec 11, 2014 3:28PM (UTC)_
-
-### globocom/clappr
-
-An extensible media player for the web
-
-- URL: <https://github.com/globocom/clappr>
-
-- Site: <http://clappr.io>
-
-- Pushed at: _Dec 10, 2014 1:12PM (UTC)_
-
-### knsv/mermaid
-
-Generation of diagram and flowchart from text in a similar manner as markdown
-
-- URL: <https://github.com/knsv/mermaid>
-
-- Pushed at: _Dec 10, 2014 6:44PM (UTC)_
-
-### serratus/quaggaJS
-
-An advanced barcode-scanner written in JavaScript
-
-- URL: <https://github.com/serratus/quaggaJS>
-
-- Pushed at: _Dec 8, 2014 8:39PM (UTC)_
-
-### tjmehta/101
-
-A modern JS utility library
-
-- URL: <https://github.com/tjmehta/101>
-
-- Pushed at: _Dec 2, 2014 8:17AM (UTC)_
-
-### xat/castnow
-
-commandline chromecast player
-
-- URL: <https://github.com/xat/castnow>
-
-- Pushed at: _Dec 7, 2014 10:49PM (UTC)_
-
-### taye/interact.js
-
-JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
-
-- URL: <https://github.com/taye/interact.js>
-
-- Site: <http://interactjs.io/>
-
-- Pushed at: _Dec 11, 2014 12:56PM (UTC)_
-
-### mozilla/metrics-graphics
-
-A library optimized for concise, principled data graphics and layouts.
-
-- URL: <https://github.com/mozilla/metrics-graphics>
-
-- Site: <http://metricsgraphicsjs.org>
-
-- Pushed at: _Dec 3, 2014 7:59PM (UTC)_
-
-### 5an1ty/BitBot
-
-BitBot is a Crypto-Currency trading bot and backtesting platform written in Node.JS
-
-- URL: <https://github.com/5an1ty/BitBot>
-
-- Pushed at: _Dec 8, 2014 4:45PM (UTC)_
-
-### jedp/porter-stemmer
-
-Martin Porter's stemmer for node.js
-
-- URL: <https://github.com/jedp/porter-stemmer>
-
-- Pushed at: _Feb 21, 2013 6:12PM (UTC)_
-
-### thinkroth/Sentimental
-
-A sentiment analysis module for node.js
-
-- URL: <https://github.com/thinkroth/Sentimental>
-
-- Pushed at: _Apr 12, 2014 5:23PM (UTC)_
-
-### primaryobjects/lda
-
-LDA topic modeling for node.js
-
-- URL: <https://github.com/primaryobjects/lda>
-
-- Pushed at: _May 27, 2014 6:13PM (UTC)_
-
-### twitter/twemoji
-
-Twitter Emoji for Everyone
-
-- URL: <https://github.com/twitter/twemoji>
-
-- Site: <http://twitter.github.io/twemoji>
-
-- Pushed at: _Dec 2, 2014 5:09PM (UTC)_
-
-### maxogden/bkts
-
-launch the Brackets editor from the command line
-
-- URL: <https://github.com/maxogden/bkts>
-
-- Pushed at: _Feb 8, 2014 4:46PM (UTC)_
-
-### adobe-research/theseus
-
-A pretty darn cool JavaScript debugger for Brackets
-
-- URL: <https://github.com/adobe-research/theseus>
-
-- Pushed at: _Dec 6, 2014 6:00AM (UTC)_
-
-### keen/dashboards
-
-Responsive dashboard templates for Bootstrap
-
-- URL: <https://github.com/keen/dashboards>
-
-- Site: <http://keen.github.io/dashboards/>
-
-- Pushed at: _Dec 5, 2014 11:33PM (UTC)_
-
-### virtkick/virtkick-starter
-
-One-click install & start VirtKick in non-production environment.
-
-- URL: <https://github.com/virtkick/virtkick-starter>
-
-- Site: <https://www.virtkick.io/>
-
-- Pushed at: _Nov 29, 2014 6:00PM (UTC)_
-
-### julianlloyd/scrollReveal.js
-
-Easily reveal elements as they enter the viewport.
-
-- URL: <https://github.com/julianlloyd/scrollReveal.js>
-
-- Site: <http://scrollrevealjs.org/>
-
-- Pushed at: _Nov 27, 2014 9:57AM (UTC)_
-
-### sindresorhus/pageres
-
-Responsive website screenshots
-
-- URL: <https://github.com/sindresorhus/pageres>
-
-- Pushed at: _Dec 5, 2014 4:09PM (UTC)_
-
-### aFarkas/lazysizes
-
-High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
-
-- URL: <https://github.com/aFarkas/lazysizes>
-
-- Pushed at: _Dec 3, 2014 3:52PM (UTC)_
-
-### kimmobrunfeldt/progressbar.js
-
-Beautiful and responsive progress bars 
-
-- URL: <https://github.com/kimmobrunfeldt/progressbar.js>
-
-- Site: <https://kimmobrunfeldt.github.io/progressbar.js>
-
-- Pushed at: _Dec 9, 2014 2:49PM (UTC)_
-
-### mozilla/nunjucks
-
-A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
-
-- URL: <https://github.com/mozilla/nunjucks>
-
-- Site: <http://mozilla.github.io/nunjucks/>
-
-- Pushed at: _Dec 11, 2014 12:15AM (UTC)_
-
-### airbrite/diy-checkout
-
-DIY Coin Checkout – Customizable checkout template
-
-- URL: <https://github.com/airbrite/diy-checkout>
-
-- Pushed at: _Oct 20, 2014 8:14PM (UTC)_
-
-### staaky/strip
-
-Strip - A Less Intrusive Responsive Lightbox
-
-- URL: <https://github.com/staaky/strip>
-
-- Site: <http://www.stripjs.com>
-
-- Pushed at: _Nov 12, 2014 11:11AM (UTC)_
-
-### segmentio/nightmare
-
-A high level wrapper for Phantomjs.
-
-- URL: <https://github.com/segmentio/nightmare>
-
-- Site: <http://nightmarejs.org>
-
-- Pushed at: _Dec 8, 2014 5:16AM (UTC)_
-
-### zzmp/juliusjs
-
-A speech recognition library for the web
-
-- URL: <https://github.com/zzmp/juliusjs>
-
-- Site: <https://zzmp.github.io/juliusjs>
-
-- Pushed at: _Oct 15, 2014 2:18AM (UTC)_
-
-### usablica/intro.js
-
-A better way for new feature introduction and step-by-step users guide for your website and project.
-
-- URL: <https://github.com/usablica/intro.js>
-
-- Site: <http://usablica.github.com/intro.js/>
-
-- Pushed at: _Oct 17, 2014 7:28PM (UTC)_
-
-### kenwheeler/slick
-
-the last carousel you'll ever need
-
-- URL: <https://github.com/kenwheeler/slick>
-
-- Site: <kenwheeler.github.io/slick>
-
-- Pushed at: _Nov 18, 2014 4:54AM (UTC)_
-
-### dirkgroenen/jQuery-viewport-checker
-
-Little script that detects if an element is in the viewport and adds a class to it. Check the site for a demo
-
-- URL: <https://github.com/dirkgroenen/jQuery-viewport-checker>
-
-- Site: <http://dirkgroenen.github.io/jQuery-viewport-checker/>
-
-- Pushed at: _Dec 6, 2014 10:23PM (UTC)_
-
-### Aerolab/midnight.js
-
-A jQuery plugin to switch fixed headers on the fly
-
-- URL: <https://github.com/Aerolab/midnight.js>
-
-- Site: <http://aerolab.github.io/midnight.js/>
-
-- Pushed at: _Nov 25, 2014 9:45PM (UTC)_
-
-### GoogleCloudPlatform/gcloud-node
-
-Google Cloud Client Library for Node.js
-
-- URL: <https://github.com/GoogleCloudPlatform/gcloud-node>
-
-- Site: <https://googlecloudplatform.github.io/gcloud-node>
-
-- Pushed at: _Dec 10, 2014 6:02PM (UTC)_
-
-### paypal/accessible-html5-video-player
-
-Accessible HTML5 Video Player
-
-- URL: <https://github.com/paypal/accessible-html5-video-player>
-
-- Site: <http://paypal.github.io/accessible-html5-video-player/>
-
-- Pushed at: _Dec 3, 2014 9:36PM (UTC)_
-
-### NodeBB/NodeBB
-
-Node.js based forum software built for the modern web
-
-- URL: <https://github.com/NodeBB/NodeBB>
-
-- Site: <http://www.nodebb.org>
-
-- Pushed at: _Dec 11, 2014 3:17PM (UTC)_
-
-### sbstjn/timesheet.js
-
-JavaScript library for HTML5 & CSS3 time sheets
-
-- URL: <https://github.com/sbstjn/timesheet.js>
-
-- Site: <http://sbstjn.github.io/timesheet.js>
-
-- Pushed at: _Nov 2, 2014 11:52AM (UTC)_
-
-### erming/shout
-
-Web IRC client
-
-- URL: <https://github.com/erming/shout>
-
-- Site: <http://shout-irc.com/>
-
-- Pushed at: _Dec 11, 2014 11:37AM (UTC)_
-
-### gilbitron/Ideal-Image-Slider
-
-Quite simply the ideal Image Slider in vanilla JS.
-
-- URL: <https://github.com/gilbitron/Ideal-Image-Slider>
-
-- Site: <http://gilbitron.github.io/Ideal-Image-Slider>
-
-- Pushed at: _Oct 6, 2014 1:00PM (UTC)_
-
-### fouber/page-monitor
-
-capture webpage and diff the dom change with phantomjs  ♨
-
-- URL: <https://github.com/fouber/page-monitor>
-
-- Pushed at: _Sep 26, 2014 1:22PM (UTC)_
-
-### gionkunz/chartist-js
-
-Simple responsive charts
-
-- URL: <https://github.com/gionkunz/chartist-js>
-
-- Pushed at: _Dec 8, 2014 4:34PM (UTC)_
-
-### slap-editor/slap
-
-Sublime-like terminal-based text editor
-
-- URL: <https://github.com/slap-editor/slap>
-
-- Pushed at: _Dec 5, 2014 8:48AM (UTC)_
-
-### Countly/countly-server
-
-Countly Mobile Analytics & Push Notifications Server (Community Edition)
-
-- URL: <https://github.com/Countly/countly-server>
-
-- Site: <http://count.ly>
-
-- Pushed at: _Dec 7, 2014 3:17PM (UTC)_
-
-### mephux/komanda
-
-The IRC Client For Developers
-
-- URL: <https://github.com/mephux/komanda>
-
-- Site: <http://komanda.io>
-
-- Pushed at: _Nov 11, 2014 12:53PM (UTC)_
-
-### ruipgil/scraperjs
-
-A complete and versatile web scraper.
-
-- URL: <https://github.com/ruipgil/scraperjs>
-
-- Pushed at: _Sep 22, 2014 7:09PM (UTC)_
-
-### chintanbanugaria/92five
-
-Self hosted project management application
-
-- URL: <https://github.com/chintanbanugaria/92five>
-
-- Pushed at: _Dec 10, 2014 2:09PM (UTC)_
-
-### stellar/stellar-lib
-
-JS library to facilitate talking to stellard.
-
-- URL: <https://github.com/stellar/stellar-lib>
-
-- Pushed at: _Nov 1, 2014 1:57AM (UTC)_
-
-### antimatter15/ocrad.js
-
-OCR in Javascript via Emscripten
-
-- URL: <https://github.com/antimatter15/ocrad.js>
-
-- Site: <http://antimatter15.github.io/ocrad.js/demo.html>
-
-- Pushed at: _Nov 5, 2014 3:51PM (UTC)_
-
-### bitcoinjs/bitcoinjs-lib
-
-Bitcoin-related functions implemented in pure JavaScript
-
-- URL: <https://github.com/bitcoinjs/bitcoinjs-lib>
-
-- Site: <http://bitcoinjs.org>
-
-- Pushed at: _Dec 9, 2014 1:23AM (UTC)_
-
-### Prinzhorn/skrollr
-
-Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
-
-- URL: <https://github.com/Prinzhorn/skrollr>
-
-- Site: <http://prinzhorn.github.io/skrollr/>
-
-- Pushed at: _Nov 17, 2014 9:27AM (UTC)_
-
-### Wisembly/basil.js
-
-The missing Javascript smart persistent layer
-
-- URL: <https://github.com/Wisembly/basil.js>
-
-- Site: <http://wisembly.github.io/basil.js>
-
-- Pushed at: _Nov 13, 2014 2:18PM (UTC)_
-
-### request/request
-
-Simplified HTTP request client.
-
-- URL: <https://github.com/request/request>
-
-- Pushed at: _Dec 10, 2014 3:06PM (UTC)_
-
-### caolan/async
-
-Async utilities for node and the browser
-
-- URL: <https://github.com/caolan/async>
-
-- Pushed at: _Nov 30, 2014 10:45PM (UTC)_
-
-### cheeriojs/cheerio
-
-Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
-
-- URL: <https://github.com/cheeriojs/cheerio>
-
-- Site: <http://cheeriojs.github.io/cheerio/>
-
-- Pushed at: _Nov 9, 2014 5:10PM (UTC)_
-
-### mholt/PapaParse
-
-Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-
-- URL: <https://github.com/mholt/PapaParse>
-
-- Site: <http://PapaParse.com>
-
-- Pushed at: _Dec 4, 2014 8:58PM (UTC)_
-
-### urbanairship/tessera
-
-A dashboard front-end for graphite.  
-
-- URL: <https://github.com/urbanairship/tessera>
-
-- Site: <urbanairship.github.io/tessera/>
-
-- Pushed at: _Dec 4, 2014 3:50PM (UTC)_
-
-### ins0/AdminLTE
-
-AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
-
-- URL: <https://github.com/ins0/AdminLTE>
-
-- Site: <http://www.almsaeedstudio.com>
-
-- Pushed at: _Jul 10, 2014 1:47PM (UTC)_
-
-### jsonresume/resume-cli
-
-Install our command line tool, to easily setup a new resume.json. Once setup, you can export or publish straight from terminal
-
-- URL: <https://github.com/jsonresume/resume-cli>
-
-- Site: <http://jsonresume.org>
-
-- Pushed at: _Nov 18, 2014 2:56PM (UTC)_
-
-### darsain/sly
-
-JavaScript library for one-directional scrolling with item based navigation support.
-
-- URL: <https://github.com/darsain/sly>
-
-- Site: <http://darsa.in/sly>
-
-- Pushed at: _Nov 30, 2014 5:55PM (UTC)_
-
-### jeffharrell/minicart
-
-The minicart is a great way to improve your PayPal shopping cart integration.
-
-- URL: <https://github.com/jeffharrell/minicart>
-
-- Site: <http://minicartjs.com/>
-
-- Pushed at: _Jul 31, 2014 3:19AM (UTC)_
-
-### zeroclipboard/zeroclipboard
-
-The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
-
-- URL: <https://github.com/zeroclipboard/zeroclipboard>
-
-- Site: <http://zeroclipboard.org/>
-
-- Pushed at: _Nov 24, 2014 6:03PM (UTC)_
-
-### mikedeboer/node-github
-
-node library to access the GitHub API
-
-- URL: <https://github.com/mikedeboer/node-github>
-
-- Site: <http://mikedeboer.github.com/node-github/>
-
-- Pushed at: _Nov 18, 2014 10:52AM (UTC)_
-
-### vitorfs/bootcamp
-
-An enterprise social network
-
-- URL: <https://github.com/vitorfs/bootcamp>
-
-- Site: <trybootcamp.vitorfs.com>
-
-- Pushed at: _Jul 6, 2014 11:32AM (UTC)_
-
-### Laverna/laverna
-
-Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
-
-- URL: <https://github.com/Laverna/laverna>
-
-- Site: <https://laverna.cc/index.html>
-
-- Pushed at: _Dec 10, 2014 11:55AM (UTC)_
-
-### guillaumepotier/uwidget
-
-Universal Widget, easily display a API-distant collection of objects, with simple sorting and filters option.
-
-- URL: <https://github.com/guillaumepotier/uwidget>
-
-- Site: <http://guillaumepotier.github.io/uwidget/>
-
-- Pushed at: _Mar 4, 2014 10:37PM (UTC)_
-
-### ahuth/brackets-indentator
-
-Re-indent documents in Adobe Brackets according to your current tab settings
-
-- URL: <https://github.com/ahuth/brackets-indentator>
-
-- Pushed at: _May 12, 2014 9:41AM (UTC)_
-
-### zackshapiro/chrome-extension-template
-
-A blank Chrome extension with basic message handling
-
-- URL: <https://github.com/zackshapiro/chrome-extension-template>
-
-- Pushed at: _Apr 22, 2014 11:51PM (UTC)_
-
-### HabitRPG/habitrpg
-
-A habit tracker app which treats your goals like a Role Playing Game.
-
-- URL: <https://github.com/HabitRPG/habitrpg>
-
-- Site: <habitrpg.com>
-
-- Pushed at: _Dec 11, 2014 4:15PM (UTC)_
-
-### telerik/kendo-ui-core
-
-Kendo UI Core
-
-- URL: <https://github.com/telerik/kendo-ui-core>
-
-- Site: <http://www.telerik.com/kendo-ui>
-
-- Pushed at: _Dec 9, 2014 2:28PM (UTC)_
-
-### tripit/slate
-
-Beautiful static documentation for your API
-
-- URL: <https://github.com/tripit/slate>
-
-- Pushed at: _Dec 4, 2014 11:42PM (UTC)_
-
-### thedjpetersen/subway
-
-A web based IRC client with grand ambitions.
-
-- URL: <https://github.com/thedjpetersen/subway>
-
-- Pushed at: _Dec 4, 2014 8:35AM (UTC)_
-
-### kandanapp/kandan
-
-Kandan is an Open Source Alternative to HipChat
-
-- URL: <https://github.com/kandanapp/kandan>
-
-- Pushed at: _Dec 9, 2014 3:46PM (UTC)_
-
-### eternicode/bootstrap-datepicker
-
-A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode
-
-- URL: <https://github.com/eternicode/bootstrap-datepicker>
-
-- Pushed at: _Dec 10, 2014 9:24PM (UTC)_
-
-### andrewelkins/Laravel-4-Bootstrap-Starter-Site
-
-Laravel 4 Starter Site is a basic blog application using several nice community packages.
-
-- URL: <https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site>
-
-- Pushed at: _Dec 10, 2014 11:37PM (UTC)_
-
-### deployd/deployd
-
-a toolkit for building realtime APIs
-
-- URL: <https://github.com/deployd/deployd>
-
-- Site: <http://www.deployd.com>
-
-- Pushed at: _Dec 7, 2014 3:11PM (UTC)_
-
-### scoutapp/scout_realtime
-
-Realtime server metrics in your browser
-
-- URL: <https://github.com/scoutapp/scout_realtime>
-
-- Site: <http://scoutapp.github.io/scout_realtime/>
-
-- Pushed at: _Jun 27, 2014 5:21PM (UTC)_
-
-### OscarGodson/EpicEditor
-
-EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
-
-- URL: <https://github.com/OscarGodson/EpicEditor>
-
-- Site: <http://epiceditor.com>
-
-- Pushed at: _Dec 8, 2014 12:29PM (UTC)_
-
-### tojrobinson/jurassicsystems.com
-
-HTML5/JavaScript recreation of the original Jurassic Park movie computer system.
-
-- URL: <https://github.com/tojrobinson/jurassicsystems.com>
-
-- Site: <http://www.jurassicsystems.com>
-
-- Pushed at: _Oct 29, 2014 10:13AM (UTC)_
-
-### nodyn/nodyn
-
-A node.js compatible framework running on the JVM.
-
-- URL: <https://github.com/nodyn/nodyn>
-
-- Site: <http://nodyn.io>
-
-- Pushed at: _Dec 8, 2014 6:45PM (UTC)_
-
-### linkedin/hopscotch
-
-A framework to make it easy for developers to add product tours to their pages.
-
-- URL: <https://github.com/linkedin/hopscotch>
-
-- Pushed at: _Dec 10, 2014 7:58PM (UTC)_
-
-### holidayextras/hxTracer
-
-A dependency-free Javascript Tracer
-
-- URL: <https://github.com/holidayextras/hxTracer>
-
-- Pushed at: _Apr 9, 2014 8:00AM (UTC)_
-
-### Graylog2/graylog2-web-interface
-
-- URL: <https://github.com/Graylog2/graylog2-web-interface>
-
-- Site: <http://www.graylog2.org/>
-
-- Pushed at: _Dec 11, 2014 3:44PM (UTC)_
-
-### elasticsearch/kibana
-
-Kibana
-
-- URL: <https://github.com/elasticsearch/kibana>
-
-- Site: <http://www.elasticsearch.org/overview/kibana/>
-
-- Pushed at: _Dec 10, 2014 11:24PM (UTC)_
-
-### driftyco/ionic
-
-Advanced HTML5 mobile development framework and SDK. Build great hybrid apps with web technologies you already know and love. Best friends with AngularJS.
-
-- URL: <https://github.com/driftyco/ionic>
-
-- Site: <http://ionicframework.com/>
-
-- Pushed at: _Dec 11, 2014 3:15PM (UTC)_
-
-### driftyco/ionic-weather
-
-A simple Ionic Weather app
-
-- URL: <https://github.com/driftyco/ionic-weather>
-
-- Pushed at: _May 2, 2014 4:22PM (UTC)_
-
-### spolu/repl
-
-To JSON what Excel is to CSV
-
-- URL: <https://github.com/spolu/repl>
-
-- Pushed at: _May 2, 2014 4:38PM (UTC)_
-
-### fananta/Pumpkin
-
-User moderated open commenting system
-
-- URL: <https://github.com/fananta/Pumpkin>
-
-- Pushed at: _Feb 24, 2013 6:14PM (UTC)_
-
-### bitpay/insight
-
-A bitcoin blockchain API for web wallets. #bitcore on Freenode.
-
-- URL: <https://github.com/bitpay/insight>
-
-- Site: <http://insight.is>
-
-- Pushed at: _Nov 30, 2014 10:37PM (UTC)_
-
-### bitpay/bitcore
-
-A bitcoin library.
-
-- URL: <https://github.com/bitpay/bitcore>
-
-- Site: <http://bitcore.io>
-
-- Pushed at: _Dec 11, 2014 4:22PM (UTC)_
-
-### niftylettuce/node-email-templates
-
-Node.js module for rendering beautiful emails with ejs templates and email-friendly inline CSS using juice.
-
-- URL: <https://github.com/niftylettuce/node-email-templates>
-
-- Pushed at: _Oct 9, 2014 3:54PM (UTC)_
-
-### pstadler/flightplan
-
-Node.js library for streamlining application deployment or systems administration tasks.
-
-- URL: <https://github.com/pstadler/flightplan>
-
-- Site: <https://npmjs.org/package/flightplan>
-
-- Pushed at: _Dec 6, 2014 12:19PM (UTC)_
-
-### metaware/angularjs-form-builder
-
-A simple form builder application written with AngularJS.
-
-- URL: <https://github.com/metaware/angularjs-form-builder>
-
-- Site: < http://selmanh.github.io/angularjs-form-builder>
-
-- Pushed at: _Jan 25, 2014 3:41AM (UTC)_
-
-### zedshaw/jzed
-
-Functional Javascript alternative to JQuery.
-
-- URL: <https://github.com/zedshaw/jzed>
-
-- Pushed at: _Feb 14, 2014 6:34PM (UTC)_
-
-### facebook/react
-
-A declarative, efficient, and flexible JavaScript library for building user interfaces.
-
-- URL: <https://github.com/facebook/react>
-
-- Site: <http://facebook.github.io/react/>
-
-- Pushed at: _Dec 10, 2014 11:12PM (UTC)_
-
-### beatfactor/nightwatch
-
-UI automated testing framework based on node.js and selenium webdriver
-
-- URL: <https://github.com/beatfactor/nightwatch>
-
-- Site: <http://nightwatchjs.org>
-
-- Pushed at: _Dec 3, 2014 12:08AM (UTC)_
-
-### jefftimesten/mturk
-
-Mechanical Turk APi for Node
-
-- URL: <https://github.com/jefftimesten/mturk>
-
-- Pushed at: _Nov 7, 2014 3:24AM (UTC)_
-
-### arachnys/cabot
-
-Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-
-- URL: <https://github.com/arachnys/cabot>
-
-- Pushed at: _Dec 7, 2014 11:06PM (UTC)_
-
-### motdotla/kibble
-
-RESTful API on top of Dogecoin. So endpnts.
-
-- URL: <https://github.com/motdotla/kibble>
-
-- Pushed at: _Jan 26, 2014 12:06AM (UTC)_
-
-### videojs/video.js
-
-Video.js - open source HTML5 & Flash video player
-
-- URL: <https://github.com/videojs/video.js>
-
-- Site: <www.videojs.com>
-
-- Pushed at: _Dec 9, 2014 8:48PM (UTC)_
-
-### jaredhanson/passport
-
-Simple, unobtrusive authentication for Node.js.
-
-- URL: <https://github.com/jaredhanson/passport>
-
-- Site: <http://passportjs.org/>
-
-- Pushed at: _Aug 30, 2014 5:38PM (UTC)_
-
-### namuol/cheet.js
-
-easy easter eggs (konami code, etc) for your website.
-
-- URL: <https://github.com/namuol/cheet.js>
-
-- Site: <http://namuol.github.io/cheet.js>
-
-- Pushed at: _Nov 25, 2014 7:54PM (UTC)_
-
-### krakenjs/kraken-js
-
-An express-based Node.js web application bootstrapping module.
-
-- URL: <https://github.com/krakenjs/kraken-js>
-
-- Pushed at: _Dec 11, 2014 4:16PM (UTC)_
-
-### mailru/FileAPI
-
-FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
-
-- URL: <https://github.com/mailru/FileAPI>
-
-- Site: <http://mailru.github.io/FileAPI/>
-
-- Pushed at: _Dec 9, 2014 8:58AM (UTC)_
-
-### jseidelin/exif-js
-
-JavaScript library for reading EXIF image metadata
-
-- URL: <https://github.com/jseidelin/exif-js>
-
-- Pushed at: _Oct 23, 2014 3:16PM (UTC)_
-
-### occ/TraceKit
-
-Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.
-
-- URL: <https://github.com/occ/TraceKit>
-
-- Pushed at: _Oct 13, 2013 2:40AM (UTC)_
-
-### stacktracejs/stacktrace.js
-
-Framework-agnostic, micro-library for getting stack traces in all web browsers
-
-- URL: <https://github.com/stacktracejs/stacktrace.js>
-
-- Site: <http://www.stacktracejs.com/>
-
-- Pushed at: _Nov 28, 2014 7:40PM (UTC)_
-
-### itteco/iframely
-
-Self-Hosted API for Responsive Embeds (oEmbed, Twitter Cards, Open Graph, Readability and more)
-
-- URL: <https://github.com/itteco/iframely>
-
-- Site: <https://iframely.com>
-
-- Pushed at: _Dec 11, 2014 2:21PM (UTC)_
-
-### altryne/extensionizr
-
-Extensionizr! Create a chrome extension in 15 seconds!
-
-- URL: <https://github.com/altryne/extensionizr>
-
-- Site: <http://www.extensionizr.com>
-
-- Pushed at: _Feb 26, 2014 4:25PM (UTC)_
-
-### daviferreira/medium-editor
-
-Medium.com WYSIWYG editor clone.
-
-- URL: <https://github.com/daviferreira/medium-editor>
-
-- Site: <http://daviferreira.github.io/medium-editor/>
-
-- Pushed at: _Dec 9, 2014 12:07PM (UTC)_
-
-### hmert/jquery-event-playback
-
-Records and plays back mouse movements and events (useful for interactive demonstrations or tours)
-
-- URL: <https://github.com/hmert/jquery-event-playback>
-
-- Pushed at: _Sep 19, 2014 6:20PM (UTC)_
-
-### jimhigson/oboe.js
-
-A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
-
-- URL: <https://github.com/jimhigson/oboe.js>
-
-- Site: <http://oboejs.com>
-
-- Pushed at: _Dec 7, 2014 4:12PM (UTC)_
-
-### TryGhost/Ghost
-
-Just a blogging platform
-
-- URL: <https://github.com/TryGhost/Ghost>
-
-- Site: <https://ghost.org>
-
-- Pushed at: _Dec 11, 2014 3:20PM (UTC)_
-
-### marionettejs/backbone.marionette
-
-The Backbone framework
-
-- URL: <https://github.com/marionettejs/backbone.marionette>
-
-- Site: <http://marionettejs.com>
-
-- Pushed at: _Dec 11, 2014 12:23PM (UTC)_
-
-### linnovate/mean
-
-MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way
-
-- URL: <https://github.com/linnovate/mean>
-
-- Site: <http://mean.io>
-
-- Pushed at: _Dec 11, 2014 4:58AM (UTC)_
-
-### kenkeiter/skeuocard
-
-Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface.
-
-- URL: <https://github.com/kenkeiter/skeuocard>
-
-- Site: <http://kenkeiter.com/skeuocard/>
-
-- Pushed at: _Oct 8, 2014 7:33PM (UTC)_
-
-### NUKnightLab/TimelineJS
-
-TimelineJS: A Storytelling Timeline built in JavaScript. 
-
-- URL: <https://github.com/NUKnightLab/TimelineJS>
-
-- Site: <http://timeline.knightlab.com>
-
-- Pushed at: _Dec 9, 2014 6:59PM (UTC)_
-
-### swagger-api/swagger-ui
-
-Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-
-- URL: <https://github.com/swagger-api/swagger-ui>
-
-- Site: <http://swagger.io>
-
-- Pushed at: _Dec 10, 2014 6:25AM (UTC)_
-
-### allmarkedup/purl
-
-[NO LONGER MAINTAINED] A JS utility for for parsing URLs and extracting information out of them.
-
-- URL: <https://github.com/allmarkedup/purl>
-
-- Pushed at: _Nov 11, 2014 9:49AM (UTC)_
-
-### stylehatch/photoset-grid
-
-A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
-
-- URL: <https://github.com/stylehatch/photoset-grid>
-
-- Site: <http://stylehatch.github.com/photoset-grid/>
-
-- Pushed at: _Sep 24, 2014 7:34PM (UTC)_
-
-### louischatriot/nedb
-
-Embedded datastore for node.js
-
-- URL: <https://github.com/louischatriot/nedb>
-
-- Pushed at: _Dec 3, 2014 8:23AM (UTC)_
-
-### aluzzardi/wssh
-
-SSH to WebSockets Bridge
-
-- URL: <https://github.com/aluzzardi/wssh>
-
-- Pushed at: _Sep 23, 2014 9:05AM (UTC)_
-
-### usablica/widearea
-
-Create expandable textarea and write large amount of text easily.
-
-- URL: <https://github.com/usablica/widearea>
-
-- Site: <http://usablica.github.io/widearea/>
-
-- Pushed at: _Feb 7, 2014 7:44PM (UTC)_
-
-### mozilla/task.js
-
-Beautiful concurrency for JavaScript
-
-- URL: <https://github.com/mozilla/task.js>
-
-- Site: <http://taskjs.org>
-
-- Pushed at: _Nov 28, 2013 7:37AM (UTC)_
-
-### mindmup/bootstrap-wysiwyg
-
-Tiny bootstrap-compatible WISWYG rich text editor
-
-- URL: <https://github.com/mindmup/bootstrap-wysiwyg>
-
-- Pushed at: _Jul 29, 2013 10:18AM (UTC)_
-
-### acolangelo/jPanelMenu
-
-A jQuery plugin that creates a paneled-style menu (like the type seen in the mobile versions of Facebook and Google, as well as in many native iPhone applications).
-
-- URL: <https://github.com/acolangelo/jPanelMenu>
-
-- Site: <http://jpanelmenu.com>
-
-- Pushed at: _Nov 11, 2014 11:51PM (UTC)_
-
-### artberri/sidr
-
-Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive. 
-
-- URL: <https://github.com/artberri/sidr>
-
-- Site: <http://www.berriart.com/sidr/>
-
-- Pushed at: _Nov 6, 2013 4:32PM (UTC)_
-
-### bramp/js-sequence-diagrams
-
-Draws simple SVG sequence diagrams from textual representation of the diagram
-
-- URL: <https://github.com/bramp/js-sequence-diagrams>
-
-- Site: <http://bramp.github.io/js-sequence-diagrams/>
-
-- Pushed at: _Nov 24, 2014 7:13AM (UTC)_
-
-### airbnb/chronos
-
-Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
-
-- URL: <https://github.com/airbnb/chronos>
-
-- Pushed at: _Dec 5, 2014 10:41PM (UTC)_
-
-### HubSpot/messenger
-
-Growl-style alerts and messages for your app. #hubspot-open-source
-
-- URL: <https://github.com/HubSpot/messenger>
-
-- Site: <http://github.hubspot.com/messenger/>
-
-- Pushed at: _Oct 24, 2014 5:51PM (UTC)_
-
-### amoffat/bootstrap-application-wizard
-
-- URL: <https://github.com/amoffat/bootstrap-application-wizard>
-
-- Pushed at: _Feb 7, 2014 7:52AM (UTC)_
-
-### guillaumepotier/Parsley.js
-
-Validate your forms, frontend, without writing a single line of javascript
-
-- URL: <https://github.com/guillaumepotier/Parsley.js>
-
-- Site: <http://parsleyjs.org>
-
-- Pushed at: _Dec 11, 2014 3:54PM (UTC)_
-
-### amsul/pickadate.js
-
-The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
-
-- URL: <https://github.com/amsul/pickadate.js>
-
-- Site: <http://amsul.ca/pickadate.js>
-
-- Pushed at: _Dec 7, 2014 11:47PM (UTC)_
-
-### jschr/bootstrap-modal
-
-Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
-
-- URL: <https://github.com/jschr/bootstrap-modal>
-
-- Pushed at: _May 22, 2014 2:15PM (UTC)_
-
-### TelescopeJS/Telescope
-
-An open-source social news app built with Meteor
-
-- URL: <https://github.com/TelescopeJS/Telescope>
-
-- Site: <http://telesc.pe>
-
-- Pushed at: _Dec 11, 2014 6:36AM (UTC)_
-
-### bower/bower
-
-A package manager for the web
-
-- URL: <https://github.com/bower/bower>
-
-- Site: <bower.io>
-
-- Pushed at: _Dec 10, 2014 2:09PM (UTC)_
-
-### davidcrawford/typist-jquery
-
-Add animated text typing to any element.
-
-- URL: <https://github.com/davidcrawford/typist-jquery>
-
-- Pushed at: _Aug 8, 2012 12:39AM (UTC)_
-
-### layervault/jquery.typer.js
-
-A simple jQuery plugin for a slick typing effect.
-
-- URL: <https://github.com/layervault/jquery.typer.js>
-
-- Pushed at: _Aug 2, 2014 1:29AM (UTC)_
-
-### ducksboard/gridster.js
-
-gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns 
-
-- URL: <https://github.com/ducksboard/gridster.js>
-
-- Site: <http://gridster.net/>
-
-- Pushed at: _Sep 25, 2014 10:31AM (UTC)_
-
-### vimeo/tailgate
-
-Tailgate is a nodejs app to pipe `tail -F` into websockets.  It's a very simple way to have real-time access to your logs. 
-
-- URL: <https://github.com/vimeo/tailgate>
-
-- Pushed at: _Apr 11, 2014 5:07PM (UTC)_
-
-### segmentio/analytics.js
-
-The hassle-free way to integrate analytics into any web application.
-
-- URL: <https://github.com/segmentio/analytics.js>
-
-- Site: <https://segment.io/libraries/analytics.js>
-
-- Pushed at: _Dec 11, 2014 4:42AM (UTC)_
-
-### fabien-d/alertify.js
-
-JavaScript Alert/Notification System
-
-- URL: <https://github.com/fabien-d/alertify.js>
-
-- Site: <http://fabien-d.github.com/alertify.js/>
-
-- Pushed at: _Aug 4, 2014 1:22PM (UTC)_
-
-### wearefractal/pinger
-
-Native ICMP ping for node
-
-- URL: <https://github.com/wearefractal/pinger>
-
-- Pushed at: _Aug 5, 2013 9:37PM (UTC)_
-
-### alexeypro/crud-bones
-
-Sample CRUD application with Node.JS, using MySQL, Mongo and Redis. Basically, I am using it as a boilerplate (template, skeleton) for all new backend apps I start.
-
-- URL: <https://github.com/alexeypro/crud-bones>
-
-- Site: <http://words.alexeypro.com/crud-bones/>
-
-- Pushed at: _Apr 27, 2012 5:19AM (UTC)_
-
-### AVGP/Montagsmaler
-
-Draw something clone using node.js, socket.io.js and HTML5
-
-- URL: <https://github.com/AVGP/Montagsmaler>
-
-- Pushed at: _Jan 27, 2014 6:47PM (UTC)_
-
-### fzaninotto/screenshot-as-a-service
-
-Website screenshot service powered by node.js and phantomjs
-
-- URL: <https://github.com/fzaninotto/screenshot-as-a-service>
-
-- Pushed at: _Jun 25, 2014 4:03PM (UTC)_
-
-### saw/Canvas-ASCII-Art
-
-Make ascii art with canvas
-
-- URL: <https://github.com/saw/Canvas-ASCII-Art>
-
-- Pushed at: _Mar 24, 2012 5:19AM (UTC)_
-
-### laktek/punch
-
-A fun and easy way to build modern websites
-
-- URL: <https://github.com/laktek/punch>
-
-- Site: <http://laktek.github.com/punch>
-
-- Pushed at: _Dec 7, 2014 12:52AM (UTC)_
-
-### triceam/app-UI
-
-app-UI is a collection of user interface components that may be helpful to web and mobile developers for creating interactive applications using HTML and JavaScript, especially those targeting mobile devices.  app-UI is a continual work in progress - it was born out of the necessity to have rich & native-feeling interfaces in HTML/JS experiences, and it works great with PhoneGap applications (http://www.phonegap.com).  app-UI can easily be styled/customized using CSS.
-
-- URL: <https://github.com/triceam/app-UI>
-
-- Site: <http://triceam.github.com/app-UI/>
-
-- Pushed at: _Feb 8, 2013 9:39PM (UTC)_
-
-### adamdbradley/foresight.js
-
-DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
-
-- URL: <https://github.com/adamdbradley/foresight.js>
-
-- Site: <http://www.cdnconnect.com/docs/foresightjs>
-
-- Pushed at: _Sep 10, 2014 7:54PM (UTC)_
-
-### ivaynberg/select2
-
-Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-
-- URL: <https://github.com/ivaynberg/select2>
-
-- Site: <http://ivaynberg.github.com/select2/>
-
-- Pushed at: _Dec 11, 2014 3:56PM (UTC)_
-
-### rogerbraun/HNBayes
-
-A client-side naive Bayes classifier for Hacker News
-
-- URL: <https://github.com/rogerbraun/HNBayes>
-
-- Pushed at: _Feb 21, 2012 12:25PM (UTC)_
-
-### blasten/turn.js
-
-The page flip effect for HTML5
-
-- URL: <https://github.com/blasten/turn.js>
-
-- Site: <www.turnjs.com>
-
-- Pushed at: _May 4, 2013 3:19PM (UTC)_
-
-### TooTallNate/ansi.js
-
-Advanced ANSI formatting tool for Node.js
-
-- URL: <https://github.com/TooTallNate/ansi.js>
-
-- Pushed at: _Oct 20, 2014 4:56AM (UTC)_
-
-### meteor/meteor
-
-Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
-
-- URL: <https://github.com/meteor/meteor>
-
-- Site: <www.meteor.com>
-
-- Pushed at: _Dec 11, 2014 8:41AM (UTC)_
-
-### atdt/escapes.js
-
-Render ANSI art using HTML5 / JavaScript
-
-- URL: <https://github.com/atdt/escapes.js>
-
-- Site: <http://atdt.github.com/escapes.js/>
-
-- Pushed at: _Sep 9, 2013 9:24AM (UTC)_
-
-### fzaninotto/uptime
-
-A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap.
-
-- URL: <https://github.com/fzaninotto/uptime>
-
-- Site: <http://fzaninotto.github.com/uptime/>
-
-- Pushed at: _May 27, 2014 12:33PM (UTC)_
-
-### calmh/node-snmp-native
-
-Native Javascript SNMP library for Node.js
-
-- URL: <https://github.com/calmh/node-snmp-native>
-
-- Pushed at: _Aug 2, 2014 6:08AM (UTC)_
-
-### bartaz/impress.js
-
-It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-
-- URL: <https://github.com/bartaz/impress.js>
-
-- Site: <http://bartaz.github.com/impress.js>
-
-- Pushed at: _Oct 1, 2014 7:40AM (UTC)_
-
-### ckrack/fbootstrapp
-
-HTML, CSS, and JS toolkit for facebook apps
-
-- URL: <https://github.com/ckrack/fbootstrapp>
-
-- Site: <http://ckrack.github.com/fbootstrapp/>
-
-- Pushed at: _Jan 17, 2012 4:16PM (UTC)_
-
-### enyojs/enyo
-
-A JavaScript application framework emphasizing modularity and encapsulation
-
-- URL: <https://github.com/enyojs/enyo>
-
-- Pushed at: _Dec 11, 2014 11:48AM (UTC)_
-
-### adobe/brackets
-
-An open source code editor for the web, written in JavaScript, HTML and CSS.
-
-- URL: <https://github.com/adobe/brackets>
-
-- Site: <http://brackets.io>
-
-- Pushed at: _Dec 11, 2014 4:14PM (UTC)_
-
-### iloire/WatchMen
-
-A Node.js service monitor
-
-- URL: <https://github.com/iloire/WatchMen>
-
-- Pushed at: _Oct 14, 2014 9:58PM (UTC)_
-
-### jeanphix/Ghost.py
-
-Webkit based scriptable web browser for python. 
-
-- URL: <https://github.com/jeanphix/Ghost.py>
-
-- Site: <http://ghost-py.readthedocs.org/en/latest/>
-
-- Pushed at: _Dec 9, 2014 11:26AM (UTC)_
-
-### tbranyen/backbone.layoutmanager
-
-A layout and template manager for Backbone.js applications.
-
-- URL: <https://github.com/tbranyen/backbone.layoutmanager>
-
-- Site: <http://layoutmanager.org/>
-
-- Pushed at: _Nov 10, 2014 3:07PM (UTC)_
-
-### lokesh/color-thief
-
-Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
-
-- URL: <https://github.com/lokesh/color-thief>
-
-- Pushed at: _Apr 17, 2014 6:42PM (UTC)_
-
-### okfn/recline
-
-A simple but powerful library for building data applications in pure Javascript and HTML.
-
-- URL: <https://github.com/okfn/recline>
-
-- Site: <http://okfnlabs.org/recline/>
-
-- Pushed at: _Nov 3, 2014 9:59AM (UTC)_
-
-### square/cube
-
-Cube: A system for time series visualization.
-
-- URL: <https://github.com/square/cube>
-
-- Site: <http://square.github.com/cube>
-
-- Pushed at: _Jul 30, 2014 9:42PM (UTC)_
-
-### n1k0/casperjs
-
-Navigation scripting & testing utility for PhantomJS and SlimerJS
-
-- URL: <https://github.com/n1k0/casperjs>
-
-- Site: <http://casperjs.org/>
-
-- Pushed at: _Nov 21, 2014 9:25PM (UTC)_
-
-### madrobby/keymaster
-
-A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.
-
-- URL: <https://github.com/madrobby/keymaster>
-
-- Pushed at: _Jul 2, 2014 10:56PM (UTC)_
-
-### candy-chat/candy
-
-JavaScript-based multi-user chat client for XMPP.
-
-- URL: <https://github.com/candy-chat/candy>
-
-- Site: <http://candy-chat.github.io/candy>
-
-- Pushed at: _Dec 4, 2014 5:42PM (UTC)_
-
-### HumbleSoftware/Flotr2
-
-Graphs and Charts for Canvas in JavaScript.
-
-- URL: <https://github.com/HumbleSoftware/Flotr2>
-
-- Site: <http://www.humblesoftware.com/flotr2/>
-
-- Pushed at: _Jul 21, 2014 6:45PM (UTC)_
-
-### mjackson/strata
-
-A modular, streaming HTTP server for node.js
-
-- URL: <https://github.com/mjackson/strata>
-
-- Site: <http://stratajs.org>
-
-- Pushed at: _Jul 4, 2014 8:39PM (UTC)_
-
-### bgaff/vnc.js
-
-A JavaScript VNC Client
-
-- URL: <https://github.com/bgaff/vnc.js>
-
-- Pushed at: _Jul 27, 2013 2:43AM (UTC)_
-
-### bgaff/tcp.js
-
-A NodeJS library which proxies TCP connections, used by vnc.js
-
-- URL: <https://github.com/bgaff/tcp.js>
-
-- Pushed at: _Jul 27, 2013 2:43AM (UTC)_
-
-### recurly/recurly-js
-
-Simple subscription billing in the browser
-
-- URL: <https://github.com/recurly/recurly-js>
-
-- Site: <http://js.recurly.com/>
-
-- Pushed at: _Nov 14, 2014 11:01PM (UTC)_
-
-### alexgorbatchev/jquery-textext
-
-A super awesome, customizable text input supporting tags, autocomplete, ajax and other goodness in a crazy cool a-la cart way.
-
-- URL: <https://github.com/alexgorbatchev/jquery-textext>
-
-- Site: <http://textextjs.com>
-
-- Pushed at: _Aug 7, 2013 5:01PM (UTC)_
-
-### niklasvh/html2canvas
-
-Screenshots with JavaScript
-
-- URL: <https://github.com/niklasvh/html2canvas>
-
-- Site: <http://html2canvas.hertzen.com/>
-
-- Pushed at: _Dec 6, 2014 4:17PM (UTC)_
-
-### tastejs/todomvc
-
-Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more
-
-- URL: <https://github.com/tastejs/todomvc>
-
-- Site: <http://todomvc.com>
-
-- Pushed at: _Dec 9, 2014 7:21PM (UTC)_
-
-### emberjs/ember.js
-
-Ember.js - A JavaScript framework for creating ambitious web applications
-
-- URL: <https://github.com/emberjs/ember.js>
-
-- Site: <http://www.emberjs.com>
-
-- Pushed at: _Dec 11, 2014 3:47AM (UTC)_
-
-### imakewebthings/deck.js
-
-Modern HTML Presentations
-
-- URL: <https://github.com/imakewebthings/deck.js>
-
-- Site: <http://imakewebthings.github.com/deck.js>
-
-- Pushed at: _Jan 22, 2014 10:25PM (UTC)_
-
-### photo/frontend
-
-The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
-
-- URL: <https://github.com/photo/frontend>
-
-- Site: <https://trovebox.com>
-
-- Pushed at: _Oct 14, 2014 6:30AM (UTC)_
-
-### NaturalNode/natural
-
-general natural language facilities for node
-
-- URL: <https://github.com/NaturalNode/natural>
-
-- Pushed at: _Dec 2, 2014 5:04AM (UTC)_
-
-### mozilla/pdf.js
-
-PDF Reader in JavaScript
-
-- URL: <https://github.com/mozilla/pdf.js>
-
-- Pushed at: _Dec 9, 2014 5:58AM (UTC)_
-
-### mcavage/node-restify
-
-node.js REST framework specifically meant for web service APIs
-
-- URL: <https://github.com/mcavage/node-restify>
-
-- Site: <http://mcavage.github.com/node-restify>
-
-- Pushed at: _Dec 1, 2014 1:07AM (UTC)_
-
-### uipoet/sublime-jshint
-
-JSHint any JavaScript file in Sublime Text 2
-
-- URL: <https://github.com/uipoet/sublime-jshint>
-
-- Pushed at: _Feb 10, 2014 9:46AM (UTC)_
-
-### danielsim/FFFFind
-
-Node.js FFFFound.com crawler
-
-- URL: <https://github.com/danielsim/FFFFind>
-
-- Pushed at: _Apr 12, 2011 1:34AM (UTC)_
-
-### derbyjs/derby
-
-MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
-
-- URL: <https://github.com/derbyjs/derby>
-
-- Site: <http://derbyjs.com>
-
-- Pushed at: _Dec 4, 2014 1:48AM (UTC)_
-
-### mikebrittain/linkedinresumes
-
-Bookmarklet for turning LinkedIn profiles into something that looks more like a resume
-
-- URL: <https://github.com/mikebrittain/linkedinresumes>
-
-- Site: <http://www.mikebrittain.com/linkedin/>
-
-- Pushed at: _Mar 23, 2011 3:20AM (UTC)_
-
-### mochajs/mocha
-
-mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)
-
-- URL: <https://github.com/mochajs/mocha>
-
-- Site: <http://mochajs.org>
-
-- Pushed at: _Dec 11, 2014 6:59AM (UTC)_
-
-### facebookarchive/Realtime-Demo
-
-Instagram Real-time API Demo
-
-- URL: <https://github.com/facebookarchive/Realtime-Demo>
-
-- Site: <http://demo.instagram.com>
-
-- Pushed at: _Feb 24, 2011 9:53AM (UTC)_
-
-### appendto/amplify
-
-AmplifyJS
-
-- URL: <https://github.com/appendto/amplify>
-
-- Site: <http://amplifyjs.com>
-
-- Pushed at: _Aug 8, 2014 5:19PM (UTC)_
-
-### aehlke/tag-it
-
-A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
-
-- URL: <https://github.com/aehlke/tag-it>
-
-- Site: <http://aehlke.github.com/tag-it/>
-
-- Pushed at: _Nov 18, 2014 4:09PM (UTC)_
-
-### mapchat/mapchat
-
-Install this couchapp on your CouchOne instance to be able to chat friends, discuss events on a map
-
-- URL: <https://github.com/mapchat/mapchat>
-
-- Site: <http://mapchat.me/>
-
-- Pushed at: _Jan 7, 2012 5:44PM (UTC)_
-
-### alexmic/filtrr
-
-Javascript image filters library.
-
-- URL: <https://github.com/alexmic/filtrr>
-
-- Site: <http://filtrr.me>
-
-- Pushed at: _Nov 13, 2013 12:00AM (UTC)_
-
-### ptwobrussell/Recipes-for-Mining-Twitter
-
-Adaptations and Extensions of Twitter-Related Examples from Mining the Social Web
-
-- URL: <https://github.com/ptwobrussell/Recipes-for-Mining-Twitter>
-
-- Site: <http://amzn.to/d1Ci8A>
-
-- Pushed at: _Sep 3, 2013 2:31PM (UTC)_
-
-### jshint/jshint
-
-JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
-
-- URL: <https://github.com/jshint/jshint>
-
-- Site: <http://jshint.com>
-
-- Pushed at: _Dec 4, 2014 8:01PM (UTC)_
-
-### socketstream/socketstream
-
-A framework for Realtime Web Apps
-
-- URL: <https://github.com/socketstream/socketstream>
-
-- Site: <http://socketstream.com>
-
-- Pushed at: _Dec 6, 2014 4:32PM (UTC)_
-
-### mape/node-scraper
-
-Easier web scraping using node.js and jQuery
-
-- URL: <https://github.com/mape/node-scraper>
-
-- Pushed at: _Sep 2, 2011 2:27AM (UTC)_
-
-### twitter/twitter-text-js
-
-A JavaScript implementation of Twitter's text processing library
-
-- URL: <https://github.com/twitter/twitter-text-js>
-
-- Pushed at: _Dec 4, 2014 7:07PM (UTC)_
-
-### douglascrockford/JSON-js
-
-JSON in JavaScript
-
-- URL: <https://github.com/douglascrockford/JSON-js>
-
-- Site: <http://www.JSON.org/>
-
-- Pushed at: _Feb 4, 2014 8:45PM (UTC)_
-
-### chriso/node.io
-
-A scraping framework for node.js
-
-- URL: <https://github.com/chriso/node.io>
-
-- Site: <http://node.io/>
-
-- Pushed at: _Dec 4, 2014 1:52AM (UTC)_
-
-### ptwobrussell/Mining-the-Social-Web
-
-The official online compendium for Mining the Social Web (O'Reilly, 2011)
-
-- URL: <https://github.com/ptwobrussell/Mining-the-Social-Web>
-
-- Site: <http://bit.ly/135dHfs>
-
-- Pushed at: _Oct 18, 2013 1:41PM (UTC)_
-
-### ajaxorg/ace
-
-Ace (Ajax.org Cloud9 Editor)
-
-- URL: <https://github.com/ajaxorg/ace>
-
-- Site: <http://ace.c9.io>
-
-- Pushed at: _Dec 10, 2014 7:11PM (UTC)_
-
-### jashkenas/backbone
-
-Give your JS App some Backbone with Models, Views, Collections, and Events
-
-- URL: <https://github.com/jashkenas/backbone>
-
-- Site: <http://backbonejs.org>
-
-- Pushed at: _Dec 8, 2014 12:36PM (UTC)_
-
-### madrobby/zepto
-
-Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
-
-- URL: <https://github.com/madrobby/zepto>
-
-- Site: <http://zeptojs.com>
-
-- Pushed at: _Dec 11, 2014 3:10PM (UTC)_
-
-### mishoo/UglifyJS
-
-JavaScript parser / mangler / compressor / beautifier library for NodeJS
-
-- URL: <https://github.com/mishoo/UglifyJS>
-
-- Site: <http://marijn.haverbeke.nl/uglifyjs>
-
-- Pushed at: _Feb 20, 2014 6:45AM (UTC)_
-
-### xui/xui
-
-A tiny javascript framework for mobile web apps. 
-
-- URL: <https://github.com/xui/xui>
-
-- Site: <http://xuijs.com>
-
-- Pushed at: _Jan 28, 2014 6:16PM (UTC)_
-
-### simplegeo/simplegeo.js
-
-JavaScript client for SimpleGeo
-
-- URL: <https://github.com/simplegeo/simplegeo.js>
-
-- Pushed at: _Sep 14, 2011 12:35AM (UTC)_
-
-### benschwarz/currency.io
-
-An offline-capable, html5 currency converter app for the iPhone
-
-- URL: <https://github.com/benschwarz/currency.io>
-
-- Site: <currency.io>
-
-- Pushed at: _Sep 13, 2011 4:19AM (UTC)_
-
-### sequelize/sequelize
-
-Sequelize is an easy-to-use multi sql dialect object-relationship-mapper for node.js. It currently supports MySQL, MariaDB, SQLite, PostgreSQL and MSSQL.
-
-- URL: <https://github.com/sequelize/sequelize>
-
-- Site: <http://sequelizejs.com>
-
-- Pushed at: _Dec 11, 2014 2:24PM (UTC)_
-
-### fogbeam/Quoddy
-
-Quoddy: Open Source Enterprise Social Networking
-
-- URL: <https://github.com/fogbeam/Quoddy>
-
-- Site: <http://code.google.com/p/quoddy>
-
-- Pushed at: _Oct 20, 2014 9:08PM (UTC)_
-
-### knockout/knockout
-
-Knockout makes it easier to create rich, responsive UIs with JavaScript
-
-- URL: <https://github.com/knockout/knockout>
-
-- Site: <http://knockoutjs.com/>
-
-- Pushed at: _Dec 6, 2014 1:24AM (UTC)_
-
-### robflaherty/html-slideshow
-
-Lightweight HTML5-based slideshow 
-
-- URL: <https://github.com/robflaherty/html-slideshow>
-
-- Pushed at: _Sep 4, 2011 2:32PM (UTC)_
-
-### paulirish/infinite-scroll
-
-jQuery and Wordpress plugins for infinite scroll
-
-- URL: <https://github.com/paulirish/infinite-scroll>
-
-- Site: <http://www.infinite-scroll.com>
-
-- Pushed at: _Nov 23, 2014 7:42PM (UTC)_
-
-### davejohnson/phonegap-windows
-
-PhoneGap wrapper for running HTML5 apps as native Windows desktop apps
-
-- URL: <https://github.com/davejohnson/phonegap-windows>
-
-- Site: <http://www.phonegap.com>
-
-- Pushed at: _Oct 30, 2011 7:14PM (UTC)_
-
-### LearnBoost/mongoose
-
-MongoDB object modeling designed to work in an asynchronous environment.
-
-- URL: <https://github.com/LearnBoost/mongoose>
-
-- Site: <http://mongoosejs.com>
-
-- Pushed at: _Dec 10, 2014 9:07PM (UTC)_
-
-### embedly/embedly-jquery
-
-JQuery Library for Embedly. 
-
-- URL: <https://github.com/embedly/embedly-jquery>
-
-- Site: <http://embedly.github.com/embedly-jquery/>
-
-- Pushed at: _Dec 9, 2014 6:40PM (UTC)_
-
-### Automattic/socket.io
-
-Realtime application framework (Node.JS server)
-
-- URL: <https://github.com/Automattic/socket.io>
-
-- Site: <http://socket.io>
-
-- Pushed at: _Dec 8, 2014 9:20AM (UTC)_
-
-### endtwist/AjaxIM
-
-instant messaging framework
-
-- URL: <https://github.com/endtwist/AjaxIM>
-
-- Site: <http://ajaxim.com>
-
-- Pushed at: _May 19, 2014 7:40PM (UTC)_
-
-### h5bp/html5-boilerplate
-
-A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-- URL: <https://github.com/h5bp/html5-boilerplate>
-
-- Site: <http://html5boilerplate.com/>
-
-- Pushed at: _Dec 8, 2014 3:38PM (UTC)_
-
-### mongodb/node-mongodb-native
-
-Mongo DB Native NodeJS Driver
-
-- URL: <https://github.com/mongodb/node-mongodb-native>
-
-- Site: <http://mongodb.github.com/node-mongodb-native/>
-
-- Pushed at: _Dec 9, 2014 11:35AM (UTC)_
-
-### angular/angular.js
-
-HTML enhanced for web apps
-
-- URL: <https://github.com/angular/angular.js>
-
-- Site: <http://angularjs.org>
-
-- Pushed at: _Dec 11, 2014 2:11AM (UTC)_
-
-### desandro/masonry
-
-Cascading grid layout library
-
-- URL: <https://github.com/desandro/masonry>
-
-- Site: <http://masonry.desandro.com>
-
-- Pushed at: _Nov 26, 2014 5:32PM (UTC)_
-
-### benpickles/peity
-
-Progressive <svg> pie, donut, bar and line charts
-
-- URL: <https://github.com/benpickles/peity>
-
-- Site: <http://benpickles.github.io/peity>
-
-- Pushed at: _Oct 22, 2014 9:51AM (UTC)_
-
-### voloko/uki
-
-Simple UiKit for complex web apps
-
-- URL: <https://github.com/voloko/uki>
-
-- Site: <http://ukijs.org>
-
-- Pushed at: _Jul 12, 2012 1:54AM (UTC)_
-
-### Modernizr/Modernizr
-
-Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-
-- URL: <https://github.com/Modernizr/Modernizr>
-
-- Site: <http://modernizr.com>
-
-- Pushed at: _Dec 7, 2014 4:58AM (UTC)_
-
-### phacility/javelin
-
-Large, bloated Javascript framework with an unintuitive, verbose syntax and very few features. Browsing its inelegant, poorly written source is an unwelcome experience.
-
-- URL: <https://github.com/phacility/javelin>
-
-- Site: <http://www.javelinjs.com/>
-
-- Pushed at: _Jul 3, 2014 1:52AM (UTC)_
-
-### strongloop/express
-
-Fast, unopinionated, minimalist web framework for node.
-
-- URL: <https://github.com/strongloop/express>
-
-- Site: <http://expressjs.com>
-
-- Pushed at: _Dec 11, 2014 4:53AM (UTC)_
-
-### metajack/strophejs
-
-The Strophe.js repository has moved to https://github.com/strophe/strophejs
-
-- URL: <https://github.com/metajack/strophejs>
-
-- Site: <http://strophe.im/strophejs>
-
-- Pushed at: _Apr 30, 2013 4:41PM (UTC)_
-
-### scaron/prettyphoto
-
-prettyPhoto is a jQuery based lightbox clone. Not only does it support images, it also add support for videos, flash, YouTube, iFrames. It’s a full blown media lightbox. The setup is easy and quick, plus the script is compatible in every major browser.
-
-- URL: <https://github.com/scaron/prettyphoto>
-
-- Site: <http://www.no-margin-for-errors.com/projects/prettyPhoto-jquery-lightbox-clone/>
-
-- Pushed at: _Mar 19, 2013 2:01PM (UTC)_
-
-### jackmoore/colorbox
-
-A light-weight, customizable lightbox plugin for jQuery
-
-- URL: <https://github.com/jackmoore/colorbox>
-
-- Site: <http://www.jacklmoore.com/colorbox/>
-
-- Pushed at: _Dec 9, 2014 3:49PM (UTC)_
-
-### jquery/sizzle
-
-A sizzlin' hot selector engine.
-
-- URL: <https://github.com/jquery/sizzle>
-
-- Site: <http://sizzlejs.com/>
-
-- Pushed at: _Dec 1, 2014 5:27PM (UTC)_
-
-## [CSS](id:css)
-
-33 repositories
-### matthieua/WOW
-
-Reveal CSS animation as you scroll down a page
-
-- URL: <https://github.com/matthieua/WOW>
-
-- Site: <http://mynameismatthieu.com/WOW/>
-
-- Pushed at: _Dec 10, 2014 12:39PM (UTC)_
-
-### dhg/Skeleton
-
-Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
-
-- URL: <https://github.com/dhg/Skeleton>
-
-- Site: <http://www.getskeleton.com>
-
-- Pushed at: _Dec 10, 2014 12:43AM (UTC)_
-
-### scotthasbrouck/HackerSurf
-
-All the hacker jobs in one place.
-
-- URL: <https://github.com/scotthasbrouck/HackerSurf>
-
-- Pushed at: _Dec 9, 2014 9:16PM (UTC)_
-
-### codrops/HoverEffectIdeas
-
-Some inspiration and modern ideas for subtle hover effects.
-
-- URL: <https://github.com/codrops/HoverEffectIdeas>
-
-- Pushed at: _Oct 31, 2014 9:24PM (UTC)_
-
-### 10up/Engineering-Best-Practices
-
-10up Engineering Best Practices
-
-- URL: <https://github.com/10up/Engineering-Best-Practices>
-
-- Pushed at: _Dec 1, 2014 3:23PM (UTC)_
-
-### lipis/bootstrap-sweetalert
-
-A beautiful "replacement" for JavaScript's alert
-
-- URL: <https://github.com/lipis/bootstrap-sweetalert>
-
-- Site: <https://lipis.github.io/bootstrap-sweetalert/>
-
-- Pushed at: _Nov 20, 2014 8:18PM (UTC)_
-
-### google/material-design-icons
-
-Material Design icons by Google
-
-- URL: <https://github.com/google/material-design-icons>
-
-- Site: <http://google.com/design/spec>
-
-- Pushed at: _Nov 29, 2014 7:35PM (UTC)_
-
-### t4t5/sweetalert
-
-A beautiful replacement for JavaScript's "alert"
-
-- URL: <https://github.com/t4t5/sweetalert>
-
-- Pushed at: _Nov 9, 2014 10:34AM (UTC)_
-
-### FezVrasta/bootstrap-material-design
-
-Material design theme for Bootstrap 3
-
-- URL: <https://github.com/FezVrasta/bootstrap-material-design>
-
-- Site: <http://fezvrasta.github.io/bootstrap-material-design/>
-
-- Pushed at: _Dec 10, 2014 7:33PM (UTC)_
-
-### kitematic/kitematic
-
-Simple Docker management for Mac
-
-- URL: <https://github.com/kitematic/kitematic>
-
-- Site: <https://kitematic.com>
-
-- Pushed at: _Dec 11, 2014 3:31AM (UTC)_
-
-### kristopolous/BOOTSTRA.386
-
-A Twitter Bootstrap theme to make webpages look like they are from the 1980s. 
-
-- URL: <https://github.com/kristopolous/BOOTSTRA.386>
-
-- Pushed at: _Oct 17, 2014 8:49PM (UTC)_
-
-### twbs/ratchet
-
-Build mobile apps with simple HTML, CSS, and JS components. 
-
-- URL: <https://github.com/twbs/ratchet>
-
-- Site: <http://goratchet.com>
-
-- Pushed at: _Nov 13, 2014 7:14AM (UTC)_
-
-### jazzychad/PushServer
-
-nodejs server for sending Apple APNS push notifications
-
-- URL: <https://github.com/jazzychad/PushServer>
-
-- Pushed at: _Apr 29, 2014 6:43PM (UTC)_
-
-### asciimoo/searx
-
-A privacy-respecting, hackable metasearch engine
-
-- URL: <https://github.com/asciimoo/searx>
-
-- Site: <https://searx.me/>
-
-- Pushed at: _Dec 11, 2014 2:29PM (UTC)_
-
-### bootflat/bootflat.github.io
-
-BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
-
-- URL: <https://github.com/bootflat/bootflat.github.io>
-
-- Site: <http://bootflat.github.io>
-
-- Pushed at: _Dec 6, 2014 6:12PM (UTC)_
-
-### mdo/code-guide
-
-Standards for flexible, durable, and sustainable HTML and CSS.
-
-- URL: <https://github.com/mdo/code-guide>
-
-- Site: <http://codeguide.co>
-
-- Pushed at: _Sep 26, 2014 2:00AM (UTC)_
-
-### afaqurk/linux-dash
-
-A drop-in, low-overhead monitoring web dashboard for a linux machine.
-
-- URL: <https://github.com/afaqurk/linux-dash>
-
-- Pushed at: _Dec 11, 2014 2:18PM (UTC)_
-
-### sahat/hackathon-starter
-
-A boilerplate for Node.js web applications
-
-- URL: <https://github.com/sahat/hackathon-starter>
-
-- Site: <http://hackathonstarter.herokuapp.com>
-
-- Pushed at: _Nov 30, 2014 12:14AM (UTC)_
-
-### Pixelkit/PixelKit-Bootstrap-UI-Kits
-
-Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
-
-- URL: <https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits>
-
-- Site: < http://pixelkit.com/free-ui-kits/>
-
-- Pushed at: _May 23, 2014 8:24AM (UTC)_
-
-### songz/OpenTokRTC
-
-WebRTC Demo using OpenTok's WebRTC library
-
-- URL: <https://github.com/songz/OpenTokRTC>
-
-- Pushed at: _Oct 25, 2013 11:56PM (UTC)_
-
-### h5bp/Effeckt.css
-
-A Performant Transitions and Animations Library
-
-- URL: <https://github.com/h5bp/Effeckt.css>
-
-- Site: <http://h5bp.github.io/Effeckt.css>
-
-- Pushed at: _Oct 21, 2014 2:57AM (UTC)_
-
-### divshot/geo-bootstrap
-
-A timeless Twitter Bootstrap theme built for the modern web.
-
-- URL: <https://github.com/divshot/geo-bootstrap>
-
-- Site: <http://divshot.github.com/geo-bootstrap>
-
-- Pushed at: _Aug 6, 2014 7:12PM (UTC)_
-
-### ThisIsDallas/Simple-Grid
-
-A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/
-
-- URL: <https://github.com/ThisIsDallas/Simple-Grid>
-
-- Pushed at: _Jun 25, 2014 4:19PM (UTC)_
-
-### nkrode/RedisLive
-
-Visualize your redis instances, analyze query patterns and spikes. 
-
-- URL: <https://github.com/nkrode/RedisLive>
-
-- Site: <http://www.nkrode.com/article/real-time-dashboard-for-redis>
-
-- Pushed at: _Dec 5, 2014 3:55AM (UTC)_
-
-### daylerees/colour-schemes
-
-Colour schemes for a variety of editors created by Dayle Rees.
-
-- URL: <https://github.com/daylerees/colour-schemes>
-
-- Site: <http://daylerees.github.io>
-
-- Pushed at: _Mar 21, 2014 11:04PM (UTC)_
-
-### ajkochanowicz/kickstart
-
-Kickstrap is an extension framework for Bootstrap with themes, apps, and other enhancements.
-
-- URL: <https://github.com/ajkochanowicz/kickstart>
-
-- Site: <http://getkickstrap.com>
-
-- Pushed at: _Dec 3, 2014 8:53PM (UTC)_
-
-### FortAwesome/Font-Awesome
-
-The iconic font and CSS toolkit
-
-- URL: <https://github.com/FortAwesome/Font-Awesome>
-
-- Site: <http://fontawesome.io>
-
-- Pushed at: _Dec 10, 2014 6:03PM (UTC)_
-
-### zurb/foundation
-
-The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites and apps that work on any kind of device.
-
-- URL: <https://github.com/zurb/foundation>
-
-- Site: <http://foundation.zurb.com>
-
-- Pushed at: _Dec 10, 2014 11:51PM (UTC)_
-
-### gravityonmars/Balloons.IO
-
-Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook
-
-- URL: <https://github.com/gravityonmars/Balloons.IO>
-
-- Site: <http://balloons.io>
-
-- Pushed at: _Mar 30, 2014 11:23AM (UTC)_
-
-### twbs/bootstrap
-
-The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-
-- URL: <https://github.com/twbs/bootstrap>
-
-- Site: <http://getbootstrap.com>
-
-- Pushed at: _Dec 11, 2014 6:28AM (UTC)_
-
-### chriskempson/tomorrow-theme
-
-Tomorrow Theme the precursor to Base16 Theme
-
-- URL: <https://github.com/chriskempson/tomorrow-theme>
-
-- Pushed at: _Nov 24, 2014 11:22AM (UTC)_
-
-### BonsaiDen/JavaScript-Garden
-
-A collection of documentation about the most quirky parts of the JavaScript language. 
-
-- URL: <https://github.com/BonsaiDen/JavaScript-Garden>
-
-- Site: <http://bonsaiden.github.com/JavaScript-Garden>
-
-- Pushed at: _Dec 11, 2014 4:22PM (UTC)_
-
-### rgrove/jquery-yui3-rosetta-stone
-
-A guide to idioms in YUI 3 and jQuery.
-
-- URL: <https://github.com/rgrove/jquery-yui3-rosetta-stone>
-
-- Site: <http://www.jsrosettastone.com/>
-
-- Pushed at: _May 29, 2014 6:08PM (UTC)_
-
-## [Go](id:go)
-
-10 repositories
-### gogits/gogs
-
-Gogs(Go Git Service) is a painless self-hosted Git Service written in Go.
-
-- URL: <https://github.com/gogits/gogs>
-
-- Site: <http://gogs.io>
-
-- Pushed at: _Dec 11, 2014 7:58AM (UTC)_
-
-### skyjia/repogen
-
-A toy to generate a Markdown index document for my starred GitHub repositories.
-
-- URL: <https://github.com/skyjia/repogen>
-
-- Pushed at: _Jan 17, 2014 3:33AM (UTC)_
-
-### flynn/flynn
-
-A next generation open source platform as a service (PaaS)
-
-- URL: <https://github.com/flynn/flynn>
-
-- Site: <https://flynn.io>
-
-- Pushed at: _Dec 11, 2014 3:35PM (UTC)_
-
-### ravenac95/sudolikeaboss
-
-Get 1password access from iterm2
-
-- URL: <https://github.com/ravenac95/sudolikeaboss>
-
-- Site: <http://sudolikeaboss.com>
-
-- Pushed at: _Oct 28, 2014 9:24AM (UTC)_
-
-### zettio/weave
-
-The Docker Network
-
-- URL: <https://github.com/zettio/weave>
-
-- Pushed at: _Dec 10, 2014 7:17PM (UTC)_
-
-### bitly/nsq
-
-A realtime distributed messaging platform
-
-- URL: <https://github.com/bitly/nsq>
-
-- Site: <http://nsq.io/>
-
-- Pushed at: _Dec 10, 2014 9:11PM (UTC)_
-
-### jwilder/docker-gen
-
-Generate files from docker container meta-data
-
-- URL: <https://github.com/jwilder/docker-gen>
-
-- Pushed at: _Dec 8, 2014 10:25PM (UTC)_
-
-### drone/drone
-
-Drone is a Continuous Integration platform built on Docker, written in Go
-
-- URL: <https://github.com/drone/drone>
-
-- Pushed at: _Dec 8, 2014 12:24AM (UTC)_
-
-### hmarr/codecube
-
-Docker-powered runnable code snippets
-
-- URL: <https://github.com/hmarr/codecube>
-
-- Site: <http://codecube.io>
-
-- Pushed at: _Nov 11, 2013 6:16PM (UTC)_
-
-### tsuru/tsuru
-
-Open source Platform as a Service (PaaS).
-
-- URL: <https://github.com/tsuru/tsuru>
-
-- Site: <https://tsuru.io>
-
-- Pushed at: _Dec 11, 2014 1:54PM (UTC)_
-
-## [Unknown](id:unknown)
-
-31 repositories
-### caesar0301/awesome-public-datasets
-
-A awesome list of (large-scale) public datasets on the Internet. (On-going collection)
-
-- URL: <https://github.com/caesar0301/awesome-public-datasets>
-
-- Pushed at: _Dec 10, 2014 8:29AM (UTC)_
-
-### davidsonfellipe/awesome-wpo
-
-A curated list of Web Performance Optimization. Everyone can contribute here!
-
-- URL: <https://github.com/davidsonfellipe/awesome-wpo>
-
-- Pushed at: _Nov 26, 2014 10:44PM (UTC)_
-
-### airbrite/celery-api
-
-Celery API Overview
-
-- URL: <https://github.com/airbrite/celery-api>
-
-- Pushed at: _Dec 5, 2014 8:15AM (UTC)_
-
-### HackerNews/API
-
-Documentation and Samples for the Official HN API.
-
-- URL: <https://github.com/HackerNews/API>
-
-- Site: <https://hacker-news.firebaseio.com/>
-
-- Pushed at: _Oct 7, 2014 9:33PM (UTC)_
-
-### Ghosh/uiGradients
-
-Dual tone colour gradients for design and code
-
-- URL: <https://github.com/Ghosh/uiGradients>
-
-- Site: <http://uigradients.com/>
-
-- Pushed at: _Oct 28, 2014 4:14AM (UTC)_
-
-### jnv/lists
-
-The definitive list of (awesome) lists curated on GitHub
-
-- URL: <https://github.com/jnv/lists>
-
-- Pushed at: _Dec 8, 2014 12:45PM (UTC)_
-
-### sixteencolors/sixteencolors-archive
-
-Artpack archive, organized by year
-
-- URL: <https://github.com/sixteencolors/sixteencolors-archive>
-
-- Pushed at: _Dec 8, 2014 1:20AM (UTC)_
-
-### bayandin/awesome-awesomeness
-
-A curated list of awesome awesomeness
-
-- URL: <https://github.com/bayandin/awesome-awesomeness>
-
-- Pushed at: _Dec 3, 2014 7:45AM (UTC)_
-
-### chiraggude/awesome-laravel
-
-A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
-
-- URL: <https://github.com/chiraggude/awesome-laravel>
-
-- Pushed at: _Nov 26, 2014 9:56AM (UTC)_
-
-### pazguille/offline-first
-
-Everything you need to know to create offline-first web apps.
-
-- URL: <https://github.com/pazguille/offline-first>
-
-- Pushed at: _Dec 10, 2014 3:13AM (UTC)_
-
-### sendwithus/templates
-
-Transactional email templates for the next generation.
-
-- URL: <https://github.com/sendwithus/templates>
-
-- Site: <https://www.sendwithus.com/resources/templates>
-
-- Pushed at: _Oct 29, 2014 10:26PM (UTC)_
-
-### ellisonleao/magictools
-
-A list of Game Development resources to make magic happen.
-
-- URL: <https://github.com/ellisonleao/magictools>
-
-- Site: <https://game-development.zeef.com/>
-
-- Pushed at: _Dec 1, 2014 4:08PM (UTC)_
-
-### sorrycc/awesome-javascript
-
-A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
-
-- URL: <https://github.com/sorrycc/awesome-javascript>
-
-- Pushed at: _Dec 11, 2014 2:58AM (UTC)_
-
-### sindresorhus/awesome
-
-A curated list of awesome lists
-
-- URL: <https://github.com/sindresorhus/awesome>
-
-- Pushed at: _Dec 1, 2014 7:11AM (UTC)_
-
-### sindresorhus/awesome-nodejs
-
-A curated list of delightful Node.js packages and resources.
-
-- URL: <https://github.com/sindresorhus/awesome-nodejs>
-
-- Pushed at: _Dec 7, 2014 9:26AM (UTC)_
-
-### cjbarber/ToolsOfTheTrade
-
-Tools of The Trade, from Hacker News.
-
-- URL: <https://github.com/cjbarber/ToolsOfTheTrade>
-
-- Pushed at: _Oct 28, 2014 7:56PM (UTC)_
-
-### kahun/awesome-sysadmin
-
-A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-
-- URL: <https://github.com/kahun/awesome-sysadmin>
-
-- Pushed at: _Oct 10, 2014 4:48PM (UTC)_
-
-### ziadoz/awesome-php
-
-A curated list of amazingly awesome PHP libraries, resources and shiny things.
-
-- URL: <https://github.com/ziadoz/awesome-php>
-
-- Pushed at: _Dec 11, 2014 4:21PM (UTC)_
-
-### interagent/http-api-design
-
-HTTP API design guide extracted from work on the Heroku Platform API
-
-- URL: <https://github.com/interagent/http-api-design>
-
-- Pushed at: _Dec 2, 2014 3:46PM (UTC)_
-
-### blindly/dkr
-
-Docker ( alias ) utility for easily using with github.com/blindly/nginx-proxy
-
-- URL: <https://github.com/blindly/dkr>
-
-- Pushed at: _May 16, 2014 2:01PM (UTC)_
-
-### jwilder/nginx-proxy
-
-Automated nginx proxy for Docker containers using docker-gen
-
-- URL: <https://github.com/jwilder/nginx-proxy>
-
-- Pushed at: _Dec 8, 2014 5:23PM (UTC)_
-
-### airbnb/javascript
-
-JavaScript Style Guide
-
-- URL: <https://github.com/airbnb/javascript>
-
-- Pushed at: _Dec 4, 2014 1:54AM (UTC)_
-
-### zenorocha/alfred-workflows
-
-A collection of Alfred 2 workflows that will rock your world
-
-- URL: <https://github.com/zenorocha/alfred-workflows>
-
-- Pushed at: _Nov 28, 2014 8:41PM (UTC)_
-
-### vhf/free-programming-books
-
-- URL: <https://github.com/vhf/free-programming-books>
-
-- Site: <http://resrc.io/list/10/list-of-free-programming-books/>
-
-- Pushed at: _Dec 11, 2014 8:36AM (UTC)_
-
-### stevekwan/best-practices
-
-JavaScript and CSS guidelines for pragmatists.
-
-- URL: <https://github.com/stevekwan/best-practices>
-
-- Pushed at: _Mar 14, 2013 3:37AM (UTC)_
-
-### openmundi/world.db
-
-Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)
-
-- URL: <https://github.com/openmundi/world.db>
-
-- Pushed at: _Nov 25, 2014 4:48PM (UTC)_
-
-### kjbekkelund/writings
-
-My blog posts
-
-- URL: <https://github.com/kjbekkelund/writings>
-
-- Pushed at: _Apr 7, 2013 7:10PM (UTC)_
-
-### saintsjd/gum
-
-A small set of cli improvements for git
-
-- URL: <https://github.com/saintsjd/gum>
-
-- Pushed at: _Oct 10, 2013 2:17AM (UTC)_
-
-### waynhall/CodeIgniter-Library-for-MailChimp-API-v1.3
-
-MailChimp API v1.3 - The CodeIgniter Way!
-
-- URL: <https://github.com/waynhall/CodeIgniter-Library-for-MailChimp-API-v1.3>
-
-- Pushed at: _Aug 3, 2011 10:55AM (UTC)_
-
-### octoberman/scrapy-indeed-spider
-
-Scrapy spider for pulling job listings from Indeed
-
-- URL: <https://github.com/octoberman/scrapy-indeed-spider>
-
-- Pushed at: _Jul 30, 2011 7:55PM (UTC)_
-
-### iromin/SearchAProfile
-
-Google XMPP Bot that uses the Rainmaker API to return as much information as possible about the person given his/her email address. All you need to do is provide an Email Address and in return, it fetches information like: Demographics like Age, Sex, Geographical location where the contact resides Contact Handles for various services like Google Chat, Skype, etc. Social Profiles at LinkedIn, Twitter, Facebook, Foursquare, Google Profile, Friendster, MySpace, etc. Employment History.
-
-- URL: <https://github.com/iromin/SearchAProfile>
-
-- Site: <http://searchaprofile.appspot.com>
-
-- Pushed at: _Jul 26, 2011 5:34AM (UTC)_
-
 ## [Java](id:java)
 
-9 repositories
+11 repositories
+### easyaspi314/Notepad
+
+Simple, easy-to-use, themeable notepad forked from BanderLab's Notepad (http://code.google.com/p/banderlabs)
+
+- URL: <https://github.com/easyaspi314/Notepad>
+
+- Pushed at: _Feb 14, 2015 10:19PM (UTC)_
+
+### MostafaGazar/soas
+
+Native Android "sample of all samples" for beginners and experienced, 14+, with focus on lollipop and Material
+
+- URL: <https://github.com/MostafaGazar/soas>
+
+- Pushed at: _Jan 28, 2015 4:26PM (UTC)_
+
 ### killbill/killbill
 
-Open Billing & Payment Platform
+Open-Source Billing & Payment Platform
 
 - URL: <https://github.com/killbill/killbill>
 
-- Site: <http://kill-bill.org/>
+- Site: <http://killbill.io/>
 
-- Pushed at: _Dec 5, 2014 10:12PM (UTC)_
+- Pushed at: _Mar 12, 2015 5:41PM (UTC)_
 
 ### delight-im/Faceless
 
@@ -2869,7 +67,7 @@ Faceless is where you can talk freely
 
 - Site: <https://www.delight.im/get/faceless>
 
-- Pushed at: _Dec 8, 2014 5:58AM (UTC)_
+- Pushed at: _Feb 11, 2015 4:14PM (UTC)_
 
 ### AReallyGoodName/OfflineReverseGeocode
 
@@ -2877,7 +75,7 @@ Perform reverse geocoding locally and offline
 
 - URL: <https://github.com/AReallyGoodName/OfflineReverseGeocode>
 
-- Pushed at: _Dec 2, 2014 6:39AM (UTC)_
+- Pushed at: _Dec 16, 2014 7:59AM (UTC)_
 
 ### Codecademy/EventHub
 
@@ -2897,7 +95,7 @@ A multiplayer Atari 2600 emulator written in pure Java using no libs
 
 - Site: <javatari.org>
 
-- Pushed at: _Nov 3, 2014 1:41AM (UTC)_
+- Pushed at: _Mar 1, 2015 12:04AM (UTC)_
 
 ### nathanmarz/storm
 
@@ -2939,7 +137,63 @@ A Graph Traversal Language
 
 ## [Python](id:python)
 
-60 repositories
+65 repositories
+### andresriancho/w3af
+
+w3af: web application attack and audit framework, the open source web vulnerability scanner.
+
+- URL: <https://github.com/andresriancho/w3af>
+
+- Site: <http://w3af.org/>
+
+- Pushed at: _Mar 16, 2015 11:26AM (UTC)_
+
+### KeyboardFire/mkcast
+
+A tool for creating GIF screencasts of a terminal, with key presses overlaid.
+
+- URL: <https://github.com/KeyboardFire/mkcast>
+
+- Pushed at: _Mar 13, 2015 1:28AM (UTC)_
+
+### ra-at-diladele-com/qlproxy_external
+
+Diladele Web Safety is an ICAP server that integrates with existing ​Squid proxy server and provides rich content and web filtering functionality to sanitize Internet traffic passing into internal home/enterprise network.
+
+- URL: <https://github.com/ra-at-diladele-com/qlproxy_external>
+
+- Site: <http://www.quintolabs.com>
+
+- Pushed at: _Apr 11, 2014 10:53AM (UTC)_
+
+### rtfd/readthedocs.org
+
+source code to readthedocs.org
+
+- URL: <https://github.com/rtfd/readthedocs.org>
+
+- Site: <http://rtfd.org/>
+
+- Pushed at: _Mar 13, 2015 4:37PM (UTC)_
+
+### falconry/falcon
+
+Falcon is a high-performance Python framework for building cloud APIs and web app backends.
+
+- URL: <https://github.com/falconry/falcon>
+
+- Site: <http://falconframework.org>
+
+- Pushed at: _Feb 20, 2015 6:17PM (UTC)_
+
+### scrapinghub/splash
+
+Lightweight, scriptable browser as a service with an HTTP API
+
+- URL: <https://github.com/scrapinghub/splash>
+
+- Pushed at: _Mar 9, 2015 3:13PM (UTC)_
+
 ### rg3/youtube-dl
 
 Small command-line program to download videos from YouTube.com and other video sites
@@ -2948,7 +202,7 @@ Small command-line program to download videos from YouTube.com and other video s
 
 - Site: <http://rg3.github.io/youtube-dl/>
 
-- Pushed at: _Dec 11, 2014 4:08PM (UTC)_
+- Pushed at: _Mar 15, 2015 9:49PM (UTC)_
 
 ### naetech/nightrain
 
@@ -2968,25 +222,25 @@ Very efficient backup system based on the git packfile format, providing fast in
 
 - Site: <https://bup.github.io/>
 
-- Pushed at: _Nov 20, 2014 10:19PM (UTC)_
+- Pushed at: _Mar 15, 2015 3:39PM (UTC)_
 
 ### binux/pyspider
 
-A Powerful Spider System with Web UI
+A Powerful Spider(Web Crawler) System in Python.
 
 - URL: <https://github.com/binux/pyspider>
 
-- Site: <http://demo.pyspider.org/>
+- Site: <http://docs.pyspider.org/>
 
-- Pushed at: _Dec 11, 2014 2:19PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:54PM (UTC)_
 
 ### Galts-Gulch/avarice
 
-Multi-Indicator Python3 Okcoin Trading Bot/Infrastructure
+Multi-Indicator Python3 OKCoin CN & Intl Trading Bot/Infrastructure
 
 - URL: <https://github.com/Galts-Gulch/avarice>
 
-- Pushed at: _Oct 29, 2014 12:06AM (UTC)_
+- Pushed at: _Mar 16, 2015 1:46AM (UTC)_
 
 ### shish/pgosquery
 
@@ -3004,23 +258,21 @@ Collection of scripts to gather information on IPs and Domains.
 
 - Pushed at: _Jul 31, 2013 4:02PM (UTC)_
 
-### docker/fig
+### docker/compose
 
-Fast, isolated development environments using Docker
+Define and run complex applications using Docker
 
-- URL: <https://github.com/docker/fig>
+- URL: <https://github.com/docker/compose>
 
-- Site: <http://www.fig.sh>
+- Site: <https://docs.docker.com/compose/>
 
-- Pushed at: _Dec 10, 2014 11:26PM (UTC)_
+- Pushed at: _Mar 13, 2015 5:41PM (UTC)_
 
 ### jonthornton/MtaSanitizer
 
 Bringing a layer of sanity to the MTA's Realtime NYC subway feed
 
 - URL: <https://github.com/jonthornton/MtaSanitizer>
-
-- Site: <http://wheresthefuckingtrain.com>
 
 - Pushed at: _Nov 25, 2014 2:44PM (UTC)_
 
@@ -3040,7 +292,7 @@ extract text from any document. no muss. no fuss.
 
 - Site: <http://textract.readthedocs.org>
 
-- Pushed at: _Nov 22, 2014 11:45AM (UTC)_
+- Pushed at: _Jan 31, 2015 9:23AM (UTC)_
 
 ### josephmisiti/awesome-machine-learning
 
@@ -3048,17 +300,17 @@ A curated list of awesome Machine Learning frameworks, libraries and software.
 
 - URL: <https://github.com/josephmisiti/awesome-machine-learning>
 
-- Pushed at: _Dec 7, 2014 8:08PM (UTC)_
+- Pushed at: _Mar 10, 2015 4:54PM (UTC)_
 
 ### inboxapp/inbox
 
-The next-generation email platform
+Nilas — the next-generation email platform
 
 - URL: <https://github.com/inboxapp/inbox>
 
-- Site: <https://www.inboxapp.com/>
+- Site: <https://www.nilas.com>
 
-- Pushed at: _Dec 11, 2014 1:54PM (UTC)_
+- Pushed at: _Mar 16, 2015 4:55AM (UTC)_
 
 ### vinta/awesome-python
 
@@ -3066,7 +318,7 @@ A curated list of awesome Python frameworks, libraries and software
 
 - URL: <https://github.com/vinta/awesome-python>
 
-- Pushed at: _Dec 9, 2014 5:21AM (UTC)_
+- Pushed at: _Mar 16, 2015 7:49AM (UTC)_
 
 ### mail-in-a-box/mailinabox
 
@@ -3076,15 +328,7 @@ Mail-in-a-Box helps individuals take back control of their email by defining a o
 
 - Site: <https://mailinabox.email/>
 
-- Pushed at: _Dec 9, 2014 4:17PM (UTC)_
-
-### mortardata/mortar-recsys
-
-A customizable recommendation engine for Hadoop and Pig by Mortar Data.
-
-- URL: <https://github.com/mortardata/mortar-recsys>
-
-- Pushed at: _Nov 4, 2014 7:12PM (UTC)_
+- Pushed at: _Mar 8, 2015 7:16PM (UTC)_
 
 ### scrapinghub/portia
 
@@ -3092,7 +336,7 @@ Visual scraping for Scrapy
 
 - URL: <https://github.com/scrapinghub/portia>
 
-- Pushed at: _Dec 5, 2014 1:08PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:02PM (UTC)_
 
 ### lebinh/ngxtop
 
@@ -3100,7 +344,17 @@ Real-time metrics for nginx server
 
 - URL: <https://github.com/lebinh/ngxtop>
 
-- Pushed at: _Oct 12, 2014 4:40AM (UTC)_
+- Pushed at: _Feb 17, 2015 4:26PM (UTC)_
+
+### asciimoo/searx
+
+A privacy-respecting, hackable metasearch engine
+
+- URL: <https://github.com/asciimoo/searx>
+
+- Site: <https://searx.me/>
+
+- Pushed at: _Mar 16, 2015 11:48AM (UTC)_
 
 ### getsentry/sentry
 
@@ -3110,7 +364,7 @@ Sentry is a realtime, platform-agnostic error logging and aggregation platform
 
 - Site: <https://getsentry.com>
 
-- Pushed at: _Dec 11, 2014 6:21AM (UTC)_
+- Pushed at: _Mar 13, 2015 5:31PM (UTC)_
 
 ### sampsyo/beets
 
@@ -3120,7 +374,7 @@ music library manager and MusicBrainz tagger
 
 - Site: <http://beets.radbox.org/>
 
-- Pushed at: _Dec 3, 2014 2:16AM (UTC)_
+- Pushed at: _Mar 15, 2015 10:35PM (UTC)_
 
 ### tomchristie/flask-api
 
@@ -3130,7 +384,7 @@ Browsable web APIs for Flask
 
 - Site: <www.flaskapi.org>
 
-- Pushed at: _May 14, 2014 7:47PM (UTC)_
+- Pushed at: _Jan 29, 2015 10:03AM (UTC)_
 
 ### flask-restful/flask-restful
 
@@ -3140,7 +394,7 @@ Simple framework for creating REST APIs
 
 - Site: <http://flask-restful.readthedocs.org>
 
-- Pushed at: _Dec 4, 2014 3:33AM (UTC)_
+- Pushed at: _Mar 15, 2015 2:38AM (UTC)_
 
 ### apache/libcloud
 
@@ -3150,7 +404,7 @@ Apache Libcloud is a Python library which hides differences between different cl
 
 - Site: <http://libcloud.apache.org>
 
-- Pushed at: _Dec 11, 2014 2:39PM (UTC)_
+- Pushed at: _Mar 14, 2015 10:14PM (UTC)_
 
 ### forrestv/p2pool
 
@@ -3160,7 +414,7 @@ Peer-to-peer Bitcoin mining pool
 
 - Site: <http://p2pool.in/>
 
-- Pushed at: _Dec 4, 2014 4:16PM (UTC)_
+- Pushed at: _Jan 26, 2015 7:01PM (UTC)_
 
 ### deis/deis
 
@@ -3170,7 +424,7 @@ Your PaaS. Your Rules.
 
 - Site: <http://deis.io>
 
-- Pushed at: _Dec 11, 2014 4:54AM (UTC)_
+- Pushed at: _Mar 15, 2015 8:55PM (UTC)_
 
 ### AppScale/appscale
 
@@ -3180,7 +434,7 @@ The Open Source Implementation of Google App Engine -- Take your apps everywhere
 
 - Site: <http://www.appscale.com>
 
-- Pushed at: _Dec 10, 2014 10:11PM (UTC)_
+- Pushed at: _Mar 12, 2015 10:17PM (UTC)_
 
 ### treeio/treeio
 
@@ -3190,7 +444,7 @@ Tree.io
 
 - Site: <http://www.tree.io/>
 
-- Pushed at: _Aug 5, 2014 3:29PM (UTC)_
+- Pushed at: _Mar 1, 2015 8:12PM (UTC)_
 
 ### pinry/pinry
 
@@ -3208,7 +462,7 @@ Kule is a REST interface for MongoDB.
 
 - URL: <https://github.com/fatiherikli/kule>
 
-- Pushed at: _Nov 21, 2014 12:10PM (UTC)_
+- Pushed at: _Feb 27, 2015 9:52PM (UTC)_
 
 ### ak3n/aurora
 
@@ -3262,6 +516,16 @@ Stallion - A Python Package Manager
 
 - Pushed at: _Mar 6, 2013 1:02AM (UTC)_
 
+### jeanphix/Ghost.py
+
+Webkit based scriptable web browser for python. 
+
+- URL: <https://github.com/jeanphix/Ghost.py>
+
+- Site: <http://ghost-py.readthedocs.org/en/latest/>
+
+- Pushed at: _Jan 12, 2015 8:26PM (UTC)_
+
 ### mjibson/journalr
 
 modern journaling
@@ -3278,7 +542,7 @@ RBL lookups with Python
 
 - URL: <https://github.com/polera/rblwatch>
 
-- Pushed at: _Oct 3, 2014 1:27PM (UTC)_
+- Pushed at: _Mar 1, 2015 2:02AM (UTC)_
 
 ### SparrowG/LinkedIn-Crawler
 
@@ -3306,7 +570,7 @@ Web mining module for Python, with tools for scraping, natural language processi
 
 - Site: <http://www.clips.ua.ac.be/pages/pattern>
 
-- Pushed at: _Oct 27, 2014 4:12PM (UTC)_
+- Pushed at: _Jan 9, 2015 4:27PM (UTC)_
 
 ### scrapy/dirbot
 
@@ -3316,21 +580,13 @@ Scrapy project to scrape public web directories (educational)
 
 - Pushed at: _Sep 30, 2014 6:52PM (UTC)_
 
-### scrapy/scrapely
-
-A pure-python HTML screen-scraping library
-
-- URL: <https://github.com/scrapy/scrapely>
-
-- Pushed at: _Aug 20, 2014 12:48AM (UTC)_
-
 ### scrapy/w3lib
 
 Python library of web-related functions
 
 - URL: <https://github.com/scrapy/w3lib>
 
-- Pushed at: _Oct 31, 2014 12:13PM (UTC)_
+- Pushed at: _Jan 13, 2015 2:10PM (UTC)_
 
 ### alexandru/TheBuzzEngine
 
@@ -3360,7 +616,7 @@ Pyramid web framework
 
 - Site: <http://docs.pylonsproject.org/en/latest/docs/pyramid.html>
 
-- Pushed at: _Dec 9, 2014 4:00PM (UTC)_
+- Pushed at: _Mar 15, 2015 8:41PM (UTC)_
 
 ### japerk/nltk-trainer
 
@@ -3390,7 +646,7 @@ A microframework based on Werkzeug, Jinja2 and good intentions
 
 - Site: <http://flask.pocoo.org/>
 
-- Pushed at: _Dec 9, 2014 5:22PM (UTC)_
+- Pushed at: _Mar 12, 2015 8:36AM (UTC)_
 
 ### scrapy/scrapy
 
@@ -3400,7 +656,7 @@ Scrapy, a fast high-level screen scraping and web crawling framework for Python.
 
 - Site: <http://scrapy.org>
 
-- Pushed at: _Dec 10, 2014 10:02PM (UTC)_
+- Pushed at: _Mar 13, 2015 11:44AM (UTC)_
 
 ### tedroden/Tumblr-Tools
 
@@ -3416,7 +672,7 @@ BOSH connection manager
 
 - URL: <https://github.com/twonds/punjab>
 
-- Pushed at: _Jan 18, 2014 12:11AM (UTC)_
+- Pushed at: _Jan 24, 2015 4:16PM (UTC)_
 
 ### simplegeo/python-simplegeo
 
@@ -3427,16 +683,6 @@ A client interface for SimpleGeo's API.
 - Site: <http://simplegeo.com>
 
 - Pushed at: _Sep 22, 2011 11:42PM (UTC)_
-
-### progrium/localtunnel
-
-Expose your local web server to the Internet
-
-- URL: <https://github.com/progrium/localtunnel>
-
-- Site: <http://progrium.com/localtunnel>
-
-- Pushed at: _Aug 13, 2014 3:29PM (UTC)_
 
 ### nats/ajaxterm
 
@@ -3458,13 +704,13 @@ A Python web-scraper framework.
 
 ### powdahound/twisted
 
-Git mirror of Twisted. Automatically updated every 15 minutes. To contribute to Twisted, please see: http://twistedmatrix.com/trac/wiki/BasicGuideToContributingCode
+Unofficial git mirror of Twisted which is NO LONGER UPDATED as of January, 2015. Please use the official http://github.com/twisted/twisted repo instead.
 
 - URL: <https://github.com/powdahound/twisted>
 
 - Site: <http://twistedmatrix.com>
 
-- Pushed at: _Nov 26, 2014 9:30PM (UTC)_
+- Pushed at: _Jan 9, 2015 9:45AM (UTC)_
 
 ### bottlepy/bottle
 
@@ -3474,7 +720,7 @@ bottle.py is a fast and simple micro-framework for python web-applications.
 
 - Site: <http://bottlepy.org/>
 
-- Pushed at: _Dec 8, 2014 6:27PM (UTC)_
+- Pushed at: _Mar 13, 2015 5:39PM (UTC)_
 
 ### webpy/webpy
 
@@ -3484,7 +730,7 @@ web.py is a web framework for python that is as simple as it is powerful.
 
 - Site: <http://webpy.org>
 
-- Pushed at: _Apr 1, 2014 6:41PM (UTC)_
+- Pushed at: _Mar 15, 2015 6:41PM (UTC)_
 
 ### reddit/reddit
 
@@ -3494,424 +740,2627 @@ the code that powers reddit.com
 
 - Site: <http://www.reddit.com/r/redditdev>
 
-- Pushed at: _Dec 10, 2014 10:00PM (UTC)_
+- Pushed at: _Mar 13, 2015 6:07PM (UTC)_
 
-## [C++](id:c++)
+## [JavaScript](id:javascript)
 
-7 repositories
-### facebook/proxygen
+272 repositories
+### brandonwamboldt/varnish-dashboard
 
-A collection of C++ HTTP libraries including an easy to use HTTP server.
+Advanced realtime Varnish dashboard with support for multiple servers and advanced management tasks
 
-- URL: <https://github.com/facebook/proxygen>
+- URL: <https://github.com/brandonwamboldt/varnish-dashboard>
 
-- Pushed at: _Dec 5, 2014 12:31AM (UTC)_
+- Pushed at: _Mar 15, 2015 2:58AM (UTC)_
 
-### facebook/osquery
+### nolimits4web/Swiper
 
-SQL powered operating system instrumentation, monitoring, and analytics.
+Most modern mobile touch slider with hardware accelerated transitions
 
-- URL: <https://github.com/facebook/osquery>
+- URL: <https://github.com/nolimits4web/Swiper>
 
-- Site: <http://osquery.io>
+- Site: <http://www.idangero.us/swiper/>
 
-- Pushed at: _Dec 11, 2014 3:51AM (UTC)_
+- Pushed at: _Mar 15, 2015 7:48PM (UTC)_
 
-### mfontanini/libtins
+### spencermountain/nlp_compromise
 
-High-level, multiplatform C++ network packet sniffing and crafting library. 
+natural language processing in the browser
 
-- URL: <https://github.com/mfontanini/libtins>
+- URL: <https://github.com/spencermountain/nlp_compromise>
 
-- Site: <http://libtins.github.io/>
+- Pushed at: _Mar 3, 2015 4:36PM (UTC)_
 
-- Pushed at: _Nov 26, 2014 6:49AM (UTC)_
+### isagalaev/highlight.js
 
-### miguelfreitas/twister-core
+Javascript syntax highlighter
 
-twister core / daemon
+- URL: <https://github.com/isagalaev/highlight.js>
 
-- URL: <https://github.com/miguelfreitas/twister-core>
+- Site: <https://highlightjs.org/>
 
-- Pushed at: _Dec 9, 2014 1:34PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:06PM (UTC)_
 
-### farbrausch/fr_public
+### Taskulu/tweelead
 
-Farbrausch demo tools 2001-2011
+Generate actionable leads from Twitter
 
-- URL: <https://github.com/farbrausch/fr_public>
+- URL: <https://github.com/Taskulu/tweelead>
 
-- Pushed at: _Sep 8, 2014 4:44PM (UTC)_
+- Pushed at: _Feb 25, 2015 2:23PM (UTC)_
 
-### paulasmuth/fnordmetric
+### ejci/favico.js
 
-FnordMetric allows you collect and visualize timeseries data with SQL.
+Make use of your favicon with badges, images or videos
 
-- URL: <https://github.com/paulasmuth/fnordmetric>
+- URL: <https://github.com/ejci/favico.js>
 
-- Site: <http://fnordmetric.io/>
+- Site: <http://lab.ejci.net/favico.js/>
 
-- Pushed at: _Nov 20, 2014 6:16PM (UTC)_
+- Pushed at: _Mar 5, 2015 8:53AM (UTC)_
 
-### ariya/phantomjs
+### Q42/0hh1
 
-Scriptable Headless WebKit
+A lovely little logic game by Q42.
 
-- URL: <https://github.com/ariya/phantomjs>
+- URL: <https://github.com/Q42/0hh1>
 
-- Site: <http://phantomjs.org>
+- Pushed at: _Nov 17, 2014 3:24PM (UTC)_
 
-- Pushed at: _Dec 11, 2014 6:54AM (UTC)_
+### Q42/0hn0
 
-## [Ruby](id:ruby)
+It's 0h h1's companion! By Q42.
 
-36 repositories
-### seven1m/do-install-button
+- URL: <https://github.com/Q42/0hn0>
 
-experimental installer for getting apps running quickly on DigitalOcean
+- Pushed at: _Jan 13, 2015 12:07PM (UTC)_
 
-- URL: <https://github.com/seven1m/do-install-button>
+### sdelements/lets-chat
 
-- Site: <http://installer.71m.us>
+Self-hosted chat app for small teams
 
-- Pushed at: _Nov 1, 2014 8:30PM (UTC)_
+- URL: <https://github.com/sdelements/lets-chat>
 
-### caskroom/homebrew-cask
+- Site: <http://sdelements.github.io/lets-chat>
 
-A CLI workflow for the administration of Mac applications distributed as binaries
+- Pushed at: _Mar 15, 2015 2:49AM (UTC)_
 
-- URL: <https://github.com/caskroom/homebrew-cask>
+### CenturyLinkLabs/panamax-ui
 
-- Site: <http://caskroom.io>
+The Web GUI for Panamax
 
-- Pushed at: _Dec 11, 2014 12:57PM (UTC)_
+- URL: <https://github.com/CenturyLinkLabs/panamax-ui>
 
-### churchio/onebody
+- Site: <http://panamax.io>
 
-private member portal for churches, built with Ruby on Rails
+- Pushed at: _Mar 13, 2015 8:20PM (UTC)_
 
-- URL: <https://github.com/churchio/onebody>
+### metafizzy/flickity
 
-- Site: <http://church.io>
+Touch, responsive, flickable galleries
 
-- Pushed at: _Dec 10, 2014 2:21PM (UTC)_
+- URL: <https://github.com/metafizzy/flickity>
 
-### octohost/octohost-cookbook
+- Site: <http://flickity.metafizzy.co>
 
-A set of Chef cookbooks that build the octohost server using Packer, Vagrant and knife solo.
+- Pushed at: _Feb 26, 2015 2:15AM (UTC)_
 
-- URL: <https://github.com/octohost/octohost-cookbook>
+### twostairs/paperwork
 
-- Site: <http://www.octohost.io>
+Paperwork - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep
 
-- Pushed at: _Nov 13, 2014 7:47PM (UTC)_
+- URL: <https://github.com/twostairs/paperwork>
 
-### cantino/huginn
+- Site: <http://paperwork.rocks>
 
-Build agents that monitor and act on your behalf.  Your agents are standing by!
+- Pushed at: _Mar 10, 2015 12:20AM (UTC)_
 
-- URL: <https://github.com/cantino/huginn>
+### metaware/angular-invoicing
 
-- Pushed at: _Dec 7, 2014 11:39PM (UTC)_
+Create free and unlimited one off invoices using this little Invoicing app made with Angular JS
 
-### errbit/errbit
+- URL: <https://github.com/metaware/angular-invoicing>
 
-The open source error catcher that's Airbrake API compliant
+- Site: <http://metaware.github.io/angular-invoicing/>
 
-- URL: <https://github.com/errbit/errbit>
+- Pushed at: _Nov 8, 2013 4:51AM (UTC)_
 
-- Site: <http://errbit.github.com/errbit/>
+### CodeSeven/toastr
 
-- Pushed at: _Dec 7, 2014 9:39PM (UTC)_
+Simple javascript toast notifications http://johnpapa.net
 
-### gitlabhq/gitlabhq
+- URL: <https://github.com/CodeSeven/toastr>
 
-Open source software to collaborate on code. Follow us on twitter @gitlabhq
+- Site: <http://www.toastrjs.com>
 
-- URL: <https://github.com/gitlabhq/gitlabhq>
+- Pushed at: _Mar 13, 2015 3:57AM (UTC)_
 
-- Site: <https://about.gitlab.com/>
+### CosmoCMS/Cosmo
 
-- Pushed at: _Dec 11, 2014 3:24PM (UTC)_
+Single Page App CMS
 
-### mitchellh/vagrant
+- URL: <https://github.com/CosmoCMS/Cosmo>
 
-Vagrant is a tool for building and distributing development environments.
+- Site: <http://www.cosmocms.org/>
 
-- URL: <https://github.com/mitchellh/vagrant>
+- Pushed at: _Mar 9, 2015 5:25AM (UTC)_
 
-- Site: <http://www.vagrantup.com>
+### angular/angular-seed
 
-- Pushed at: _Dec 11, 2014 9:21AM (UTC)_
+Seed project for angular apps. 
 
-### bryannielsen/Laravel4-Vagrant
+- URL: <https://github.com/angular/angular-seed>
 
-Run Laravel4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5
+- Site: <http://angularjs.org/>
 
-- URL: <https://github.com/bryannielsen/Laravel4-Vagrant>
+- Pushed at: _Oct 29, 2014 12:20PM (UTC)_
 
-- Pushed at: _May 27, 2014 12:50AM (UTC)_
+### lodash/lodash
 
-### openshift/origin-server
+A JavaScript utility library delivering consistency, modularity, performance, & extras.
 
-Public open source repository for the OpenShift Origin server components
+- URL: <https://github.com/lodash/lodash>
 
-- URL: <https://github.com/openshift/origin-server>
+- Site: <https://lodash.com/>
 
-- Site: <http://openshift.github.io>
+- Pushed at: _Mar 16, 2015 2:50AM (UTC)_
 
-- Pushed at: _Dec 11, 2014 2:25PM (UTC)_
+### jashkenas/underscore
 
-### paulasmuth/recommendify
+JavaScript's utility _ belt
 
-ruby/redis based recommendation engine (collaborative filtering)
+- URL: <https://github.com/jashkenas/underscore>
 
-- URL: <https://github.com/paulasmuth/recommendify>
+- Site: <http://underscorejs.org>
 
-- Pushed at: _May 8, 2014 9:18PM (UTC)_
+- Pushed at: _Mar 14, 2015 1:59PM (UTC)_
 
-### steelThread/redmon
+### dtao/lazy.js
 
-A web interface for managing redis: cli, admin, and live monitoring
+Like Underscore, but lazier
 
-- URL: <https://github.com/steelThread/redmon>
+- URL: <https://github.com/dtao/lazy.js>
 
-- Site: <http://steelthread.github.com/redmon/>
+- Site: <http://danieltao.com/lazy.js/>
 
-- Pushed at: _Aug 1, 2014 1:23PM (UTC)_
+- Pushed at: _Feb 2, 2015 4:14PM (UTC)_
 
-### mquan/prizm
+### gorhill/uBlock
 
-A ruby gem that extracts colors from a given image
+uBlock - An efficient blocker for Chromium, Firefox, and Safari. Fast and lean.
 
-- URL: <https://github.com/mquan/prizm>
+- URL: <https://github.com/gorhill/uBlock>
 
-- Pushed at: _Dec 22, 2011 10:19PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:32PM (UTC)_
 
-### sferik/t
+### angular-ui/ng-grid
 
-A command-line power tool for Twitter.
+UI Grid: an Angular Data Grid
 
-- URL: <https://github.com/sferik/t>
+- URL: <https://github.com/angular-ui/ng-grid>
 
-- Site: <http://sferik.github.com/t>
+- Pushed at: _Mar 15, 2015 4:22AM (UTC)_
 
-- Pushed at: _Dec 11, 2014 2:46PM (UTC)_
+### lorenzofox3/Smart-Table
 
-### quadule/colorscore
+Code source of Smart Table module: a table/grid for Angularjs
 
-Finds the dominant colors in an image and scores them against a user-defined palette, using the CIE2000 Delta E formula.
+- URL: <https://github.com/lorenzofox3/Smart-Table>
 
-- URL: <https://github.com/quadule/colorscore>
+- Site: <http://lorenzofox3.github.io/smart-table-website/>
 
-- Pushed at: _Nov 18, 2012 6:20AM (UTC)_
+- Pushed at: _Mar 10, 2015 9:06AM (UTC)_
 
-### phusion/juvia
+### lukasz-madon/json-job
 
-A commenting server similar to Disqus and IntenseDebate
+JSON-based standard for job posts
 
-- URL: <https://github.com/phusion/juvia>
+- URL: <https://github.com/lukasz-madon/json-job>
 
-- Pushed at: _May 9, 2014 12:18PM (UTC)_
+- Site: <http://lukasz-madon.github.io/json-job/>
 
-### seejohnrun/indeed_api
+- Pushed at: _Jan 20, 2015 11:49PM (UTC)_
 
-Ruby wrapper for the Indeed Job search API
+### peers/peerjs-server
 
-- URL: <https://github.com/seejohnrun/indeed_api>
+Server for PeerJS
 
-- Pushed at: _Apr 14, 2011 9:16PM (UTC)_
+- URL: <https://github.com/peers/peerjs-server>
 
-### brighton36/libcraigscrape
+- Site: <http://peerjs.com>
 
-An easy library to do the heavy lifting between you and craigslist's posting database. Given a URL, libcraigscrape will follow links, scrape fields, and make ruby-sense out of the raw html from craigslist's servers.
+- Pushed at: _Feb 23, 2015 9:18AM (UTC)_
 
-- URL: <https://github.com/brighton36/libcraigscrape>
+### peers/peerjs
 
-- Site: <http://www.derosetechnologies.com/community/libcraigscrape>
+Peer-to-peer data in the browser.
 
-- Pushed at: _Apr 24, 2014 12:07AM (UTC)_
+- URL: <https://github.com/peers/peerjs>
 
-### ging/social_stream
+- Site: <http://peerjs.com>
 
-A framework for building distributed social network websites
+- Pushed at: _Jan 14, 2015 5:38PM (UTC)_
 
-- URL: <https://github.com/ging/social_stream>
+### priologic/easyrtc
 
-- Site: <http://social-stream.dit.upm.es/>
+EasyRTC is a bundle of Open Source WebRTC joy!   Our Javascript API hides the differences between Chrome and Firefox browsers and simplifies coding needed for working WebRTC apps. Signalling server using socket.io built on node.js.  Tons of free code so you can build WebRTC apps in a few hours that just work.  Demos include Instant messaging, Multiparty chatroom, Audio + Video, Screen sharing, Data channel Messaging and File sharing, and more.
 
-- Pushed at: _Dec 4, 2014 4:53PM (UTC)_
+- URL: <https://github.com/priologic/easyrtc>
 
-### diaspora/diaspora
+- Site: <http://easyrtc.com>
 
-Distributed and contextual social networking
+- Pushed at: _Mar 11, 2015 7:22PM (UTC)_
 
-- URL: <https://github.com/diaspora/diaspora>
+### HenrikJoreteg/SimpleWebRTC
 
-- Site: <https://diasporafoundation.org/>
+Simplest WebRTC ever
 
-- Pushed at: _Dec 10, 2014 8:42PM (UTC)_
+- URL: <https://github.com/HenrikJoreteg/SimpleWebRTC>
 
-### sferik/rails_admin
+- Pushed at: _Mar 10, 2015 4:32PM (UTC)_
 
-RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+### muaz-khan/WebRTC-Experiment
 
-- URL: <https://github.com/sferik/rails_admin>
+WebRTC libraries, WebRTC demos, WebRTC experiments, audio, video, screen, conferencing, file sharing, screen sharing, recording, MCU, media stacks, media servers, signaling, SIP, XMPP, XHR, websockets, socket.io, websync, signalR, Translator.js, RecordRTC.js, ffmpeg.js, RTCMultiConnection.js, DataChannel.js, DetectRTC, Meeting.js, MediaRecorder, MediaStreamRecorder, SDP-Serializer, captureStreamUntilEnded, pre-recorded, media streaming, live streaming, mp3 live, desktop sharing, part of screen sharing and everything regarding webrtc i.e. realtime web!
 
-- Pushed at: _Dec 11, 2014 1:35PM (UTC)_
+- URL: <https://github.com/muaz-khan/WebRTC-Experiment>
 
-### dannymcc/BaseApp2
+- Site: <https://www.webrtc-experiment.com/>
 
-BaseApp2 - A RoR starter application with authentication, themes and mobile views
+- Pushed at: _Feb 18, 2015 2:37AM (UTC)_
 
-- URL: <https://github.com/dannymcc/BaseApp2>
+### leemachin/say-cheese
 
-- Site: <http://dannymcc.github.com/BaseApp2/>
+Minimal javascript library for integrating a webcam and snapshots into your app.
 
-- Pushed at: _Jul 2, 2014 10:44AM (UTC)_
+- URL: <https://github.com/leemachin/say-cheese>
 
-### activeadmin/activeadmin
+- Site: <http://leemachin.github.com/say-cheese>
 
-The administration framework for Ruby on Rails applications.
+- Pushed at: _Mar 14, 2015 10:35PM (UTC)_
 
-- URL: <https://github.com/activeadmin/activeadmin>
+### idevelop/ascii-camera
 
-- Site: <activeadmin.info>
+Real-time ASCII representation of your webcam video stream
 
-- Pushed at: _Dec 10, 2014 5:41PM (UTC)_
+- URL: <https://github.com/idevelop/ascii-camera>
 
-### rylwin/scrape-linkedin
+- Site: <http://idevelop.github.com/ascii-camera>
 
-Small project created to scrape data from Linkedin for a research project
+- Pushed at: _Mar 24, 2013 7:07PM (UTC)_
 
-- URL: <https://github.com/rylwin/scrape-linkedin>
+### yaronn/GifW00t
 
-- Pushed at: _Mar 23, 2010 8:36PM (UTC)_
+A pure javascript web recorder
 
-### rapind/grokphoto
+- URL: <https://github.com/yaronn/GifW00t>
 
-Professional photographer's client and booking management solution, as well as a gallery / portfolio to showcase your work.
+- Pushed at: _Jan 21, 2015 9:38PM (UTC)_
 
-- URL: <https://github.com/rapind/grokphoto>
+### yaronn/blessed-contrib
 
-- Site: <http://grokphoto.org>
+Build terminal dashboards using ascii/ansi art and javascript
 
-- Pushed at: _Aug 5, 2013 1:58PM (UTC)_
+- URL: <https://github.com/yaronn/blessed-contrib>
 
-### hexgnu/linkedin
+- Pushed at: _Mar 15, 2015 11:22PM (UTC)_
 
-Ruby wrapper for the LinkedIn API
+### KartikTalwar/gmail.js
 
-- URL: <https://github.com/hexgnu/linkedin>
+Gmail JavaScript API
 
-- Site: <http://rdoc.info/gems/linkedin>
+- URL: <https://github.com/KartikTalwar/gmail.js>
 
-- Pushed at: _Nov 22, 2014 7:52PM (UTC)_
+- Pushed at: _Mar 15, 2015 6:49PM (UTC)_
 
-### pengwynn/chargify
+### Famous/famous-angular
 
-Ruby wrapper for the chargify.com SAAS and billing API
+Bring structure to your Famo.us apps with the power of AngularJS.  Famo.us/Angular integrates seamlessly with existing Angular and Famo.us apps.
 
-- URL: <https://github.com/pengwynn/chargify>
+- URL: <https://github.com/Famous/famous-angular>
 
-- Pushed at: _Feb 11, 2012 4:09PM (UTC)_
+- Site: <https://famo.us/angular>
 
-### padrino/padrino-framework
+- Pushed at: _Feb 21, 2015 1:56AM (UTC)_
 
-Padrino is a full-stack ruby framework built upon Sinatra. 
+### GitbookIO/gitbook
 
-- URL: <https://github.com/padrino/padrino-framework>
+Modern book format and toolchain using Git and Markdown
 
-- Site: <http://www.padrinorb.com>
+- URL: <https://github.com/GitbookIO/gitbook>
 
-- Pushed at: _Dec 7, 2014 7:31AM (UTC)_
+- Site: <https://www.gitbook.com>
 
-### plataformatec/devise
+- Pushed at: _Mar 14, 2015 11:00PM (UTC)_
 
-Flexible authentication solution for Rails with Warden.
+### imsky/holder
 
-- URL: <https://github.com/plataformatec/devise>
+Client-side image placeholders.
 
-- Site: <http://blog.plataformatec.com.br/tag/devise/>
+- URL: <https://github.com/imsky/holder>
 
-- Pushed at: _Dec 2, 2014 10:12AM (UTC)_
+- Site: <http://holderjs.com>
 
-### teambox/teambox
+- Pushed at: _Mar 9, 2015 12:38AM (UTC)_
 
-This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
+### hillelcoren/invoice-ninja
 
-- URL: <https://github.com/teambox/teambox>
+An open-source invoicing site built with Laravel
 
-- Site: <http://teambox.com>
+- URL: <https://github.com/hillelcoren/invoice-ninja>
 
-- Pushed at: _May 6, 2013 10:07AM (UTC)_
+- Site: <https://www.invoiceninja.com>
 
-### isabanin/pretty_diff
+- Pushed at: _Mar 11, 2015 9:38PM (UTC)_
 
-PrettyDiff is a highly customizable library for creating fully featured HTML listings out of unified diff format strings. Include copy/paste-safe line numbers and built-in syntax highlighting.
+### benweet/stackedit
 
-- URL: <https://github.com/isabanin/pretty_diff>
+In-browser markdown editor
 
-- Pushed at: _Apr 22, 2014 2:46PM (UTC)_
+- URL: <https://github.com/benweet/stackedit>
 
-### blech/ffffound-mirror
+- Site: <https://stackedit.io/>
 
-scripts to scrape/mirror metadata (and maybe images?) from ffffound
+- Pushed at: _Feb 3, 2015 8:41PM (UTC)_
 
-- URL: <https://github.com/blech/ffffound-mirror>
+### joemccann/dillinger
 
-- Site: <http://husk.org/code/>
+The last Markdown editor, ever.
 
-- Pushed at: _Dec 24, 2013 9:47PM (UTC)_
+- URL: <https://github.com/joemccann/dillinger>
 
-### tcocca/acts_as_follower
+- Site: <http://dillinger.io>
 
-A Gem to add Follow functionality for models
+- Pushed at: _Mar 8, 2015 5:11PM (UTC)_
 
-- URL: <https://github.com/tcocca/acts_as_follower>
+### mgechev/angular-webrtc
 
-- Pushed at: _Jun 27, 2014 11:42AM (UTC)_
+Demo for my blog post at http://goo.gl/LCOSsI
 
-### typus/typus
+- URL: <https://github.com/mgechev/angular-webrtc>
 
-Ruby on Rails control panel to allow trusted users edit structured content.
+- Site: <https://mgechev-webrtc.herokuapp.com/>
 
-- URL: <https://github.com/typus/typus>
+- Pushed at: _Jan 5, 2015 4:41PM (UTC)_
 
-- Site: <docs.typuscmf.com>
+### Voog/wysihtml
 
-- Pushed at: _Nov 21, 2014 3:02PM (UTC)_
+Open source rich text editor for the modern web
 
-### insoshi/insoshi
+- URL: <https://github.com/Voog/wysihtml>
 
-An open source social networking platform in Ruby on Rails
+- Site: <http://wysihtml.com>
 
-- URL: <https://github.com/insoshi/insoshi>
+- Pushed at: _Mar 16, 2015 2:31PM (UTC)_
 
-- Site: <http://dogfood.insoshi.com>
+### neilj/Squire
 
-- Pushed at: _Apr 1, 2010 11:57PM (UTC)_
+HTML5 rich text editor. Try the demo integration at
 
-### tablatom/hobo
+- URL: <https://github.com/neilj/Squire>
 
-MOVED! The official repo is now hobo/hobo
+- Site: <http://neilj.github.io/Squire/>
 
-- URL: <https://github.com/tablatom/hobo>
+- Pushed at: _Mar 7, 2015 12:45AM (UTC)_
 
-- Site: <http://github.com/hobo/hobo>
+### michelson/Dante
 
-- Pushed at: _Mar 16, 2013 4:48PM (UTC)_
+Just another Medium wysiwyg editor clone
+
+- URL: <https://github.com/michelson/Dante>
+
+- Site: <http://michelson.github.io/Dante/>
+
+- Pushed at: _Mar 16, 2015 5:27AM (UTC)_
+
+### janpaepke/ScrollMagic
+
+The javascript library for magical scroll interactions.
+
+- URL: <https://github.com/janpaepke/ScrollMagic>
+
+- Site: <http://janpaepke.github.io/ScrollMagic>
+
+- Pushed at: _Mar 13, 2015 8:53AM (UTC)_
+
+### matthieua/WOW
+
+Reveal CSS animation as you scroll down a page
+
+- URL: <https://github.com/matthieua/WOW>
+
+- Site: <http://mynameismatthieu.com/WOW/>
+
+- Pushed at: _Mar 2, 2015 8:20PM (UTC)_
+
+### dimsemenov/PhotoSwipe
+
+JavaScript image gallery for mobile and desktop, modular, framework independent
+
+- URL: <https://github.com/dimsemenov/PhotoSwipe>
+
+- Site: <http://photoswipe.com>
+
+- Pushed at: _Mar 5, 2015 3:30PM (UTC)_
+
+### clappr/clappr
+
+An extensible media player for the web
+
+- URL: <https://github.com/clappr/clappr>
+
+- Site: <http://clappr.io>
+
+- Pushed at: _Mar 15, 2015 7:50AM (UTC)_
+
+### knsv/mermaid
+
+Generation of diagram and flowchart from text in a similar manner as markdown
+
+- URL: <https://github.com/knsv/mermaid>
+
+- Pushed at: _Mar 15, 2015 1:56PM (UTC)_
+
+### serratus/quaggaJS
+
+An advanced barcode-scanner written in JavaScript
+
+- URL: <https://github.com/serratus/quaggaJS>
+
+- Pushed at: _Mar 14, 2015 2:44PM (UTC)_
+
+### tjmehta/101
+
+A modern JS utility library
+
+- URL: <https://github.com/tjmehta/101>
+
+- Pushed at: _Mar 10, 2015 10:03PM (UTC)_
+
+### xat/castnow
+
+commandline chromecast player
+
+- URL: <https://github.com/xat/castnow>
+
+- Pushed at: _Feb 22, 2015 12:10AM (UTC)_
+
+### taye/interact.js
+
+JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+)
+
+- URL: <https://github.com/taye/interact.js>
+
+- Site: <http://interactjs.io/>
+
+- Pushed at: _Mar 5, 2015 1:15AM (UTC)_
+
+### mozilla/metrics-graphics
+
+A library optimized for concise, principled data graphics and layouts.
+
+- URL: <https://github.com/mozilla/metrics-graphics>
+
+- Site: <http://metricsgraphicsjs.org>
+
+- Pushed at: _Mar 11, 2015 6:12PM (UTC)_
+
+### 5an1ty/BitBot
+
+BitBot is a Crypto-Currency trading bot and backtesting platform written in Node.JS
+
+- URL: <https://github.com/5an1ty/BitBot>
+
+- Pushed at: _Jan 19, 2015 11:52PM (UTC)_
+
+### jedp/porter-stemmer
+
+Martin Porter's stemmer for node.js
+
+- URL: <https://github.com/jedp/porter-stemmer>
+
+- Pushed at: _Feb 21, 2013 6:12PM (UTC)_
+
+### thinkroth/Sentimental
+
+A sentiment analysis module for node.js
+
+- URL: <https://github.com/thinkroth/Sentimental>
+
+- Pushed at: _Apr 12, 2014 5:23PM (UTC)_
+
+### primaryobjects/lda
+
+LDA topic modeling for node.js
+
+- URL: <https://github.com/primaryobjects/lda>
+
+- Pushed at: _Feb 3, 2015 5:13PM (UTC)_
+
+### twitter/twemoji
+
+Twitter Emoji for Everyone
+
+- URL: <https://github.com/twitter/twemoji>
+
+- Site: <http://twitter.github.io/twemoji>
+
+- Pushed at: _Mar 13, 2015 10:27AM (UTC)_
+
+### maxogden/bkts
+
+launch the Brackets editor from the command line
+
+- URL: <https://github.com/maxogden/bkts>
+
+- Pushed at: _Feb 8, 2014 4:46PM (UTC)_
+
+### adobe-research/theseus
+
+A pretty darn cool JavaScript debugger for Brackets
+
+- URL: <https://github.com/adobe-research/theseus>
+
+- Pushed at: _Feb 20, 2015 4:36AM (UTC)_
+
+### keen/dashboards
+
+Responsive dashboard templates for Bootstrap
+
+- URL: <https://github.com/keen/dashboards>
+
+- Site: <http://keen.github.io/dashboards/>
+
+- Pushed at: _Feb 20, 2015 12:35AM (UTC)_
+
+### virtkick/virtkick-starter
+
+One-click install & start VirtKick in non-production environment.
+
+- URL: <https://github.com/virtkick/virtkick-starter>
+
+- Site: <https://www.virtkick.io/>
+
+- Pushed at: _Mar 16, 2015 10:07AM (UTC)_
+
+### julianlloyd/scrollReveal.js
+
+Easily reveal elements as they enter the viewport.
+
+- URL: <https://github.com/julianlloyd/scrollReveal.js>
+
+- Site: <http://scrollrevealjs.org/>
+
+- Pushed at: _Mar 12, 2015 7:04AM (UTC)_
+
+### sindresorhus/pageres
+
+Responsive website screenshots
+
+- URL: <https://github.com/sindresorhus/pageres>
+
+- Pushed at: _Mar 2, 2015 4:20PM (UTC)_
+
+### kimmobrunfeldt/progressbar.js
+
+Beautiful and responsive progress bars 
+
+- URL: <https://github.com/kimmobrunfeldt/progressbar.js>
+
+- Site: <https://kimmobrunfeldt.github.io/progressbar.js>
+
+- Pushed at: _Feb 5, 2015 1:23PM (UTC)_
+
+### mozilla/nunjucks
+
+A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
+
+- URL: <https://github.com/mozilla/nunjucks>
+
+- Site: <http://mozilla.github.io/nunjucks/>
+
+- Pushed at: _Mar 13, 2015 5:13PM (UTC)_
+
+### airbrite/diy-checkout
+
+DIY Coin Checkout – Customizable checkout template
+
+- URL: <https://github.com/airbrite/diy-checkout>
+
+- Pushed at: _Mar 13, 2015 12:41AM (UTC)_
+
+### staaky/strip
+
+Strip - A Less Intrusive Responsive Lightbox
+
+- URL: <https://github.com/staaky/strip>
+
+- Site: <http://www.stripjs.com>
+
+- Pushed at: _Feb 14, 2015 1:39AM (UTC)_
+
+### segmentio/nightmare
+
+A high level wrapper for Phantomjs.
+
+- URL: <https://github.com/segmentio/nightmare>
+
+- Site: <http://nightmarejs.org>
+
+- Pushed at: _Mar 12, 2015 11:06PM (UTC)_
+
+### t4t5/sweetalert
+
+A beautiful replacement for JavaScript's "alert"
+
+- URL: <https://github.com/t4t5/sweetalert>
+
+- Pushed at: _Mar 4, 2015 9:55AM (UTC)_
+
+### zzmp/juliusjs
+
+A speech recognition library for the web
+
+- URL: <https://github.com/zzmp/juliusjs>
+
+- Site: <https://zzmp.github.io/juliusjs>
+
+- Pushed at: _Oct 15, 2014 2:18AM (UTC)_
+
+### usablica/intro.js
+
+A better way for new feature introduction and step-by-step users guide for your website and project.
+
+- URL: <https://github.com/usablica/intro.js>
+
+- Site: <http://usablica.github.com/intro.js/>
+
+- Pushed at: _Oct 17, 2014 7:28PM (UTC)_
+
+### kenwheeler/slick
+
+the last carousel you'll ever need
+
+- URL: <https://github.com/kenwheeler/slick>
+
+- Site: <kenwheeler.github.io/slick>
+
+- Pushed at: _Mar 15, 2015 12:40PM (UTC)_
+
+### dirkgroenen/jQuery-viewport-checker
+
+Little script that detects if an element is in the viewport and adds a class to it. Check the site for a demo
+
+- URL: <https://github.com/dirkgroenen/jQuery-viewport-checker>
+
+- Site: <http://dirkgroenen.github.io/jQuery-viewport-checker/>
+
+- Pushed at: _Jan 27, 2015 8:41AM (UTC)_
+
+### Aerolab/midnight.js
+
+A jQuery plugin to switch fixed headers on the fly
+
+- URL: <https://github.com/Aerolab/midnight.js>
+
+- Site: <http://aerolab.github.io/midnight.js/>
+
+- Pushed at: _Mar 6, 2015 4:20PM (UTC)_
+
+### GoogleCloudPlatform/gcloud-node
+
+Google Cloud Client Library for Node.js
+
+- URL: <https://github.com/GoogleCloudPlatform/gcloud-node>
+
+- Site: <https://googlecloudplatform.github.io/gcloud-node>
+
+- Pushed at: _Mar 11, 2015 3:24PM (UTC)_
+
+### paypal/accessible-html5-video-player
+
+Accessible HTML5 Video Player
+
+- URL: <https://github.com/paypal/accessible-html5-video-player>
+
+- Site: <http://paypal.github.io/accessible-html5-video-player/>
+
+- Pushed at: _Mar 1, 2015 3:51AM (UTC)_
+
+### NodeBB/NodeBB
+
+Node.js based forum software built for the modern web
+
+- URL: <https://github.com/NodeBB/NodeBB>
+
+- Site: <http://www.nodebb.org>
+
+- Pushed at: _Mar 15, 2015 7:18AM (UTC)_
+
+### sbstjn/timesheet.js
+
+JavaScript library for HTML5 & CSS3 time sheets
+
+- URL: <https://github.com/sbstjn/timesheet.js>
+
+- Site: <https://sbstjn.github.io/timesheet.js>
+
+- Pushed at: _Mar 3, 2015 8:11PM (UTC)_
+
+### erming/shout
+
+A multi-user web IRC client
+
+- URL: <https://github.com/erming/shout>
+
+- Site: <http://shout-irc.com/>
+
+- Pushed at: _Mar 12, 2015 6:26PM (UTC)_
+
+### gilbitron/Ideal-Image-Slider
+
+Quite simply the ideal Image Slider in vanilla JS.
+
+- URL: <https://github.com/gilbitron/Ideal-Image-Slider>
+
+- Site: <http://gilbitron.github.io/Ideal-Image-Slider>
+
+- Pushed at: _Mar 13, 2015 9:46AM (UTC)_
+
+### fouber/page-monitor
+
+capture webpage and diff the dom change with phantomjs  ♨
+
+- URL: <https://github.com/fouber/page-monitor>
+
+- Pushed at: _Feb 3, 2015 7:38AM (UTC)_
+
+### kitematic/kitematic
+
+The easiest way to start using Docker on Mac
+
+- URL: <https://github.com/kitematic/kitematic>
+
+- Site: <https://kitematic.com>
+
+- Pushed at: _Mar 15, 2015 12:24AM (UTC)_
+
+### gionkunz/chartist-js
+
+Simple responsive charts
+
+- URL: <https://github.com/gionkunz/chartist-js>
+
+- Pushed at: _Mar 6, 2015 2:55PM (UTC)_
+
+### slap-editor/slap
+
+Sublime-like terminal-based text editor
+
+- URL: <https://github.com/slap-editor/slap>
+
+- Pushed at: _Mar 8, 2015 2:20AM (UTC)_
+
+### Countly/countly-server
+
+Countly Mobile Analytics & Push Notifications Server (Community Edition)
+
+- URL: <https://github.com/Countly/countly-server>
+
+- Site: <http://count.ly>
+
+- Pushed at: _Mar 16, 2015 12:32PM (UTC)_
+
+### mephux/komanda
+
+The IRC Client For Developers
+
+- URL: <https://github.com/mephux/komanda>
+
+- Site: <http://komanda.io>
+
+- Pushed at: _Mar 2, 2015 12:12AM (UTC)_
+
+### ruipgil/scraperjs
+
+A complete and versatile web scraper.
+
+- URL: <https://github.com/ruipgil/scraperjs>
+
+- Pushed at: _Mar 13, 2015 6:07PM (UTC)_
+
+### chintanbanugaria/92five
+
+Self hosted project management application
+
+- URL: <https://github.com/chintanbanugaria/92five>
+
+- Pushed at: _Jan 1, 2015 6:10AM (UTC)_
+
+### stellar/stellar-lib
+
+JS library to facilitate talking to stellard.
+
+- URL: <https://github.com/stellar/stellar-lib>
+
+- Pushed at: _Feb 21, 2015 1:46AM (UTC)_
+
+### bitcoinjs/bitcoinjs-lib
+
+Bitcoin-related functions implemented in pure JavaScript
+
+- URL: <https://github.com/bitcoinjs/bitcoinjs-lib>
+
+- Site: <http://bitcoinjs.org>
+
+- Pushed at: _Mar 16, 2015 5:31AM (UTC)_
+
+### Wisembly/basil.js
+
+The missing Javascript smart persistent layer
+
+- URL: <https://github.com/Wisembly/basil.js>
+
+- Site: <http://wisembly.github.io/basil.js>
+
+- Pushed at: _Jan 30, 2015 11:32AM (UTC)_
+
+### request/request
+
+Simplified HTTP request client.
+
+- URL: <https://github.com/request/request>
+
+- Pushed at: _Mar 13, 2015 6:06PM (UTC)_
+
+### caolan/async
+
+Async utilities for node and the browser
+
+- URL: <https://github.com/caolan/async>
+
+- Pushed at: _Feb 15, 2015 8:23PM (UTC)_
+
+### cheeriojs/cheerio
+
+Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+
+- URL: <https://github.com/cheeriojs/cheerio>
+
+- Site: <http://cheeriojs.github.io/cheerio/>
+
+- Pushed at: _Mar 10, 2015 2:14PM (UTC)_
+
+### mholt/PapaParse
+
+Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+
+- URL: <https://github.com/mholt/PapaParse>
+
+- Site: <http://PapaParse.com>
+
+- Pushed at: _Mar 13, 2015 5:09PM (UTC)_
+
+### urbanairship/tessera
+
+A dashboard front-end for graphite.  
+
+- URL: <https://github.com/urbanairship/tessera>
+
+- Site: <urbanairship.github.io/tessera/>
+
+- Pushed at: _Mar 14, 2015 5:13AM (UTC)_
+
+### ins0/AdminLTE
+
+AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x
+
+- URL: <https://github.com/ins0/AdminLTE>
+
+- Site: <http://www.almsaeedstudio.com>
+
+- Pushed at: _Jul 10, 2014 1:47PM (UTC)_
+
+### jsonresume/resume-cli
+
+Install our command line tool, to easily setup a new resume.json. Once setup, you can export or publish straight from terminal
+
+- URL: <https://github.com/jsonresume/resume-cli>
+
+- Site: <http://jsonresume.org>
+
+- Pushed at: _Mar 10, 2015 2:04AM (UTC)_
+
+### darsain/sly
+
+JavaScript library for one-directional scrolling with item based navigation support.
+
+- URL: <https://github.com/darsain/sly>
+
+- Site: <http://darsa.in/sly>
+
+- Pushed at: _Mar 10, 2015 10:20PM (UTC)_
+
+### jeffharrell/minicart
+
+The minicart is a great way to improve your PayPal shopping cart integration.
+
+- URL: <https://github.com/jeffharrell/minicart>
+
+- Site: <http://minicartjs.com/>
+
+- Pushed at: _Mar 15, 2015 3:28AM (UTC)_
+
+### zeroclipboard/zeroclipboard
+
+The ZeroClipboard library provides an easy way to copy text to the clipboard using an invisible Adobe Flash movie and a JavaScript interface.
+
+- URL: <https://github.com/zeroclipboard/zeroclipboard>
+
+- Site: <http://zeroclipboard.org/>
+
+- Pushed at: _Jan 1, 2015 6:02AM (UTC)_
+
+### mikedeboer/node-github
+
+node library to access the GitHub API
+
+- URL: <https://github.com/mikedeboer/node-github>
+
+- Site: <http://mikedeboer.github.com/node-github/>
+
+- Pushed at: _Feb 10, 2015 10:44PM (UTC)_
+
+### vitorfs/bootcamp
+
+An enterprise social network
+
+- URL: <https://github.com/vitorfs/bootcamp>
+
+- Site: <trybootcamp.vitorfs.com>
+
+- Pushed at: _Feb 1, 2015 10:51PM (UTC)_
+
+### Laverna/laverna
+
+Laverna is a JavaScript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote.
+
+- URL: <https://github.com/Laverna/laverna>
+
+- Site: <https://laverna.cc/index.html>
+
+- Pushed at: _Feb 2, 2015 7:04PM (UTC)_
+
+### guillaumepotier/uwidget
+
+Universal Widget, easily display a API-distant collection of objects, with simple sorting and filters option.
+
+- URL: <https://github.com/guillaumepotier/uwidget>
+
+- Site: <http://guillaumepotier.github.io/uwidget/>
+
+- Pushed at: _Mar 4, 2014 10:37PM (UTC)_
+
+### ahuth/brackets-indentator
+
+Re-indent documents in Adobe Brackets according to your current tab settings
+
+- URL: <https://github.com/ahuth/brackets-indentator>
+
+- Pushed at: _May 12, 2014 9:41AM (UTC)_
+
+### zackshapiro/chrome-extension-template
+
+A blank Chrome extension with basic message handling
+
+- URL: <https://github.com/zackshapiro/chrome-extension-template>
+
+- Pushed at: _Apr 22, 2014 11:51PM (UTC)_
+
+### HabitRPG/habitrpg
+
+A habit tracker app which treats your goals like a Role Playing Game.
+
+- URL: <https://github.com/HabitRPG/habitrpg>
+
+- Site: <habitrpg.com>
+
+- Pushed at: _Mar 16, 2015 2:39PM (UTC)_
+
+### telerik/kendo-ui-core
+
+Kendo UI Core
+
+- URL: <https://github.com/telerik/kendo-ui-core>
+
+- Site: <http://www.telerik.com/kendo-ui>
+
+- Pushed at: _Mar 16, 2015 3:34PM (UTC)_
+
+### tripit/slate
+
+Beautiful static documentation for your API
+
+- URL: <https://github.com/tripit/slate>
+
+- Pushed at: _Mar 12, 2015 6:29PM (UTC)_
+
+### thedjpetersen/subway
+
+A web based IRC client with grand ambitions.
+
+- URL: <https://github.com/thedjpetersen/subway>
+
+- Pushed at: _Jan 6, 2015 6:01PM (UTC)_
+
+### kandanapp/kandan
+
+Kandan is an Open Source Alternative to HipChat
+
+- URL: <https://github.com/kandanapp/kandan>
+
+- Pushed at: _Mar 14, 2015 7:35PM (UTC)_
+
+### eternicode/bootstrap-datepicker
+
+A datepicker for @twitter bootstrap forked from Stefan Petre's (of eyecon.ro), improvements by @eternicode
+
+- URL: <https://github.com/eternicode/bootstrap-datepicker>
+
+- Pushed at: _Mar 16, 2015 8:17AM (UTC)_
+
+### andrewelkins/Laravel-4-Bootstrap-Starter-Site
+
+Laravel 4 Starter Site is a basic blog application using several nice community packages.
+
+- URL: <https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site>
+
+- Pushed at: _Mar 16, 2015 2:21PM (UTC)_
+
+### deployd/deployd
+
+a toolkit for building realtime APIs
+
+- URL: <https://github.com/deployd/deployd>
+
+- Site: <http://www.deployd.com>
+
+- Pushed at: _Mar 8, 2015 4:01PM (UTC)_
+
+### scoutapp/scout_realtime
+
+Realtime server metrics in your browser
+
+- URL: <https://github.com/scoutapp/scout_realtime>
+
+- Site: <http://scoutapp.github.io/scout_realtime/>
+
+- Pushed at: _Jun 27, 2014 5:21PM (UTC)_
+
+### OscarGodson/EpicEditor
+
+EpicEditor is an embeddable JavaScript Markdown editor with split fullscreen editing, live previewing, automatic draft saving, offline support, and more. For developers, it offers a robust API, can be easily themed, and allows you to swap out the bundled Markdown parser with anything you throw at it.
+
+- URL: <https://github.com/OscarGodson/EpicEditor>
+
+- Site: <http://epiceditor.com>
+
+- Pushed at: _Dec 8, 2014 12:29PM (UTC)_
+
+### tojrobinson/jurassicsystems.com
+
+HTML5/JavaScript recreation of the original Jurassic Park movie computer system.
+
+- URL: <https://github.com/tojrobinson/jurassicsystems.com>
+
+- Site: <http://www.jurassicsystems.com>
+
+- Pushed at: _Mar 6, 2015 4:22PM (UTC)_
+
+### nodyn/nodyn
+
+A node.js compatible framework running on the JVM.
+
+- URL: <https://github.com/nodyn/nodyn>
+
+- Site: <http://nodyn.io>
+
+- Pushed at: _Feb 24, 2015 5:32PM (UTC)_
+
+### linkedin/hopscotch
+
+A framework to make it easy for developers to add product tours to their pages.
+
+- URL: <https://github.com/linkedin/hopscotch>
+
+- Pushed at: _Mar 10, 2015 10:07PM (UTC)_
+
+### holidayextras/hxTracer
+
+A dependency-free Javascript Tracer
+
+- URL: <https://github.com/holidayextras/hxTracer>
+
+- Pushed at: _Apr 9, 2014 8:00AM (UTC)_
+
+### Graylog2/graylog2-web-interface
+
+- URL: <https://github.com/Graylog2/graylog2-web-interface>
+
+- Site: <https://www.graylog.org/>
+
+- Pushed at: _Mar 16, 2015 2:25PM (UTC)_
+
+### elastic/kibana
+
+Kibana
+
+- URL: <https://github.com/elastic/kibana>
+
+- Site: <http://www.elasticsearch.org/overview/kibana/>
+
+- Pushed at: _Mar 9, 2015 10:56PM (UTC)_
+
+### driftyco/ionic
+
+Advanced HTML5 mobile development framework and SDK. Build incredible hybrid apps with web technologies you already know and love. Best friends with AngularJS.
+
+- URL: <https://github.com/driftyco/ionic>
+
+- Site: <http://ionicframework.com/>
+
+- Pushed at: _Mar 13, 2015 4:47PM (UTC)_
+
+### driftyco/ionic-weather
+
+A simple Ionic Weather app
+
+- URL: <https://github.com/driftyco/ionic-weather>
+
+- Pushed at: _Jan 6, 2015 6:35PM (UTC)_
+
+### spolu/repl
+
+To JSON what Excel is to CSV
+
+- URL: <https://github.com/spolu/repl>
+
+- Pushed at: _May 2, 2014 4:38PM (UTC)_
+
+### fananta/Pumpkin
+
+User moderated open commenting system
+
+- URL: <https://github.com/fananta/Pumpkin>
+
+- Pushed at: _Feb 24, 2013 6:14PM (UTC)_
+
+### bitpay/insight
+
+A bitcoin blockchain API for web wallets. #bitcore on Freenode.
+
+- URL: <https://github.com/bitpay/insight>
+
+- Site: <http://insight.is>
+
+- Pushed at: _Nov 30, 2014 10:37PM (UTC)_
+
+### bitpay/bitcore
+
+A pure and powerful JavaScript Bitcoin library
+
+- URL: <https://github.com/bitpay/bitcore>
+
+- Pushed at: _Mar 13, 2015 7:35PM (UTC)_
+
+### cockpit-project/cockpit
+
+Cockpit, a user interface for GNU/Linux servers
+
+- URL: <https://github.com/cockpit-project/cockpit>
+
+- Site: <http://www.cockpit-project.org/>
+
+- Pushed at: _Mar 16, 2015 3:30PM (UTC)_
+
+### niftylettuce/node-email-templates
+
+Node.js module for rendering beautiful emails with ejs templates and email-friendly inline CSS using juice.
+
+- URL: <https://github.com/niftylettuce/node-email-templates>
+
+- Pushed at: _Mar 15, 2015 7:07AM (UTC)_
+
+### pstadler/flightplan
+
+Node.js library for streamlining application deployment or systems administration tasks.
+
+- URL: <https://github.com/pstadler/flightplan>
+
+- Site: <https://www.npmjs.com/package/flightplan>
+
+- Pushed at: _Feb 28, 2015 12:07PM (UTC)_
+
+### metaware/angularjs-form-builder
+
+A simple form builder application written with AngularJS.
+
+- URL: <https://github.com/metaware/angularjs-form-builder>
+
+- Site: < http://selmanh.github.io/angularjs-form-builder>
+
+- Pushed at: _Jan 25, 2014 3:41AM (UTC)_
+
+### zedshaw/jzed
+
+Functional Javascript alternative to JQuery.
+
+- URL: <https://github.com/zedshaw/jzed>
+
+- Pushed at: _Feb 14, 2014 6:34PM (UTC)_
+
+### facebook/react
+
+A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+- URL: <https://github.com/facebook/react>
+
+- Site: <http://facebook.github.io/react/>
+
+- Pushed at: _Mar 14, 2015 1:04AM (UTC)_
+
+### beatfactor/nightwatch
+
+UI automated testing framework based on node.js and selenium webdriver
+
+- URL: <https://github.com/beatfactor/nightwatch>
+
+- Site: <http://nightwatchjs.org>
+
+- Pushed at: _Mar 8, 2015 9:56AM (UTC)_
+
+### jefftimesten/mturk
+
+Mechanical Turk APi for Node
+
+- URL: <https://github.com/jefftimesten/mturk>
+
+- Pushed at: _Nov 7, 2014 3:24AM (UTC)_
+
+### arachnys/cabot
+
+Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+
+- URL: <https://github.com/arachnys/cabot>
+
+- Pushed at: _Mar 8, 2015 12:40PM (UTC)_
+
+### motdotla/kibble
+
+RESTful API on top of Dogecoin. So endpnts.
+
+- URL: <https://github.com/motdotla/kibble>
+
+- Pushed at: _Jan 26, 2014 12:06AM (UTC)_
+
+### videojs/video.js
+
+Video.js - open source HTML5 & Flash video player
+
+- URL: <https://github.com/videojs/video.js>
+
+- Site: <www.videojs.com>
+
+- Pushed at: _Mar 12, 2015 6:52PM (UTC)_
+
+### jaredhanson/passport
+
+Simple, unobtrusive authentication for Node.js.
+
+- URL: <https://github.com/jaredhanson/passport>
+
+- Site: <http://passportjs.org/>
+
+- Pushed at: _Mar 2, 2015 9:27PM (UTC)_
+
+### namuol/cheet.js
+
+easy easter eggs (konami code, etc) for your website.
+
+- URL: <https://github.com/namuol/cheet.js>
+
+- Site: <http://namuol.github.io/cheet.js>
+
+- Pushed at: _Jan 23, 2015 12:57PM (UTC)_
+
+### krakenjs/kraken-js
+
+An express-based Node.js web application bootstrapping module.
+
+- URL: <https://github.com/krakenjs/kraken-js>
+
+- Pushed at: _Mar 13, 2015 1:44PM (UTC)_
+
+### mailru/FileAPI
+
+FileAPI — a set of  javascript tools for working with files. Multiupload, drag'n'drop and chunked file upload. Images: crop, resize and auto orientation by EXIF.
+
+- URL: <https://github.com/mailru/FileAPI>
+
+- Site: <http://mailru.github.io/FileAPI/>
+
+- Pushed at: _Mar 12, 2015 2:59PM (UTC)_
+
+### airbnb/javascript
+
+JavaScript Style Guide
+
+- URL: <https://github.com/airbnb/javascript>
+
+- Pushed at: _Mar 11, 2015 11:07PM (UTC)_
+
+### jseidelin/exif-js
+
+JavaScript library for reading EXIF image metadata
+
+- URL: <https://github.com/jseidelin/exif-js>
+
+- Pushed at: _Oct 23, 2014 3:16PM (UTC)_
+
+### occ/TraceKit
+
+Attempts to create stack traces for unhandled JavaScript exceptions in all major browsers.
+
+- URL: <https://github.com/occ/TraceKit>
+
+- Pushed at: _Oct 13, 2013 2:40AM (UTC)_
+
+### stacktracejs/stacktrace.js
+
+Framework-agnostic, micro-library for getting stack traces in all web browsers
+
+- URL: <https://github.com/stacktracejs/stacktrace.js>
+
+- Site: <http://www.stacktracejs.com/>
+
+- Pushed at: _Mar 3, 2015 2:54PM (UTC)_
+
+### itteco/iframely
+
+Embeds API you wish you built yourself. Over 1600 domains. (Responsive, oEmbed, Twitter Cards, Open Graph, Readability and more)
+
+- URL: <https://github.com/itteco/iframely>
+
+- Site: <https://iframely.com>
+
+- Pushed at: _Mar 15, 2015 1:20AM (UTC)_
+
+### altryne/extensionizr
+
+Extensionizr! Create a chrome extension in 15 seconds!
+
+- URL: <https://github.com/altryne/extensionizr>
+
+- Site: <http://www.extensionizr.com>
+
+- Pushed at: _Feb 26, 2014 4:25PM (UTC)_
+
+### daviferreira/medium-editor
+
+Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
+
+- URL: <https://github.com/daviferreira/medium-editor>
+
+- Site: <http://daviferreira.github.io/medium-editor/>
+
+- Pushed at: _Mar 16, 2015 3:19PM (UTC)_
+
+### hmert/jquery-event-playback
+
+Records and plays back mouse movements and events (useful for interactive demonstrations or tours)
+
+- URL: <https://github.com/hmert/jquery-event-playback>
+
+- Pushed at: _Sep 19, 2014 6:20PM (UTC)_
+
+### jimhigson/oboe.js
+
+A streaming approach to JSON. Oboe.js speeds up web applications by providing parsed objects before the response completes.
+
+- URL: <https://github.com/jimhigson/oboe.js>
+
+- Site: <http://oboejs.com>
+
+- Pushed at: _Feb 5, 2015 10:04AM (UTC)_
+
+### TryGhost/Ghost
+
+Just a blogging platform
+
+- URL: <https://github.com/TryGhost/Ghost>
+
+- Site: <https://ghost.org>
+
+- Pushed at: _Mar 13, 2015 9:37PM (UTC)_
+
+### marionettejs/backbone.marionette
+
+The Backbone Framework
+
+- URL: <https://github.com/marionettejs/backbone.marionette>
+
+- Site: <http://marionettejs.com>
+
+- Pushed at: _Mar 16, 2015 12:13AM (UTC)_
+
+### linnovate/mean
+
+MEAN (Mongo, Express, Angular, Node) - A Simple, Scalable and Easy starting point for full stack javascript web development - utilizing many of the best practices we've found on the way
+
+- URL: <https://github.com/linnovate/mean>
+
+- Site: <http://mean.io>
+
+- Pushed at: _Mar 16, 2015 2:44PM (UTC)_
+
+### kenkeiter/skeuocard
+
+Skeuocard progressively enhances credit card inputs to provide a skeuomorphic interface.
+
+- URL: <https://github.com/kenkeiter/skeuocard>
+
+- Site: <http://kenkeiter.com/skeuocard/>
+
+- Pushed at: _Oct 8, 2014 7:33PM (UTC)_
+
+### NUKnightLab/TimelineJS
+
+TimelineJS: A Storytelling Timeline built in JavaScript. 
+
+- URL: <https://github.com/NUKnightLab/TimelineJS>
+
+- Site: <http://timeline.knightlab.com>
+
+- Pushed at: _Mar 11, 2015 3:12PM (UTC)_
+
+### swagger-api/swagger-ui
+
+Swagger UI is a dependency-free collection of HTML, Javascript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
+
+- URL: <https://github.com/swagger-api/swagger-ui>
+
+- Site: <http://swagger.io>
+
+- Pushed at: _Mar 13, 2015 1:35AM (UTC)_
+
+### allmarkedup/purl
+
+[NO LONGER MAINTAINED] A JS utility for for parsing URLs and extracting information out of them.
+
+- URL: <https://github.com/allmarkedup/purl>
+
+- Pushed at: _Nov 11, 2014 9:49AM (UTC)_
+
+### stylehatch/photoset-grid
+
+A simple jQuery plugin to arrange images into a flexible grid, based on Tumblr's photoset feature.
+
+- URL: <https://github.com/stylehatch/photoset-grid>
+
+- Site: <http://stylehatch.github.com/photoset-grid/>
+
+- Pushed at: _Jan 9, 2015 12:26AM (UTC)_
+
+### louischatriot/nedb
+
+Embedded datastore for node.js
+
+- URL: <https://github.com/louischatriot/nedb>
+
+- Pushed at: _Mar 10, 2015 1:26PM (UTC)_
+
+### aluzzardi/wssh
+
+SSH to WebSockets Bridge
+
+- URL: <https://github.com/aluzzardi/wssh>
+
+- Pushed at: _Sep 23, 2014 9:05AM (UTC)_
+
+### usablica/widearea
+
+Create expandable textarea and write large amount of text easily.
+
+- URL: <https://github.com/usablica/widearea>
+
+- Site: <http://usablica.github.io/widearea/>
+
+- Pushed at: _Feb 7, 2014 7:44PM (UTC)_
+
+### mozilla/task.js
+
+Beautiful concurrency for JavaScript
+
+- URL: <https://github.com/mozilla/task.js>
+
+- Site: <http://taskjs.org>
+
+- Pushed at: _Nov 28, 2013 7:37AM (UTC)_
+
+### mindmup/bootstrap-wysiwyg
+
+Tiny bootstrap-compatible WISWYG rich text editor
+
+- URL: <https://github.com/mindmup/bootstrap-wysiwyg>
+
+- Pushed at: _Jan 9, 2015 7:29AM (UTC)_
+
+### acolangelo/jPanelMenu
+
+A jQuery plugin that creates a paneled-style menu (like the type seen in the mobile versions of Facebook and Google, as well as in many native iPhone applications).
+
+- URL: <https://github.com/acolangelo/jPanelMenu>
+
+- Site: <http://jpanelmenu.com>
+
+- Pushed at: _Mar 4, 2015 3:20PM (UTC)_
+
+### artberri/sidr
+
+Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive. 
+
+- URL: <https://github.com/artberri/sidr>
+
+- Site: <http://www.berriart.com/sidr/>
+
+- Pushed at: _Nov 6, 2013 4:32PM (UTC)_
+
+### bramp/js-sequence-diagrams
+
+Draws simple SVG sequence diagrams from textual representation of the diagram
+
+- URL: <https://github.com/bramp/js-sequence-diagrams>
+
+- Site: <http://bramp.github.io/js-sequence-diagrams/>
+
+- Pushed at: _Jan 5, 2015 2:48AM (UTC)_
+
+### mesos/chronos
+
+Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules
+
+- URL: <https://github.com/mesos/chronos>
+
+- Pushed at: _Mar 13, 2015 11:01PM (UTC)_
+
+### HubSpot/messenger
+
+Growl-style alerts and messages for your app. #hubspot-open-source
+
+- URL: <https://github.com/HubSpot/messenger>
+
+- Site: <http://github.hubspot.com/messenger/>
+
+- Pushed at: _Oct 24, 2014 5:51PM (UTC)_
+
+### amoffat/bootstrap-application-wizard
+
+- URL: <https://github.com/amoffat/bootstrap-application-wizard>
+
+- Pushed at: _Feb 7, 2014 7:52AM (UTC)_
+
+### guillaumepotier/Parsley.js
+
+Validate your forms, frontend, without writing a single line of javascript
+
+- URL: <https://github.com/guillaumepotier/Parsley.js>
+
+- Site: <http://parsleyjs.org>
+
+- Pushed at: _Mar 16, 2015 1:17PM (UTC)_
+
+### amsul/pickadate.js
+
+The mobile-friendly, responsive, and lightweight jQuery date & time input picker.
+
+- URL: <https://github.com/amsul/pickadate.js>
+
+- Site: <http://amsul.ca/pickadate.js>
+
+- Pushed at: _Feb 9, 2015 5:23AM (UTC)_
+
+### TelescopeJS/Telescope
+
+An open-source social news app built with Meteor
+
+- URL: <https://github.com/TelescopeJS/Telescope>
+
+- Site: <http://telesc.pe>
+
+- Pushed at: _Mar 16, 2015 5:16AM (UTC)_
+
+### bower/bower
+
+A package manager for the web
+
+- URL: <https://github.com/bower/bower>
+
+- Site: <bower.io>
+
+- Pushed at: _Mar 13, 2015 1:57PM (UTC)_
+
+### davidcrawford/typist-jquery
+
+Add animated text typing to any element.
+
+- URL: <https://github.com/davidcrawford/typist-jquery>
+
+- Pushed at: _Aug 8, 2012 12:39AM (UTC)_
+
+### layervault/jquery.typer.js
+
+A simple jQuery plugin for a slick typing effect.
+
+- URL: <https://github.com/layervault/jquery.typer.js>
+
+- Pushed at: _Aug 2, 2014 1:29AM (UTC)_
+
+### ducksboard/gridster.js
+
+gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns 
+
+- URL: <https://github.com/ducksboard/gridster.js>
+
+- Site: <http://gridster.net/>
+
+- Pushed at: _Sep 25, 2014 10:31AM (UTC)_
+
+### vimeo/tailgate
+
+Tailgate is a nodejs app to pipe `tail -F` into websockets.  It's a very simple way to have real-time access to your logs. 
+
+- URL: <https://github.com/vimeo/tailgate>
+
+- Pushed at: _Apr 11, 2014 5:07PM (UTC)_
+
+### segmentio/analytics.js
+
+The hassle-free way to integrate analytics into any web application.
+
+- URL: <https://github.com/segmentio/analytics.js>
+
+- Site: <https://segment.com/libraries/analytics.js>
+
+- Pushed at: _Mar 8, 2015 4:08AM (UTC)_
+
+### fabien-d/alertify.js
+
+JavaScript Alert/Notification System
+
+- URL: <https://github.com/fabien-d/alertify.js>
+
+- Site: <http://fabien-d.github.com/alertify.js/>
+
+- Pushed at: _Aug 4, 2014 1:22PM (UTC)_
+
+### wearefractal/pinger
+
+Native ICMP ping for node
+
+- URL: <https://github.com/wearefractal/pinger>
+
+- Pushed at: _Aug 5, 2013 9:37PM (UTC)_
+
+### alexeypro/crud-bones
+
+Sample CRUD application with Node.JS, using MySQL, Mongo and Redis. Basically, I am using it as a boilerplate (template, skeleton) for all new backend apps I start.
+
+- URL: <https://github.com/alexeypro/crud-bones>
+
+- Site: <http://words.alexeypro.com/crud-bones/>
+
+- Pushed at: _Apr 27, 2012 5:19AM (UTC)_
+
+### AVGP/Montagsmaler
+
+Draw something clone using node.js, socket.io.js and HTML5
+
+- URL: <https://github.com/AVGP/Montagsmaler>
+
+- Pushed at: _Jan 27, 2014 6:47PM (UTC)_
+
+### fzaninotto/screenshot-as-a-service
+
+Website screenshot service powered by node.js and phantomjs
+
+- URL: <https://github.com/fzaninotto/screenshot-as-a-service>
+
+- Pushed at: _Jan 15, 2015 8:26AM (UTC)_
+
+### saw/Canvas-ASCII-Art
+
+Make ascii art with canvas
+
+- URL: <https://github.com/saw/Canvas-ASCII-Art>
+
+- Pushed at: _Mar 24, 2012 5:19AM (UTC)_
+
+### laktek/punch
+
+A fun and easy way to build modern websites
+
+- URL: <https://github.com/laktek/punch>
+
+- Site: <http://laktek.github.com/punch>
+
+- Pushed at: _Dec 7, 2014 12:52AM (UTC)_
+
+### triceam/app-UI
+
+app-UI is a collection of user interface components that may be helpful to web and mobile developers for creating interactive applications using HTML and JavaScript, especially those targeting mobile devices.  app-UI is a continual work in progress - it was born out of the necessity to have rich & native-feeling interfaces in HTML/JS experiences, and it works great with PhoneGap applications (http://www.phonegap.com).  app-UI can easily be styled/customized using CSS.
+
+- URL: <https://github.com/triceam/app-UI>
+
+- Site: <http://triceam.github.com/app-UI/>
+
+- Pushed at: _Feb 8, 2013 9:39PM (UTC)_
+
+### adamdbradley/foresight.js
+
+DEPRECATED: Prior to recent developments with the picture element, Foresight.js gaves webpages the ability to tell if the user's device is capable of viewing high-resolution images before the image is requested from the server. Additionally, it judges if the user's device currently has a fast enough network connection for high-resolution images. Depending on device display and network connectivity, foresight.js will request the appropriate image for the webpage.
+
+- URL: <https://github.com/adamdbradley/foresight.js>
+
+- Site: <http://www.cdnconnect.com/docs/foresightjs>
+
+- Pushed at: _Sep 10, 2014 7:54PM (UTC)_
+
+### select2/select2
+
+Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
+
+- URL: <https://github.com/select2/select2>
+
+- Site: <https://select2.github.io/>
+
+- Pushed at: _Mar 15, 2015 12:52AM (UTC)_
+
+### rogerbraun/HNBayes
+
+A client-side naive Bayes classifier for Hacker News
+
+- URL: <https://github.com/rogerbraun/HNBayes>
+
+- Pushed at: _Feb 21, 2012 12:25PM (UTC)_
+
+### blasten/turn.js
+
+The page flip effect for HTML5
+
+- URL: <https://github.com/blasten/turn.js>
+
+- Site: <www.turnjs.com>
+
+- Pushed at: _May 4, 2013 3:19PM (UTC)_
+
+### TooTallNate/ansi.js
+
+Advanced ANSI formatting tool for Node.js
+
+- URL: <https://github.com/TooTallNate/ansi.js>
+
+- Pushed at: _Oct 20, 2014 4:56AM (UTC)_
+
+### meteor/meteor
+
+Meteor, an ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
+
+- URL: <https://github.com/meteor/meteor>
+
+- Site: <www.meteor.com>
+
+- Pushed at: _Mar 15, 2015 6:06AM (UTC)_
+
+### atdt/escapes.js
+
+Render ANSI art using HTML5 / JavaScript
+
+- URL: <https://github.com/atdt/escapes.js>
+
+- Site: <http://atdt.github.com/escapes.js/>
+
+- Pushed at: _Sep 9, 2013 9:24AM (UTC)_
+
+### fzaninotto/uptime
+
+A remote monitoring application using Node.js, MongoDB, and Twitter Bootstrap.
+
+- URL: <https://github.com/fzaninotto/uptime>
+
+- Site: <http://fzaninotto.github.com/uptime/>
+
+- Pushed at: _May 27, 2014 12:33PM (UTC)_
+
+### calmh/node-snmp-native
+
+Native Javascript SNMP library for Node.js
+
+- URL: <https://github.com/calmh/node-snmp-native>
+
+- Pushed at: _Aug 2, 2014 6:08AM (UTC)_
+
+### bartaz/impress.js
+
+It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+
+- URL: <https://github.com/bartaz/impress.js>
+
+- Site: <http://bartaz.github.com/impress.js>
+
+- Pushed at: _Mar 10, 2015 2:17PM (UTC)_
+
+### ckrack/fbootstrapp
+
+HTML, CSS, and JS toolkit for facebook apps
+
+- URL: <https://github.com/ckrack/fbootstrapp>
+
+- Site: <http://ckrack.github.com/fbootstrapp/>
+
+- Pushed at: _Jan 17, 2012 4:16PM (UTC)_
+
+### enyojs/enyo
+
+A JavaScript application framework emphasizing modularity and encapsulation
+
+- URL: <https://github.com/enyojs/enyo>
+
+- Pushed at: _Mar 16, 2015 10:42AM (UTC)_
+
+### adobe/brackets
+
+An open source code editor for the web, written in JavaScript, HTML and CSS.
+
+- URL: <https://github.com/adobe/brackets>
+
+- Site: <http://brackets.io>
+
+- Pushed at: _Mar 16, 2015 12:27PM (UTC)_
+
+### iloire/WatchMen
+
+A Node.js service monitor
+
+- URL: <https://github.com/iloire/WatchMen>
+
+- Pushed at: _Feb 15, 2015 10:52AM (UTC)_
+
+### tbranyen/backbone.layoutmanager
+
+A layout and template manager for Backbone.js applications.
+
+- URL: <https://github.com/tbranyen/backbone.layoutmanager>
+
+- Site: <http://layoutmanager.org/>
+
+- Pushed at: _Feb 24, 2015 12:53AM (UTC)_
+
+### lokesh/color-thief
+
+Grabs the dominant color or a representative color palette from an image. Uses javascript and canvas.
+
+- URL: <https://github.com/lokesh/color-thief>
+
+- Pushed at: _Apr 17, 2014 6:42PM (UTC)_
+
+### okfn/recline
+
+A simple but powerful library for building data applications in pure Javascript and HTML.
+
+- URL: <https://github.com/okfn/recline>
+
+- Site: <http://okfnlabs.org/recline/>
+
+- Pushed at: _Mar 13, 2015 9:01PM (UTC)_
+
+### square/cube
+
+Cube: A system for time series visualization.
+
+- URL: <https://github.com/square/cube>
+
+- Site: <http://square.github.com/cube>
+
+- Pushed at: _Jul 30, 2014 9:42PM (UTC)_
+
+### n1k0/casperjs
+
+Navigation scripting & testing utility for PhantomJS and SlimerJS
+
+- URL: <https://github.com/n1k0/casperjs>
+
+- Site: <http://casperjs.org/>
+
+- Pushed at: _Mar 14, 2015 7:17AM (UTC)_
+
+### madrobby/keymaster
+
+A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.
+
+- URL: <https://github.com/madrobby/keymaster>
+
+- Pushed at: _Dec 17, 2014 7:19PM (UTC)_
+
+### candy-chat/candy
+
+JavaScript-based multi-user chat client for XMPP.
+
+- URL: <https://github.com/candy-chat/candy>
+
+- Site: <http://candy-chat.github.io/candy>
+
+- Pushed at: _Mar 11, 2015 12:24PM (UTC)_
+
+### HumbleSoftware/Flotr2
+
+Graphs and Charts for Canvas in JavaScript.
+
+- URL: <https://github.com/HumbleSoftware/Flotr2>
+
+- Site: <http://www.humblesoftware.com/flotr2/>
+
+- Pushed at: _Jul 21, 2014 6:45PM (UTC)_
+
+### mjackson/strata
+
+A modular, streaming HTTP server for node.js
+
+- URL: <https://github.com/mjackson/strata>
+
+- Site: <http://stratajs.org>
+
+- Pushed at: _Jul 4, 2014 8:39PM (UTC)_
+
+### bgaff/vnc.js
+
+A JavaScript VNC Client
+
+- URL: <https://github.com/bgaff/vnc.js>
+
+- Pushed at: _Jul 27, 2013 2:43AM (UTC)_
+
+### bgaff/tcp.js
+
+A NodeJS library which proxies TCP connections, used by vnc.js
+
+- URL: <https://github.com/bgaff/tcp.js>
+
+- Pushed at: _Jul 27, 2013 2:43AM (UTC)_
+
+### recurly/recurly-js
+
+Simple subscription billing in the browser
+
+- URL: <https://github.com/recurly/recurly-js>
+
+- Site: <http://js.recurly.com/>
+
+- Pushed at: _Mar 13, 2015 12:01AM (UTC)_
+
+### alexgorbatchev/jquery-textext
+
+A super awesome, customizable text input supporting tags, autocomplete, ajax and other goodness in a crazy cool a-la cart way.
+
+- URL: <https://github.com/alexgorbatchev/jquery-textext>
+
+- Site: <http://textextjs.com>
+
+- Pushed at: _Aug 7, 2013 5:01PM (UTC)_
+
+### niklasvh/html2canvas
+
+Screenshots with JavaScript
+
+- URL: <https://github.com/niklasvh/html2canvas>
+
+- Site: <http://html2canvas.hertzen.com/>
+
+- Pushed at: _Mar 7, 2015 11:03PM (UTC)_
+
+### tastejs/todomvc
+
+Helping you select an MV* framework - Todo apps for Backbone.js, Ember.js, AngularJS, and many more
+
+- URL: <https://github.com/tastejs/todomvc>
+
+- Site: <http://todomvc.com>
+
+- Pushed at: _Mar 15, 2015 9:00PM (UTC)_
+
+### emberjs/ember.js
+
+Ember.js - A JavaScript framework for creating ambitious web applications
+
+- URL: <https://github.com/emberjs/ember.js>
+
+- Site: <http://www.emberjs.com>
+
+- Pushed at: _Mar 16, 2015 1:57PM (UTC)_
+
+### imakewebthings/deck.js
+
+Modern HTML Presentations
+
+- URL: <https://github.com/imakewebthings/deck.js>
+
+- Site: <http://imakewebthings.github.com/deck.js>
+
+- Pushed at: _Jan 22, 2014 10:25PM (UTC)_
+
+### photo/frontend
+
+The official @github repository of the Trovebox frontend software. A photo sharing and photo management web interface for data stored "in the cloud" (i.e. Amazon S3, Rackspace CloudFiles, Google Storage).
+
+- URL: <https://github.com/photo/frontend>
+
+- Site: <https://trovebox.com>
+
+- Pushed at: _Jan 25, 2015 6:35AM (UTC)_
+
+### NaturalNode/natural
+
+general natural language facilities for node
+
+- URL: <https://github.com/NaturalNode/natural>
+
+- Pushed at: _Mar 16, 2015 1:53PM (UTC)_
+
+### mozilla/pdf.js
+
+PDF Reader in JavaScript
+
+- URL: <https://github.com/mozilla/pdf.js>
+
+- Pushed at: _Mar 16, 2015 11:50AM (UTC)_
+
+### mcavage/node-restify
+
+node.js REST framework specifically meant for web service APIs
+
+- URL: <https://github.com/mcavage/node-restify>
+
+- Site: <http://mcavage.github.com/node-restify>
+
+- Pushed at: _Mar 11, 2015 6:31AM (UTC)_
+
+### uipoet/sublime-jshint
+
+JSHint any JavaScript file in Sublime Text 2
+
+- URL: <https://github.com/uipoet/sublime-jshint>
+
+- Pushed at: _Feb 10, 2014 9:46AM (UTC)_
+
+### danielsim/FFFFind
+
+Node.js FFFFound.com crawler
+
+- URL: <https://github.com/danielsim/FFFFind>
+
+- Pushed at: _Apr 12, 2011 1:34AM (UTC)_
+
+### derbyjs/derby
+
+MVC framework making it easy to write realtime, collaborative applications that run in both Node.js and browsers
+
+- URL: <https://github.com/derbyjs/derby>
+
+- Site: <http://derbyjs.com>
+
+- Pushed at: _Mar 9, 2015 8:08AM (UTC)_
+
+### mikebrittain/linkedinresumes
+
+Bookmarklet for turning LinkedIn profiles into something that looks more like a resume
+
+- URL: <https://github.com/mikebrittain/linkedinresumes>
+
+- Site: <http://www.mikebrittain.com/linkedin/>
+
+- Pushed at: _Mar 23, 2011 3:20AM (UTC)_
+
+### mochajs/mocha
+
+mocha - simple, flexible, fun javascript test framework for node.js & the browser. (BDD, TDD, QUnit styles via interfaces)
+
+- URL: <https://github.com/mochajs/mocha>
+
+- Site: <http://mochajs.org>
+
+- Pushed at: _Mar 15, 2015 9:35PM (UTC)_
+
+### facebookarchive/Realtime-Demo
+
+Instagram Real-time API Demo
+
+- URL: <https://github.com/facebookarchive/Realtime-Demo>
+
+- Site: <http://demo.instagram.com>
+
+- Pushed at: _Feb 24, 2011 9:53AM (UTC)_
+
+### mikehostetler/amplify
+
+AmplifyJS
+
+- URL: <https://github.com/mikehostetler/amplify>
+
+- Site: <http://amplifyjs.com>
+
+- Pushed at: _Aug 8, 2014 5:19PM (UTC)_
+
+### aehlke/tag-it
+
+A jQuery UI plugin to handle multi-tag fields as well as tag suggestions/autocomplete.
+
+- URL: <https://github.com/aehlke/tag-it>
+
+- Site: <http://aehlke.github.com/tag-it/>
+
+- Pushed at: _Nov 18, 2014 4:09PM (UTC)_
+
+### mapchat/mapchat
+
+Install this couchapp on your CouchOne instance to be able to chat friends, discuss events on a map
+
+- URL: <https://github.com/mapchat/mapchat>
+
+- Site: <http://mapchat.me/>
+
+- Pushed at: _Jan 7, 2012 5:44PM (UTC)_
+
+### alexmic/filtrr
+
+Javascript image filters library.
+
+- URL: <https://github.com/alexmic/filtrr>
+
+- Site: <http://filtrr.me>
+
+- Pushed at: _Nov 13, 2013 12:00AM (UTC)_
+
+### ptwobrussell/Recipes-for-Mining-Twitter
+
+Adaptations and Extensions of Twitter-Related Examples from Mining the Social Web
+
+- URL: <https://github.com/ptwobrussell/Recipes-for-Mining-Twitter>
+
+- Site: <http://amzn.to/d1Ci8A>
+
+- Pushed at: _Sep 3, 2013 2:31PM (UTC)_
+
+### jshint/jshint
+
+JSHint is a tool that helps to detect errors and potential problems in your JavaScript code
+
+- URL: <https://github.com/jshint/jshint>
+
+- Site: <http://jshint.com>
+
+- Pushed at: _Mar 13, 2015 1:52AM (UTC)_
+
+### socketstream/socketstream
+
+A framework for Realtime Web Apps
+
+- URL: <https://github.com/socketstream/socketstream>
+
+- Site: <http://socketstream.com>
+
+- Pushed at: _Mar 15, 2015 1:50PM (UTC)_
+
+### mape/node-scraper
+
+Easier web scraping using node.js and jQuery
+
+- URL: <https://github.com/mape/node-scraper>
+
+- Pushed at: _Sep 2, 2011 2:27AM (UTC)_
+
+### douglascrockford/JSON-js
+
+JSON in JavaScript
+
+- URL: <https://github.com/douglascrockford/JSON-js>
+
+- Site: <http://www.JSON.org/>
+
+- Pushed at: _Feb 25, 2015 6:21PM (UTC)_
+
+### chriso/node.io
+
+- URL: <https://github.com/chriso/node.io>
+
+- Pushed at: _Dec 4, 2014 1:52AM (UTC)_
+
+### ptwobrussell/Mining-the-Social-Web
+
+The official online compendium for Mining the Social Web (O'Reilly, 2011)
+
+- URL: <https://github.com/ptwobrussell/Mining-the-Social-Web>
+
+- Site: <http://bit.ly/135dHfs>
+
+- Pushed at: _Oct 18, 2013 1:41PM (UTC)_
+
+### ajaxorg/ace
+
+Ace (Ajax.org Cloud9 Editor)
+
+- URL: <https://github.com/ajaxorg/ace>
+
+- Site: <http://ace.c9.io>
+
+- Pushed at: _Mar 15, 2015 11:28AM (UTC)_
+
+### jashkenas/backbone
+
+Give your JS App some Backbone with Models, Views, Collections, and Events
+
+- URL: <https://github.com/jashkenas/backbone>
+
+- Site: <http://backbonejs.org>
+
+- Pushed at: _Mar 16, 2015 2:00PM (UTC)_
+
+### madrobby/zepto
+
+Zepto.js is a minimalist JavaScript library for modern browsers, with a jQuery-compatible API
+
+- URL: <https://github.com/madrobby/zepto>
+
+- Site: <http://zeptojs.com>
+
+- Pushed at: _Jan 29, 2015 9:46AM (UTC)_
+
+### mishoo/UglifyJS
+
+JavaScript parser / mangler / compressor / beautifier library for NodeJS
+
+- URL: <https://github.com/mishoo/UglifyJS>
+
+- Site: <http://marijn.haverbeke.nl/uglifyjs>
+
+- Pushed at: _Feb 20, 2014 6:45AM (UTC)_
+
+### xui/xui
+
+A tiny javascript framework for mobile web apps. 
+
+- URL: <https://github.com/xui/xui>
+
+- Site: <http://xuijs.com>
+
+- Pushed at: _Jan 28, 2014 6:16PM (UTC)_
+
+### simplegeo/simplegeo.js
+
+JavaScript client for SimpleGeo
+
+- URL: <https://github.com/simplegeo/simplegeo.js>
+
+- Pushed at: _Sep 14, 2011 12:35AM (UTC)_
+
+### benschwarz/currency.io
+
+An offline-capable, html5 currency converter app for the iPhone
+
+- URL: <https://github.com/benschwarz/currency.io>
+
+- Site: <currency.io>
+
+- Pushed at: _Sep 13, 2011 4:19AM (UTC)_
+
+### sequelize/sequelize
+
+Sequelize is an easy-to-use multi sql dialect ORM for Node.js & io.js. It currently supports MySQL, MariaDB, SQLite, PostgreSQL and MSSQL.
+
+- URL: <https://github.com/sequelize/sequelize>
+
+- Site: <http://sequelizejs.com>
+
+- Pushed at: _Mar 16, 2015 3:14PM (UTC)_
+
+### fogbeam/Quoddy
+
+Quoddy: Open Source Enterprise Social Networking
+
+- URL: <https://github.com/fogbeam/Quoddy>
+
+- Site: <http://code.google.com/p/quoddy>
+
+- Pushed at: _Jan 6, 2015 10:09PM (UTC)_
+
+### knockout/knockout
+
+Knockout makes it easier to create rich, responsive UIs with JavaScript
+
+- URL: <https://github.com/knockout/knockout>
+
+- Site: <http://knockoutjs.com/>
+
+- Pushed at: _Mar 6, 2015 2:55PM (UTC)_
+
+### robflaherty/html-slideshow
+
+Lightweight HTML5-based slideshow 
+
+- URL: <https://github.com/robflaherty/html-slideshow>
+
+- Pushed at: _Sep 4, 2011 2:32PM (UTC)_
+
+### infinite-scroll/infinite-scroll
+
+jQuery and Wordpress plugins for infinite scroll
+
+- URL: <https://github.com/infinite-scroll/infinite-scroll>
+
+- Site: <http://www.infinite-scroll.com>
+
+- Pushed at: _Feb 20, 2015 3:12AM (UTC)_
+
+### davejohnson/phonegap-windows
+
+PhoneGap wrapper for running HTML5 apps as native Windows desktop apps
+
+- URL: <https://github.com/davejohnson/phonegap-windows>
+
+- Site: <http://www.phonegap.com>
+
+- Pushed at: _Oct 30, 2011 7:14PM (UTC)_
+
+### LearnBoost/mongoose
+
+MongoDB object modeling designed to work in an asynchronous environment.
+
+- URL: <https://github.com/LearnBoost/mongoose>
+
+- Site: <http://mongoosejs.com>
+
+- Pushed at: _Mar 16, 2015 3:32PM (UTC)_
+
+### embedly/embedly-jquery
+
+JQuery Library for Embedly. 
+
+- URL: <https://github.com/embedly/embedly-jquery>
+
+- Site: <http://embedly.github.com/embedly-jquery/>
+
+- Pushed at: _Dec 9, 2014 6:40PM (UTC)_
+
+### Automattic/socket.io
+
+Realtime application framework (Node.JS server)
+
+- URL: <https://github.com/Automattic/socket.io>
+
+- Site: <http://socket.io>
+
+- Pushed at: _Mar 3, 2015 6:51PM (UTC)_
+
+### endtwist/AjaxIM
+
+instant messaging framework
+
+- URL: <https://github.com/endtwist/AjaxIM>
+
+- Site: <http://ajaxim.com>
+
+- Pushed at: _May 19, 2014 7:40PM (UTC)_
+
+### h5bp/html5-boilerplate
+
+A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+- URL: <https://github.com/h5bp/html5-boilerplate>
+
+- Site: <https://html5boilerplate.com/>
+
+- Pushed at: _Mar 13, 2015 8:46PM (UTC)_
+
+### mongodb/node-mongodb-native
+
+Mongo DB Native NodeJS Driver
+
+- URL: <https://github.com/mongodb/node-mongodb-native>
+
+- Site: <http://mongodb.github.com/node-mongodb-native/>
+
+- Pushed at: _Mar 16, 2015 2:49PM (UTC)_
+
+### angular/angular.js
+
+HTML enhanced for web apps
+
+- URL: <https://github.com/angular/angular.js>
+
+- Site: <http://angularjs.org>
+
+- Pushed at: _Mar 15, 2015 9:02PM (UTC)_
+
+### desandro/masonry
+
+Cascading grid layout library
+
+- URL: <https://github.com/desandro/masonry>
+
+- Site: <http://masonry.desandro.com>
+
+- Pushed at: _Mar 6, 2015 6:32PM (UTC)_
+
+### benpickles/peity
+
+Progressive <svg> pie, donut, bar and line charts
+
+- URL: <https://github.com/benpickles/peity>
+
+- Site: <http://benpickles.github.io/peity>
+
+- Pushed at: _Feb 11, 2015 11:18AM (UTC)_
+
+### voloko/uki
+
+Simple UiKit for complex web apps
+
+- URL: <https://github.com/voloko/uki>
+
+- Site: <http://ukijs.org>
+
+- Pushed at: _Jul 12, 2012 1:54AM (UTC)_
+
+### Modernizr/Modernizr
+
+Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+
+- URL: <https://github.com/Modernizr/Modernizr>
+
+- Site: <http://modernizr.com>
+
+- Pushed at: _Mar 13, 2015 5:04PM (UTC)_
+
+### phacility/javelin
+
+Large, bloated Javascript framework with an unintuitive, verbose syntax and very few features. Browsing its inelegant, poorly written source is an unwelcome experience.
+
+- URL: <https://github.com/phacility/javelin>
+
+- Site: <http://www.javelinjs.com/>
+
+- Pushed at: _Jul 3, 2014 1:52AM (UTC)_
+
+### strongloop/express
+
+Fast, unopinionated, minimalist web framework for node.
+
+- URL: <https://github.com/strongloop/express>
+
+- Site: <http://expressjs.com>
+
+- Pushed at: _Mar 3, 2015 5:06AM (UTC)_
+
+### metajack/strophejs
+
+The Strophe.js repository has moved to https://github.com/strophe/strophejs
+
+- URL: <https://github.com/metajack/strophejs>
+
+- Site: <http://strophe.im/strophejs>
+
+- Pushed at: _Apr 30, 2013 4:41PM (UTC)_
+
+### scaron/prettyphoto
+
+prettyPhoto is a jQuery based lightbox clone. Not only does it support images, it also add support for videos, flash, YouTube, iFrames. It’s a full blown media lightbox. The setup is easy and quick, plus the script is compatible in every major browser.
+
+- URL: <https://github.com/scaron/prettyphoto>
+
+- Site: <http://www.no-margin-for-errors.com/projects/prettyPhoto-jquery-lightbox-clone/>
+
+- Pushed at: _Mar 19, 2013 2:01PM (UTC)_
+
+### jackmoore/colorbox
+
+A light-weight, customizable lightbox plugin for jQuery
+
+- URL: <https://github.com/jackmoore/colorbox>
+
+- Site: <http://www.jacklmoore.com/colorbox/>
+
+- Pushed at: _Mar 3, 2015 4:57PM (UTC)_
+
+### jquery/sizzle
+
+A sizzlin' hot selector engine.
+
+- URL: <https://github.com/jquery/sizzle>
+
+- Site: <http://sizzlejs.com/>
+
+- Pushed at: _Mar 2, 2015 4:24PM (UTC)_
 
 ## [PHP](id:php)
 
-63 repositories
+70 repositories
+### maknz/slack
+
+A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax. Includes Laravel support out of the box.
+
+- URL: <https://github.com/maknz/slack>
+
+- Pushed at: _Mar 14, 2015 8:36PM (UTC)_
+
+### juanchorossi/Crunchbase-API-PHP-Library
+
+Crunchbase API PHP Library
+
+- URL: <https://github.com/juanchorossi/Crunchbase-API-PHP-Library>
+
+- Pushed at: _Dec 8, 2014 12:02AM (UTC)_
+
+### mledoze/countries
+
+World countries in JSON, CSV, XML and Yaml. Any help is welcome!
+
+- URL: <https://github.com/mledoze/countries>
+
+- Site: <https://git.io/countries>
+
+- Pushed at: _Mar 8, 2015 7:22PM (UTC)_
+
+### filp/whoops
+
+php errors for cool kids 
+
+- URL: <https://github.com/filp/whoops>
+
+- Site: <http://filp.github.io/whoops/>
+
+- Pushed at: _Mar 15, 2015 11:28AM (UTC)_
+
+### grena/gruik
+
+Gruik ! An open-source markdown note-taking web app
+
+- URL: <https://github.com/grena/gruik>
+
+- Site: <http://gruik.io>
+
+- Pushed at: _Jan 3, 2015 5:22PM (UTC)_
+
+### cachethq/Cachet
+
+An open source status page system written in PHP
+
+- URL: <https://github.com/cachethq/Cachet>
+
+- Site: <https://cachethq.io>
+
+- Pushed at: _Mar 16, 2015 9:22AM (UTC)_
+
+### isohuntto/openbay
+
+- URL: <https://github.com/isohuntto/openbay>
+
+- Pushed at: _Mar 12, 2015 8:20AM (UTC)_
+
 ### zach-adams/cutlass-wp-theme
 
 Cutlass is a Wordpress Starter Theme that incorporates the power of Laravel's Blade to make theme development even quicker and easier then before - http://cutlasswp.com
 
 - URL: <https://github.com/zach-adams/cutlass-wp-theme>
 
-- Pushed at: _Oct 24, 2014 6:14PM (UTC)_
+- Pushed at: _Dec 11, 2014 11:47PM (UTC)_
 
 ### humhub/humhub
 
@@ -3921,7 +3370,7 @@ HumHub - Open Source Social Network
 
 - Site: <http://www.humhub.org>
 
-- Pushed at: _Dec 10, 2014 8:47PM (UTC)_
+- Pushed at: _Mar 16, 2015 12:52PM (UTC)_
 
 ### mikelbring/tinyissue
 
@@ -3939,7 +3388,7 @@ Simple Issue Tracking for Teams. Built in Laravel 3 (php/mysql)
 
 - Site: <pixeline.github.io/bugs/>
 
-- Pushed at: _Oct 10, 2014 11:16AM (UTC)_
+- Pushed at: _Feb 7, 2015 1:56PM (UTC)_
 
 ### dangrossman/PHP-OpenCalais
 
@@ -3959,7 +3408,7 @@ PHP Language Specification
 
 - Site: <http://www.php.net>
 
-- Pushed at: _Dec 7, 2014 8:43PM (UTC)_
+- Pushed at: _Feb 25, 2015 7:49PM (UTC)_
 
 ### twigphp/Twig
 
@@ -3969,7 +3418,7 @@ Twig, the flexible, fast, and secure template language for PHP
 
 - Site: <http://twig.sensiolabs.org/>
 
-- Pushed at: _Dec 5, 2014 1:47PM (UTC)_
+- Pushed at: _Mar 6, 2015 9:14AM (UTC)_
 
 ### joaolcorreia/Google-Analytics-PHP-cookie-parser
 
@@ -3989,13 +3438,13 @@ PHP client for the Google Analytics Measurement Protocol API
 
 ### erusev/parsedown
 
-Markdown Parser in PHP
+Better Markdown Parser in PHP
 
 - URL: <https://github.com/erusev/parsedown>
 
 - Site: <http://parsedown.org>
 
-- Pushed at: _Dec 11, 2014 1:30PM (UTC)_
+- Pushed at: _Feb 8, 2015 11:04PM (UTC)_
 
 ### puphpet/puphpet
 
@@ -4003,7 +3452,7 @@ Vagrant/Puppet GUI
 
 - URL: <https://github.com/puphpet/puphpet>
 
-- Pushed at: _Dec 4, 2014 5:37PM (UTC)_
+- Pushed at: _Mar 16, 2015 3:17PM (UTC)_
 
 ### phacility/phabricator
 
@@ -4013,7 +3462,7 @@ Open software engineering platform and fun adventure game
 
 - Site: <http://phabricator.org/>
 
-- Pushed at: _Dec 11, 2014 3:52PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:44PM (UTC)_
 
 ### Zizaco/confide
 
@@ -4021,7 +3470,7 @@ Confide is a authentication solution for Laravel 4
 
 - URL: <https://github.com/Zizaco/confide>
 
-- Pushed at: _Nov 26, 2014 3:01PM (UTC)_
+- Pushed at: _Feb 9, 2015 6:48PM (UTC)_
 
 ### Zizaco/entrust
 
@@ -4029,7 +3478,7 @@ Role-based Permissions for Laravel 4
 
 - URL: <https://github.com/Zizaco/entrust>
 
-- Pushed at: _Sep 26, 2014 3:55PM (UTC)_
+- Pushed at: _Mar 11, 2015 11:52AM (UTC)_
 
 ### PHPOffice/PHPExcel
 
@@ -4037,7 +3486,7 @@ A pure PHP library for reading and writing spreadsheet files
 
 - URL: <https://github.com/PHPOffice/PHPExcel>
 
-- Pushed at: _Dec 7, 2014 11:47PM (UTC)_
+- Pushed at: _Mar 9, 2015 11:59PM (UTC)_
 
 ### nikic/FastRoute
 
@@ -4045,7 +3494,7 @@ Fast request router for PHP
 
 - URL: <https://github.com/nikic/FastRoute>
 
-- Pushed at: _Nov 28, 2014 10:52PM (UTC)_
+- Pushed at: _Mar 8, 2015 6:12PM (UTC)_
 
 ### auraphp/Aura.Router
 
@@ -4053,17 +3502,17 @@ A web Router implementation for PHP 5.3
 
 - URL: <https://github.com/auraphp/Aura.Router>
 
-- Pushed at: _Nov 21, 2014 1:16AM (UTC)_
+- Pushed at: _Mar 15, 2015 8:04PM (UTC)_
 
 ### guzzle/guzzle
 
-Guzzle is a PHP HTTP client and framework for building RESTful web service clients
+Guzzle, an extensible PHP HTTP client
 
 - URL: <https://github.com/guzzle/guzzle>
 
 - Site: <http://guzzlephp.org/>
 
-- Pushed at: _Dec 10, 2014 10:52PM (UTC)_
+- Pushed at: _Mar 5, 2015 5:58PM (UTC)_
 
 ### flippa/errbit-php
 
@@ -4089,7 +3538,7 @@ MPOS stands for Mining Portal Open Source. A unified mining interface for variou
 
 - Site: <http://www.grewe.ca>
 
-- Pushed at: _Nov 18, 2014 11:01AM (UTC)_
+- Pushed at: _Feb 7, 2015 6:26PM (UTC)_
 
 ### thephpleague/plates
 
@@ -4099,7 +3548,7 @@ Native PHP template system
 
 - Site: <http://platesphp.com>
 
-- Pushed at: _Nov 25, 2014 11:30PM (UTC)_
+- Pushed at: _Feb 7, 2015 9:10PM (UTC)_
 
 ### silexphp/Silex
 
@@ -4109,7 +3558,7 @@ The PHP micro-framework based on the Symfony2 Components
 
 - Site: <silex.sensiolabs.org>
 
-- Pushed at: _Nov 24, 2014 8:22PM (UTC)_
+- Pushed at: _Mar 6, 2015 7:17AM (UTC)_
 
 ### thephpleague/color-extractor
 
@@ -4119,7 +3568,7 @@ Extract colors from an image like a human would do.
 
 - Site: <thephpleague.com>
 
-- Pushed at: _Oct 22, 2014 1:26PM (UTC)_
+- Pushed at: _Mar 1, 2015 11:29PM (UTC)_
 
 ### thephpleague/monga
 
@@ -4127,7 +3576,7 @@ Simple and swift MongoDB abstraction.
 
 - URL: <https://github.com/thephpleague/monga>
 
-- Pushed at: _Dec 10, 2014 6:37PM (UTC)_
+- Pushed at: _Feb 17, 2015 1:51AM (UTC)_
 
 ### Kausheel/Authentication
 
@@ -4145,7 +3594,7 @@ A framework agnostic authentication & authorization system.
 
 - Site: <http://www.cartalyst.com>
 
-- Pushed at: _Dec 4, 2014 1:29AM (UTC)_
+- Pushed at: _Mar 6, 2015 3:23AM (UTC)_
 
 ### plasticbrain/TeleSign-PHP-Class
 
@@ -4163,7 +3612,7 @@ An advanced and beautiful pastebin written in PHP
 
 - URL: <https://github.com/claudehohl/Stikked>
 
-- Pushed at: _Nov 26, 2014 8:35PM (UTC)_
+- Pushed at: _Feb 2, 2015 11:08AM (UTC)_
 
 ### tistaharahap/Simple-Naive-Bayes-Classifier-for-PHP
 
@@ -4235,7 +3684,7 @@ Open Source PHP Framework (originally from EllisLab)
 
 - Site: <http://codeigniter.com/>
 
-- Pushed at: _Dec 11, 2014 3:11PM (UTC)_
+- Pushed at: _Mar 16, 2015 3:05PM (UTC)_
 
 ### gauravtechie/Codeigniter-linkedin
 
@@ -4257,13 +3706,13 @@ small php script to generate ascii pictures from jpeg files
 
 ### UnionOfRAD/lithium
 
-li₃ is the fast, flexible and most RAD development framework for PHP 5.3+
+li₃ is the fast, flexible and most RAD development framework for PHP
 
 - URL: <https://github.com/UnionOfRAD/lithium>
 
 - Site: <http://li3.me>
 
-- Pushed at: _Dec 1, 2014 3:01PM (UTC)_
+- Pushed at: _Mar 13, 2015 11:12PM (UTC)_
 
 ### ianckc/CodeIgniter-Instagram-Library
 
@@ -4291,7 +3740,7 @@ An extensible micro-framework for PHP
 
 - Site: <http://flightphp.com>
 
-- Pushed at: _Nov 6, 2014 5:03AM (UTC)_
+- Pushed at: _Jan 13, 2015 7:33AM (UTC)_
 
 ### benedmunds/CodeIgniter-Twilio
 
@@ -4317,7 +3766,7 @@ Jumpstart your CodeIgniter web applications with a modular, HMVC-ready, backend.
 
 - Site: <http://cibonfire.com>
 
-- Pushed at: _Dec 10, 2014 4:14PM (UTC)_
+- Pushed at: _Mar 16, 2015 1:53PM (UTC)_
 
 ### jamierumbelow/codeigniter-base-model
 
@@ -4345,7 +3794,7 @@ FuelPHP is a simple, flexible, community driven PHP 5.3+ framework, based on the
 
 - Site: <http://fuelphp.com>
 
-- Pushed at: _Sep 19, 2014 8:46AM (UTC)_
+- Pushed at: _Mar 1, 2015 6:52PM (UTC)_
 
 ### amazonwebservices/aws-sdk-for-php
 
@@ -4355,17 +3804,17 @@ FuelPHP is a simple, flexible, community driven PHP 5.3+ framework, based on the
 
 - Site: <https://github.com/aws/aws-sdk-php>
 
-- Pushed at: _Oct 15, 2014 8:05PM (UTC)_
+- Pushed at: _Jan 8, 2015 2:37AM (UTC)_
 
-### codeguy/Slim
+### slimphp/Slim
 
-A PHP micro framework
+Slim Framework source code
 
-- URL: <https://github.com/codeguy/Slim>
+- URL: <https://github.com/slimphp/Slim>
 
-- Site: <http://www.slimframework.com>
+- Site: <http://slimframework.com>
 
-- Pushed at: _Dec 9, 2014 11:07PM (UTC)_
+- Pushed at: _Mar 15, 2015 8:09PM (UTC)_
 
 ### ChargeIgniter/ChargeIgniter
 
@@ -4391,7 +3840,7 @@ Goutte, a simple PHP Web Scraper
 
 - URL: <https://github.com/FriendsOfPHP/Goutte>
 
-- Pushed at: _Nov 28, 2014 9:48AM (UTC)_
+- Pushed at: _Mar 2, 2015 2:15PM (UTC)_
 
 ### jaxl/JAXL
 
@@ -4427,7 +3876,7 @@ A RESTful client CodeIgniter library that can auto-detect the format and request
 
 - Site: <http://getsparks.org/packages/restclient/show>
 
-- Pushed at: _Sep 14, 2014 12:05AM (UTC)_
+- Pushed at: _Jan 7, 2015 7:30PM (UTC)_
 
 ### chriskacerguis/codeigniter-restserver
 
@@ -4435,17 +3884,17 @@ A fully RESTful server implementation for CodeIgniter using one library, one con
 
 - URL: <https://github.com/chriskacerguis/codeigniter-restserver>
 
-- Pushed at: _Dec 9, 2014 6:27PM (UTC)_
+- Pushed at: _Mar 4, 2015 3:38AM (UTC)_
 
-### ginatrapani/ThinkUp
+### ThinkUpLLC/ThinkUp
 
-ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Foursquare, Google+, and beyond.
+ThinkUp gives you insights into your social networking activity on Twitter, Facebook, Instagram, and beyond.
 
-- URL: <https://github.com/ginatrapani/ThinkUp>
+- URL: <https://github.com/ThinkUpLLC/ThinkUp>
 
 - Site: <http://thinkup.com>
 
-- Pushed at: _Dec 11, 2014 4:14PM (UTC)_
+- Pushed at: _Mar 13, 2015 7:11PM (UTC)_
 
 ### sofadesign/limonade
 
@@ -4463,7 +3912,7 @@ Officially supported PHP driver for MongoDB
 
 - Site: <http://docs.mongodb.org/ecosystem/drivers/php/>
 
-- Pushed at: _Dec 10, 2014 11:26AM (UTC)_
+- Pushed at: _Mar 13, 2015 4:15PM (UTC)_
 
 ### jim/fitzgerald
 
@@ -4475,9 +3924,610 @@ A Tiny PHP framework inspired by Sinatra
 
 - Pushed at: _Nov 20, 2012 7:33PM (UTC)_
 
+## [Shell](id:shell)
+
+9 repositories
+### paz-sh/paz
+
+An open-source, in-house service platform with a PaaS-like workflow, built on Docker, CoreOS, Etcd and Fleet. This repository houses the documentation and installation scripts.
+
+- URL: <https://github.com/paz-sh/paz>
+
+- Site: <http://paz.sh>
+
+- Pushed at: _Mar 15, 2015 2:40PM (UTC)_
+
+### rauchg/wifi-password
+
+Get the password of the wifi you're on (bash)
+
+- URL: <https://github.com/rauchg/wifi-password>
+
+- Pushed at: _Feb 16, 2015 4:43AM (UTC)_
+
+### dokku-alt/dokku-alt
+
+Dokku on steroids
+
+- URL: <https://github.com/dokku-alt/dokku-alt>
+
+- Pushed at: _Mar 4, 2015 1:00PM (UTC)_
+
+### octohost/octohost
+
+Simple web focused Dockerfile based PaaS server.
+
+- URL: <https://github.com/octohost/octohost>
+
+- Site: <http://www.octohost.io/>
+
+- Pushed at: _Mar 15, 2015 5:47PM (UTC)_
+
+### boot2docker/boot2docker
+
+Lightweight Linux for Docker
+
+- URL: <https://github.com/boot2docker/boot2docker>
+
+- Pushed at: _Mar 9, 2015 4:31PM (UTC)_
+
+### arnoo/git-deliver
+
+Delivery system based on git push and ssh
+
+- URL: <https://github.com/arnoo/git-deliver>
+
+- Pushed at: _Nov 20, 2014 9:44AM (UTC)_
+
+### JeffreyWay/Vagrant-Setup
+
+My Vagrant install script
+
+- URL: <https://github.com/JeffreyWay/Vagrant-Setup>
+
+- Pushed at: _Mar 7, 2014 5:42PM (UTC)_
+
+### progrium/dokku
+
+Docker powered mini-Heroku in around 100 lines of Bash
+
+- URL: <https://github.com/progrium/dokku>
+
+- Pushed at: _Mar 15, 2015 5:05AM (UTC)_
+
+### judofyr/perloku
+
+Perl on Heroku
+
+- URL: <https://github.com/judofyr/perloku>
+
+- Pushed at: _Aug 21, 2014 8:55PM (UTC)_
+
+## [HTML](id:html)
+
+14 repositories
+### LeaVerou/awesomplete
+
+Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+
+- URL: <https://github.com/LeaVerou/awesomplete>
+
+- Site: <http://leaverou.github.io/awesomplete/>
+
+- Pushed at: _Mar 16, 2015 8:19AM (UTC)_
+
+### Zhouzi/TheaterJS
+
+Typing effect mimicking human behavior.
+
+- URL: <https://github.com/Zhouzi/TheaterJS>
+
+- Site: <http://codepen.io/Zhouzi/full/JoRazP/>
+
+- Pushed at: _Mar 7, 2015 2:56PM (UTC)_
+
+### seven1m/do-install-button
+
+experimental installer for getting apps running quickly on DigitalOcean
+
+- URL: <https://github.com/seven1m/do-install-button>
+
+- Site: <http://installer.71m.us>
+
+- Pushed at: _Mar 12, 2015 2:11AM (UTC)_
+
+### aFarkas/lazysizes
+
+High performance lazy loader for images (responsive and normal), iframes and scripts, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.
+
+- URL: <https://github.com/aFarkas/lazysizes>
+
+- Pushed at: _Mar 13, 2015 1:28PM (UTC)_
+
+### google/material-design-icons
+
+Material Design icons by Google
+
+- URL: <https://github.com/google/material-design-icons>
+
+- Site: <http://google.github.io/material-design-icons/>
+
+- Pushed at: _Feb 21, 2015 2:17PM (UTC)_
+
+### sendwithus/templates
+
+Sendwithus Open Source Email Templates
+
+- URL: <https://github.com/sendwithus/templates>
+
+- Site: <https://www.sendwithus.com/resources/templates>
+
+- Pushed at: _Mar 5, 2015 6:04PM (UTC)_
+
+### Prinzhorn/skrollr
+
+Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love).
+
+- URL: <https://github.com/Prinzhorn/skrollr>
+
+- Site: <http://prinzhorn.github.io/skrollr/>
+
+- Pushed at: _Mar 14, 2015 6:28AM (UTC)_
+
+### kristopolous/BOOTSTRA.386
+
+A Twitter Bootstrap theme to make webpages look like they are from the 1980s. 
+
+- URL: <https://github.com/kristopolous/BOOTSTRA.386>
+
+- Pushed at: _Mar 13, 2015 10:41PM (UTC)_
+
+### google/gumbo-parser
+
+An HTML5 parsing library in pure C99
+
+- URL: <https://github.com/google/gumbo-parser>
+
+- Pushed at: _Mar 3, 2015 4:36AM (UTC)_
+
+### jschr/bootstrap-modal
+
+Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+
+- URL: <https://github.com/jschr/bootstrap-modal>
+
+- Pushed at: _Mar 2, 2015 2:45PM (UTC)_
+
+### ajkochanowicz/kickstart
+
+Kickstart is a CSS framework designed for modularity and fast page performance
+
+- URL: <https://github.com/ajkochanowicz/kickstart>
+
+- Site: <http://getkickstart.com>
+
+- Pushed at: _Mar 11, 2015 6:31PM (UTC)_
+
+### FortAwesome/Font-Awesome
+
+The iconic font and CSS toolkit
+
+- URL: <https://github.com/FortAwesome/Font-Awesome>
+
+- Site: <http://fontawesome.io>
+
+- Pushed at: _Mar 13, 2015 11:46AM (UTC)_
+
+### scrapy/scrapely
+
+A pure-python HTML screen-scraping library
+
+- URL: <https://github.com/scrapy/scrapely>
+
+- Pushed at: _Mar 11, 2015 11:17AM (UTC)_
+
+### harvesthq/chosen
+
+Chosen is a library for making long, unwieldy select boxes more friendly.
+
+- URL: <https://github.com/harvesthq/chosen>
+
+- Site: <http://harvesthq.github.io/chosen/>
+
+- Pushed at: _Mar 11, 2015 5:33AM (UTC)_
+
+## [Ruby](id:ruby)
+
+36 repositories
+### toddwschneider/coordstagram
+
+Instagram viewer by latitude and longitude. Easy to deploy to Heroku
+
+- URL: <https://github.com/toddwschneider/coordstagram>
+
+- Pushed at: _Mar 4, 2015 1:25AM (UTC)_
+
+### caskroom/homebrew-cask
+
+A CLI workflow for the administration of Mac applications distributed as binaries
+
+- URL: <https://github.com/caskroom/homebrew-cask>
+
+- Site: <http://caskroom.io>
+
+- Pushed at: _Mar 16, 2015 12:45AM (UTC)_
+
+### churchio/onebody
+
+private member portal for churches, built with Ruby on Rails
+
+- URL: <https://github.com/churchio/onebody>
+
+- Site: <http://church.io>
+
+- Pushed at: _Mar 16, 2015 4:45AM (UTC)_
+
+### octohost/octohost-cookbook
+
+A set of Chef cookbooks that build the octohost server using Packer, Vagrant and knife solo.
+
+- URL: <https://github.com/octohost/octohost-cookbook>
+
+- Site: <http://www.octohost.io>
+
+- Pushed at: _Mar 11, 2015 11:39PM (UTC)_
+
+### cantino/huginn
+
+Build agents that monitor and act on your behalf.  Your agents are standing by!
+
+- URL: <https://github.com/cantino/huginn>
+
+- Pushed at: _Mar 15, 2015 9:38AM (UTC)_
+
+### errbit/errbit
+
+The open source error catcher that's Airbrake API compliant
+
+- URL: <https://github.com/errbit/errbit>
+
+- Site: <http://errbit.github.com/errbit/>
+
+- Pushed at: _Mar 14, 2015 6:51PM (UTC)_
+
+### gitlabhq/gitlabhq
+
+GitLab is version control for your server
+
+- URL: <https://github.com/gitlabhq/gitlabhq>
+
+- Site: <https://about.gitlab.com/features/>
+
+- Pushed at: _Mar 16, 2015 6:51AM (UTC)_
+
+### mitchellh/vagrant
+
+Vagrant is a tool for building and distributing development environments.
+
+- URL: <https://github.com/mitchellh/vagrant>
+
+- Site: <http://www.vagrantup.com>
+
+- Pushed at: _Mar 15, 2015 5:20PM (UTC)_
+
+### bryannielsen/Laravel4-Vagrant
+
+Run Laravel4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5
+
+- URL: <https://github.com/bryannielsen/Laravel4-Vagrant>
+
+- Pushed at: _Dec 17, 2014 3:15PM (UTC)_
+
+### openshift/origin-server
+
+Public open source repository for the OpenShift Origin server components
+
+- URL: <https://github.com/openshift/origin-server>
+
+- Site: <http://openshift.github.io>
+
+- Pushed at: _Mar 13, 2015 7:17PM (UTC)_
+
+### paulasmuth/recommendify
+
+ruby/redis based recommendation engine (collaborative filtering)
+
+- URL: <https://github.com/paulasmuth/recommendify>
+
+- Pushed at: _May 8, 2014 9:18PM (UTC)_
+
+### steelThread/redmon
+
+A web interface for managing redis: cli, admin, and live monitoring
+
+- URL: <https://github.com/steelThread/redmon>
+
+- Site: <http://steelthread.github.com/redmon/>
+
+- Pushed at: _Aug 1, 2014 1:23PM (UTC)_
+
+### mquan/prizm
+
+A ruby gem that extracts colors from a given image
+
+- URL: <https://github.com/mquan/prizm>
+
+- Pushed at: _Dec 22, 2011 10:19PM (UTC)_
+
+### sferik/t
+
+A command-line power tool for Twitter.
+
+- URL: <https://github.com/sferik/t>
+
+- Site: <http://sferik.github.com/t>
+
+- Pushed at: _Jan 20, 2015 9:16PM (UTC)_
+
+### quadule/colorscore
+
+Finds the dominant colors in an image and scores them against a user-defined palette, using the CIE2000 Delta E formula.
+
+- URL: <https://github.com/quadule/colorscore>
+
+- Pushed at: _Nov 18, 2012 6:20AM (UTC)_
+
+### phusion/juvia
+
+A commenting server similar to Disqus and IntenseDebate. CURRENTLY UNMAINTAINED
+
+- URL: <https://github.com/phusion/juvia>
+
+- Pushed at: _Jan 30, 2015 3:18PM (UTC)_
+
+### seejohnrun/indeed_api
+
+Ruby wrapper for the Indeed Job search API
+
+- URL: <https://github.com/seejohnrun/indeed_api>
+
+- Pushed at: _Apr 14, 2011 9:16PM (UTC)_
+
+### brighton36/libcraigscrape
+
+An easy library to do the heavy lifting between you and craigslist's posting database. Given a URL, libcraigscrape will follow links, scrape fields, and make ruby-sense out of the raw html from craigslist's servers.
+
+- URL: <https://github.com/brighton36/libcraigscrape>
+
+- Site: <http://www.derosetechnologies.com/community/libcraigscrape>
+
+- Pushed at: _Apr 24, 2014 12:07AM (UTC)_
+
+### ging/social_stream
+
+A framework for building distributed social network websites
+
+- URL: <https://github.com/ging/social_stream>
+
+- Site: <http://social-stream.dit.upm.es/>
+
+- Pushed at: _Feb 6, 2015 10:25AM (UTC)_
+
+### diaspora/diaspora
+
+Distributed and contextual social networking
+
+- URL: <https://github.com/diaspora/diaspora>
+
+- Site: <https://diasporafoundation.org/>
+
+- Pushed at: _Mar 16, 2015 1:07PM (UTC)_
+
+### sferik/rails_admin
+
+RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data
+
+- URL: <https://github.com/sferik/rails_admin>
+
+- Pushed at: _Mar 16, 2015 1:15PM (UTC)_
+
+### dannymcc/BaseApp2
+
+BaseApp2 - A RoR starter application with authentication, themes and mobile views
+
+- URL: <https://github.com/dannymcc/BaseApp2>
+
+- Site: <http://dannymcc.github.com/BaseApp2/>
+
+- Pushed at: _Jul 2, 2014 10:44AM (UTC)_
+
+### activeadmin/activeadmin
+
+The administration framework for Ruby on Rails applications.
+
+- URL: <https://github.com/activeadmin/activeadmin>
+
+- Site: <activeadmin.info>
+
+- Pushed at: _Mar 16, 2015 12:51PM (UTC)_
+
+### rylwin/scrape-linkedin
+
+Small project created to scrape data from Linkedin for a research project
+
+- URL: <https://github.com/rylwin/scrape-linkedin>
+
+- Pushed at: _Mar 23, 2010 8:36PM (UTC)_
+
+### rapind/grokphoto
+
+Professional photographer's client and booking management solution, as well as a gallery / portfolio to showcase your work.
+
+- URL: <https://github.com/rapind/grokphoto>
+
+- Site: <http://grokphoto.org>
+
+- Pushed at: _Aug 5, 2013 1:58PM (UTC)_
+
+### hexgnu/linkedin
+
+Ruby wrapper for the LinkedIn API
+
+- URL: <https://github.com/hexgnu/linkedin>
+
+- Site: <http://rdoc.info/gems/linkedin>
+
+- Pushed at: _Nov 22, 2014 7:52PM (UTC)_
+
+### pengwynn/chargify
+
+Ruby wrapper for the chargify.com SAAS and billing API
+
+- URL: <https://github.com/pengwynn/chargify>
+
+- Pushed at: _Feb 11, 2012 4:09PM (UTC)_
+
+### padrino/padrino-framework
+
+Padrino is a full-stack ruby framework built upon Sinatra. 
+
+- URL: <https://github.com/padrino/padrino-framework>
+
+- Site: <http://www.padrinorb.com>
+
+- Pushed at: _Mar 6, 2015 8:26AM (UTC)_
+
+### plataformatec/devise
+
+Flexible authentication solution for Rails with Warden.
+
+- URL: <https://github.com/plataformatec/devise>
+
+- Site: <http://blog.plataformatec.com.br/tag/devise/>
+
+- Pushed at: _Mar 14, 2015 11:09PM (UTC)_
+
+### teambox/teambox
+
+This is the legacy version of Teambox - the award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter.
+
+- URL: <https://github.com/teambox/teambox>
+
+- Site: <http://teambox.com>
+
+- Pushed at: _May 6, 2013 10:07AM (UTC)_
+
+### isabanin/pretty_diff
+
+PrettyDiff is a highly customizable library for creating fully featured HTML listings out of unified diff format strings. Include copy/paste-safe line numbers and built-in syntax highlighting.
+
+- URL: <https://github.com/isabanin/pretty_diff>
+
+- Pushed at: _Apr 22, 2014 2:46PM (UTC)_
+
+### blech/ffffound-mirror
+
+scripts to scrape/mirror metadata (and maybe images?) from ffffound
+
+- URL: <https://github.com/blech/ffffound-mirror>
+
+- Site: <http://husk.org/code/>
+
+- Pushed at: _Dec 24, 2013 9:47PM (UTC)_
+
+### tcocca/acts_as_follower
+
+A Gem to add Follow functionality for models
+
+- URL: <https://github.com/tcocca/acts_as_follower>
+
+- Pushed at: _Jun 27, 2014 11:42AM (UTC)_
+
+### typus/typus
+
+Ruby on Rails control panel to allow trusted users edit structured content.
+
+- URL: <https://github.com/typus/typus>
+
+- Site: <docs.typuscmf.com>
+
+- Pushed at: _Feb 12, 2015 2:49PM (UTC)_
+
+### insoshi/insoshi
+
+An open source social networking platform in Ruby on Rails
+
+- URL: <https://github.com/insoshi/insoshi>
+
+- Site: <http://dogfood.insoshi.com>
+
+- Pushed at: _Apr 1, 2010 11:57PM (UTC)_
+
+### tablatom/hobo
+
+MOVED! The official repo is now hobo/hobo
+
+- URL: <https://github.com/tablatom/hobo>
+
+- Site: <http://github.com/hobo/hobo>
+
+- Pushed at: _Mar 16, 2013 4:48PM (UTC)_
+
 ## [CoffeeScript](id:coffeescript)
 
-12 repositories
+17 repositories
+### slackhq/hubot-slack
+
+- URL: <https://github.com/slackhq/hubot-slack>
+
+- Pushed at: _Mar 7, 2015 11:37PM (UTC)_
+
+### github/hubot-scripts
+
+DEPRECATED, see https://github.com/github/hubot-scripts/issues/1113 for details - optional scripts for hubot, opt in via hubot-scripts.json
+
+- URL: <https://github.com/github/hubot-scripts>
+
+- Pushed at: _Mar 2, 2015 4:17PM (UTC)_
+
+### github/hubot
+
+A customizable life embetterment robot.
+
+- URL: <https://github.com/github/hubot>
+
+- Site: <http://hubot.github.com>
+
+- Pushed at: _Mar 13, 2015 11:29PM (UTC)_
+
+### danielgtaylor/aglio
+
+An API Blueprint renderer with theme support that outputs static HTML
+
+- URL: <https://github.com/danielgtaylor/aglio>
+
+- Pushed at: _Mar 12, 2015 3:07PM (UTC)_
+
+### positionly/Typist
+
+Elegant automated typing, for your text rotation needs
+
+- URL: <https://github.com/positionly/Typist>
+
+- Site: <https://positionly.com>
+
+- Pushed at: _Jan 10, 2015 10:00PM (UTC)_
+
+### Pathgather/please-wait
+
+A simple library to show your users a beautiful splash page while your application loads.
+
+- URL: <https://github.com/Pathgather/please-wait>
+
+- Site: <http://pathgather.github.io/please-wait/>
+
+- Pushed at: _Dec 22, 2014 7:16AM (UTC)_
+
 ### jakubroztocil/cloudtunes
 
 Web-based music player for the cloud :cloud: :notes:
@@ -4504,7 +4554,7 @@ Blazing fast multi-protocol mobile and web push notification service
 
 - URL: <https://github.com/rs/pushd>
 
-- Pushed at: _Nov 4, 2014 11:29PM (UTC)_
+- Pushed at: _Mar 8, 2015 7:00AM (UTC)_
 
 ### HubSpot/BuckyClient
 
@@ -4524,7 +4574,7 @@ Multiplayer programming game for learning how to code.
 
 - Site: <http://codecombat.com>
 
-- Pushed at: _Dec 11, 2014 3:35PM (UTC)_
+- Pushed at: _Mar 15, 2015 11:58AM (UTC)_
 
 ### crispymtn/linear-partition
 
@@ -4570,16 +4620,6 @@ A NodeJS library based helper to tag (sorted) items with Redis
 
 - Pushed at: _Nov 17, 2014 3:20PM (UTC)_
 
-### harvesthq/chosen
-
-Chosen is a library for making long, unwieldy select boxes more friendly.
-
-- URL: <https://github.com/harvesthq/chosen>
-
-- Site: <http://harvesthq.github.io/chosen/>
-
-- Pushed at: _Nov 13, 2014 10:25AM (UTC)_
-
 ### batmanjs/batman
 
 The best JavaScript framework for Rails developers.
@@ -4590,74 +4630,950 @@ The best JavaScript framework for Rails developers.
 
 - Pushed at: _Dec 8, 2014 5:37PM (UTC)_
 
-## [Shell](id:shell)
+## [Unknown](id:unknown)
+
+38 repositories
+### phanan/htaccess
+
+A collection of useful .htaccess snippets.
+
+- URL: <https://github.com/phanan/htaccess>
+
+- Pushed at: _Mar 14, 2015 11:04AM (UTC)_
+
+### thoughtbot/til
+
+Today I Learned
+
+- URL: <https://github.com/thoughtbot/til>
+
+- Pushed at: _Mar 11, 2015 12:28AM (UTC)_
+
+### h5bp/Front-end-Developer-Interview-Questions
+
+A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.
+
+- URL: <https://github.com/h5bp/Front-end-Developer-Interview-Questions>
+
+- Pushed at: _Mar 14, 2015 9:18PM (UTC)_
+
+### libreboard/libreboard
+
+An open-source kanban board
+
+- URL: <https://github.com/libreboard/libreboard>
+
+- Site: <http://libreboard.com>
+
+- Pushed at: _Jan 24, 2015 10:50PM (UTC)_
+
+### tiimgreen/github-cheat-sheet
+
+A list of cool features of Git and GitHub.
+
+- URL: <https://github.com/tiimgreen/github-cheat-sheet>
+
+- Site: <http://git.io/sheet>
+
+- Pushed at: _Feb 20, 2015 4:25PM (UTC)_
+
+### lukasz-madon/awesome-remote-job
+
+A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
+
+- URL: <https://github.com/lukasz-madon/awesome-remote-job>
+
+- Pushed at: _Mar 5, 2015 10:33PM (UTC)_
+
+### catalyzeio/policies
+
+Catalyze HIPAA Policy Documentation
+
+- URL: <https://github.com/catalyzeio/policies>
+
+- Site: <http://catalyzeio.github.io/policies/>
+
+- Pushed at: _Mar 3, 2015 6:31PM (UTC)_
+
+### caesar0301/awesome-public-datasets
+
+An awesome list of (large-scale) public datasets on the Internet. (On-going collection)
+
+- URL: <https://github.com/caesar0301/awesome-public-datasets>
+
+- Pushed at: _Mar 7, 2015 5:21AM (UTC)_
+
+### davidsonfellipe/awesome-wpo
+
+A curated list of Web Performance Optimization. Everyone can contribute here!
+
+- URL: <https://github.com/davidsonfellipe/awesome-wpo>
+
+- Pushed at: _Mar 10, 2015 1:26AM (UTC)_
+
+### airbrite/celery-api
+
+Celery API Overview
+
+- URL: <https://github.com/airbrite/celery-api>
+
+- Pushed at: _Feb 25, 2015 8:14PM (UTC)_
+
+### HackerNews/API
+
+Documentation and Samples for the Official HN API.
+
+- URL: <https://github.com/HackerNews/API>
+
+- Site: <https://hacker-news.firebaseio.com/>
+
+- Pushed at: _Mar 2, 2015 4:56AM (UTC)_
+
+### Ghosh/uiGradients
+
+Dual tone colour gradients for design and code
+
+- URL: <https://github.com/Ghosh/uiGradients>
+
+- Site: <http://uigradients.com/>
+
+- Pushed at: _Jan 9, 2015 4:08PM (UTC)_
+
+### ansilove/ansilove.js
+
+A script to display ANSi and artscene related file formats on web pages
+
+- URL: <https://github.com/ansilove/ansilove.js>
+
+- Pushed at: _Feb 14, 2015 6:40PM (UTC)_
+
+### jnv/lists
+
+The definitive list of (awesome) lists curated on GitHub
+
+- URL: <https://github.com/jnv/lists>
+
+- Pushed at: _Mar 11, 2015 1:33AM (UTC)_
+
+### sixteencolors/sixteencolors-archive
+
+Artpack archive, organized by year
+
+- URL: <https://github.com/sixteencolors/sixteencolors-archive>
+
+- Pushed at: _Mar 3, 2015 10:44PM (UTC)_
+
+### bayandin/awesome-awesomeness
+
+A curated list of awesome awesomeness
+
+- URL: <https://github.com/bayandin/awesome-awesomeness>
+
+- Pushed at: _Jan 9, 2015 9:07AM (UTC)_
+
+### chiraggude/awesome-laravel
+
+A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+
+- URL: <https://github.com/chiraggude/awesome-laravel>
+
+- Pushed at: _Mar 9, 2015 10:27AM (UTC)_
+
+### pazguille/offline-first
+
+Everything you need to know to create offline-first web apps.
+
+- URL: <https://github.com/pazguille/offline-first>
+
+- Pushed at: _Mar 8, 2015 2:53PM (UTC)_
+
+### ellisonleao/magictools
+
+A list of Game Development resources to make magic happen.
+
+- URL: <https://github.com/ellisonleao/magictools>
+
+- Site: <https://game-development.zeef.com/>
+
+- Pushed at: _Feb 8, 2015 9:46PM (UTC)_
+
+### sorrycc/awesome-javascript
+
+A collection of awesome browser-side  JavaScript libraries, resources and shiny things.
+
+- URL: <https://github.com/sorrycc/awesome-javascript>
+
+- Pushed at: _Jan 26, 2015 2:52AM (UTC)_
+
+### sindresorhus/awesome
+
+A curated list of awesome lists
+
+- URL: <https://github.com/sindresorhus/awesome>
+
+- Pushed at: _Mar 2, 2015 4:18PM (UTC)_
+
+### sindresorhus/awesome-nodejs
+
+A curated list of delightful Node.js packages and resources.
+
+- URL: <https://github.com/sindresorhus/awesome-nodejs>
+
+- Pushed at: _Mar 15, 2015 10:37AM (UTC)_
+
+### cjbarber/ToolsOfTheTrade
+
+Tools of The Trade, from Hacker News.
+
+- URL: <https://github.com/cjbarber/ToolsOfTheTrade>
+
+- Pushed at: _Jan 5, 2015 10:02PM (UTC)_
+
+### kahun/awesome-sysadmin
+
+A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+
+- URL: <https://github.com/kahun/awesome-sysadmin>
+
+- Pushed at: _Oct 10, 2014 4:48PM (UTC)_
+
+### ziadoz/awesome-php
+
+A curated list of amazingly awesome PHP libraries, resources and shiny things.
+
+- URL: <https://github.com/ziadoz/awesome-php>
+
+- Pushed at: _Feb 18, 2015 4:19PM (UTC)_
+
+### interagent/http-api-design
+
+HTTP API design guide extracted from work on the Heroku Platform API
+
+- URL: <https://github.com/interagent/http-api-design>
+
+- Pushed at: _Mar 5, 2015 2:50PM (UTC)_
+
+### blindly/dkr
+
+Docker ( alias ) utility for easily using with github.com/blindly/nginx-proxy
+
+- URL: <https://github.com/blindly/dkr>
+
+- Pushed at: _May 16, 2014 2:01PM (UTC)_
+
+### jwilder/nginx-proxy
+
+Automated nginx proxy for Docker containers using docker-gen
+
+- URL: <https://github.com/jwilder/nginx-proxy>
+
+- Pushed at: _Mar 13, 2015 11:26PM (UTC)_
+
+### zenorocha/alfred-workflows
+
+A collection of Alfred 2 workflows that will rock your world
+
+- URL: <https://github.com/zenorocha/alfred-workflows>
+
+- Pushed at: _Nov 28, 2014 8:41PM (UTC)_
+
+### vhf/free-programming-books
+
+- URL: <https://github.com/vhf/free-programming-books>
+
+- Site: <http://resrc.io/list/10/list-of-free-programming-books/>
+
+- Pushed at: _Mar 15, 2015 3:34PM (UTC)_
+
+### stevekwan/best-practices
+
+JavaScript and CSS guidelines for pragmatists.
+
+- URL: <https://github.com/stevekwan/best-practices>
+
+- Pushed at: _Mar 14, 2013 3:37AM (UTC)_
+
+### openmundi/world.db
+
+Free open public domain world database 'n' schema for use in any (programming) language (e.g. uses plain text datasets)
+
+- URL: <https://github.com/openmundi/world.db>
+
+- Pushed at: _Mar 1, 2015 2:27PM (UTC)_
+
+### kjbekkelund/writings
+
+My blog posts
+
+- URL: <https://github.com/kjbekkelund/writings>
+
+- Pushed at: _Apr 7, 2013 7:10PM (UTC)_
+
+### saintsjd/gum
+
+A small set of cli improvements for git
+
+- URL: <https://github.com/saintsjd/gum>
+
+- Pushed at: _Oct 10, 2013 2:17AM (UTC)_
+
+### waynhall/CodeIgniter-Library-for-MailChimp-API-v1.3
+
+MailChimp API v1.3 - The CodeIgniter Way!
+
+- URL: <https://github.com/waynhall/CodeIgniter-Library-for-MailChimp-API-v1.3>
+
+- Pushed at: _Aug 3, 2011 10:55AM (UTC)_
+
+### octoberman/scrapy-indeed-spider
+
+Scrapy spider for pulling job listings from Indeed
+
+- URL: <https://github.com/octoberman/scrapy-indeed-spider>
+
+- Pushed at: _Jul 30, 2011 7:55PM (UTC)_
+
+### iromin/SearchAProfile
+
+Google XMPP Bot that uses the Rainmaker API to return as much information as possible about the person given his/her email address. All you need to do is provide an Email Address and in return, it fetches information like: Demographics like Age, Sex, Geographical location where the contact resides Contact Handles for various services like Google Chat, Skype, etc. Social Profiles at LinkedIn, Twitter, Facebook, Foursquare, Google Profile, Friendster, MySpace, etc. Employment History.
+
+- URL: <https://github.com/iromin/SearchAProfile>
+
+- Site: <http://searchaprofile.appspot.com>
+
+- Pushed at: _Jul 26, 2011 5:34AM (UTC)_
+
+### twitter/twitter-text-js
+
+A JavaScript implementation of Twitter's text processing library
+
+- URL: <https://github.com/twitter/twitter-text-js>
+
+- Pushed at: _Dec 13, 2014 4:46PM (UTC)_
+
+## [C](id:c)
 
 8 repositories
-### dokku-alt/dokku-alt
+### mofarrell/p2pvc
 
-Dokku on steroids
+A point to point color terminal video chat.
 
-- URL: <https://github.com/dokku-alt/dokku-alt>
+- URL: <https://github.com/mofarrell/p2pvc>
 
-- Pushed at: _Dec 7, 2014 1:04PM (UTC)_
+- Pushed at: _Feb 12, 2015 7:42PM (UTC)_
 
-### andyherbert/ansilove.js
+### rxi/dyad
 
-ANSi / ASCII art view in the browser.
+Asynchronous networking for C 
 
-- URL: <https://github.com/andyherbert/ansilove.js>
+- URL: <https://github.com/rxi/dyad>
 
-- Pushed at: _Aug 12, 2014 9:41PM (UTC)_
+- Pushed at: _Oct 4, 2014 5:34PM (UTC)_
 
-### octohost/octohost
+### vysheng/tg
 
-Simple web focused Dockerfile based PaaS server.
+telegram-cli
 
-- URL: <https://github.com/octohost/octohost>
+- URL: <https://github.com/vysheng/tg>
 
-- Site: <http://www.octohost.io/>
+- Pushed at: _Jan 17, 2015 2:31PM (UTC)_
 
-- Pushed at: _Nov 20, 2014 4:03PM (UTC)_
+### ex3ndr/telegram
 
-### boot2docker/boot2docker
+Telegram S Edition Android App
 
-Lightweight Linux for Docker
+- URL: <https://github.com/ex3ndr/telegram>
 
-- URL: <https://github.com/boot2docker/boot2docker>
+- Pushed at: _Apr 5, 2014 4:32PM (UTC)_
 
-- Pushed at: _Dec 9, 2014 5:46PM (UTC)_
+### DrKLO/Telegram
 
-### arnoo/git-deliver
+Telegram for Android source
 
-Delivery system based on git push and ssh
+- URL: <https://github.com/DrKLO/Telegram>
 
-- URL: <https://github.com/arnoo/git-deliver>
+- Pushed at: _Feb 27, 2015 7:58PM (UTC)_
 
-- Pushed at: _Nov 20, 2014 9:44AM (UTC)_
+### deanmao/node-chimera
 
-### JeffreyWay/Vagrant-Setup
+A new kind of headless webkit integration for nodejs; a great alternative to phantomjs.
 
-My Vagrant install script
+- URL: <https://github.com/deanmao/node-chimera>
 
-- URL: <https://github.com/JeffreyWay/Vagrant-Setup>
+- Site: <http://www.deanmao.com/2012/08/13/enter-chimera/>
 
-- Pushed at: _Mar 7, 2014 5:42PM (UTC)_
+- Pushed at: _Jul 23, 2013 5:02AM (UTC)_
 
-### progrium/dokku
+### ansilove/AnsiLove-C
 
-Docker powered mini-Heroku in around 100 lines of Bash
+ANSi / ASCII art to PNG converter in C
 
-- URL: <https://github.com/progrium/dokku>
+- URL: <https://github.com/ansilove/AnsiLove-C>
 
-- Pushed at: _Dec 11, 2014 3:22PM (UTC)_
+- Pushed at: _Feb 2, 2015 8:04PM (UTC)_
 
-### judofyr/perloku
+### sdiehl/pycraig
 
-Perl on Heroku
+Python library for scraping data from Craigslist
 
-- URL: <https://github.com/judofyr/perloku>
+- URL: <https://github.com/sdiehl/pycraig>
 
-- Pushed at: _Aug 21, 2014 8:55PM (UTC)_
+- Pushed at: _Aug 26, 2011 12:42PM (UTC)_
+
+## [Go](id:go)
+
+12 repositories
+### yahoo/webseclab
+
+- URL: <https://github.com/yahoo/webseclab>
+
+- Pushed at: _Feb 27, 2015 8:21AM (UTC)_
+
+### gogits/gogs
+
+Gogs(Go Git Service) is a painless self-hosted Git Service written in Go.
+
+- URL: <https://github.com/gogits/gogs>
+
+- Site: <http://gogs.io>
+
+- Pushed at: _Mar 16, 2015 8:52AM (UTC)_
+
+### skyjia/repogen
+
+A toy to generate a Markdown index document for my starred GitHub repositories.
+
+- URL: <https://github.com/skyjia/repogen>
+
+- Pushed at: _Jan 17, 2014 3:33AM (UTC)_
+
+### flynn/flynn
+
+A next generation open source platform as a service (PaaS)
+
+- URL: <https://github.com/flynn/flynn>
+
+- Site: <https://flynn.io>
+
+- Pushed at: _Mar 16, 2015 7:30AM (UTC)_
+
+### ravenac95/sudolikeaboss
+
+Get 1password access from iterm2
+
+- URL: <https://github.com/ravenac95/sudolikeaboss>
+
+- Site: <http://sudolikeaboss.com>
+
+- Pushed at: _Jan 13, 2015 7:37AM (UTC)_
+
+### zettio/weave
+
+The Docker Network
+
+- URL: <https://github.com/zettio/weave>
+
+- Pushed at: _Mar 16, 2015 3:34PM (UTC)_
+
+### bitly/nsq
+
+A realtime distributed messaging platform
+
+- URL: <https://github.com/bitly/nsq>
+
+- Site: <http://nsq.io/>
+
+- Pushed at: _Mar 12, 2015 6:50AM (UTC)_
+
+### jwilder/docker-gen
+
+Generate files from docker container meta-data
+
+- URL: <https://github.com/jwilder/docker-gen>
+
+- Pushed at: _Mar 13, 2015 11:22PM (UTC)_
+
+### drone/drone
+
+Drone is a Continuous Integration platform built on Docker, written in Go
+
+- URL: <https://github.com/drone/drone>
+
+- Pushed at: _Mar 11, 2015 7:40PM (UTC)_
+
+### hmarr/codecube
+
+Docker-powered runnable code snippets
+
+- URL: <https://github.com/hmarr/codecube>
+
+- Site: <http://codecube.io>
+
+- Pushed at: _Nov 11, 2013 6:16PM (UTC)_
+
+### tsuru/tsuru
+
+Open source Platform as a Service (PaaS).
+
+- URL: <https://github.com/tsuru/tsuru>
+
+- Site: <https://tsuru.io>
+
+- Pushed at: _Mar 16, 2015 2:26PM (UTC)_
+
+### progrium/localtunnel
+
+Expose localhost servers to the Internet
+
+- URL: <https://github.com/progrium/localtunnel>
+
+- Pushed at: _Jan 4, 2015 10:33PM (UTC)_
+
+## [Scala](id:scala)
+
+3 repositories
+### akka/akka
+
+Akka Project
+
+- URL: <https://github.com/akka/akka>
+
+- Site: <http://akka.io>
+
+- Pushed at: _Mar 15, 2015 7:47PM (UTC)_
+
+### pkinsky/akka-streams-example
+
+- URL: <https://github.com/pkinsky/akka-streams-example>
+
+- Pushed at: _Feb 24, 2015 5:23PM (UTC)_
+
+### takezoe/gitbucket
+
+The easily installable GitHub clone powered by Scala
+
+- URL: <https://github.com/takezoe/gitbucket>
+
+- Site: <http://takezoe.github.io/gitbucket/>
+
+- Pushed at: _Mar 16, 2015 2:38PM (UTC)_
+
+## [Smarty](id:smarty)
+
+1 repositories
+### Urigo/angular-meteor
+
+Combining the simplicity and power of AngularJS and Meteor
+
+- URL: <https://github.com/Urigo/angular-meteor>
+
+- Site: <http://angularjs.meteor.com/>
+
+- Pushed at: _Mar 15, 2015 6:48PM (UTC)_
+
+## [C++](id:c++)
+
+11 repositories
+### nwjs/nw.js
+
+Call all Node.js modules directly from DOM and enable a new way of writing applications with all Web technologies.
+
+- URL: <https://github.com/nwjs/nw.js>
+
+- Site: <http://nwjs.io>
+
+- Pushed at: _Mar 13, 2015 3:57AM (UTC)_
+
+### sandstorm-io/sandstorm
+
+Personal Cloud Sandbox
+
+- URL: <https://github.com/sandstorm-io/sandstorm>
+
+- Pushed at: _Mar 13, 2015 8:00PM (UTC)_
+
+### user-none/Sigil
+
+Sigil is a multi-platform EPUB ebook editor
+
+- URL: <https://github.com/user-none/Sigil>
+
+- Pushed at: _Mar 15, 2015 8:43PM (UTC)_
+
+### facebook/proxygen
+
+A collection of C++ HTTP libraries including an easy to use HTTP server.
+
+- URL: <https://github.com/facebook/proxygen>
+
+- Pushed at: _Mar 6, 2015 11:53PM (UTC)_
+
+### facebook/osquery
+
+SQL powered operating system instrumentation, monitoring, and analytics.
+
+- URL: <https://github.com/facebook/osquery>
+
+- Site: <http://osquery.io>
+
+- Pushed at: _Mar 15, 2015 3:45AM (UTC)_
+
+### mfontanini/libtins
+
+High-level, multiplatform C++ network packet sniffing and crafting library. 
+
+- URL: <https://github.com/mfontanini/libtins>
+
+- Site: <http://libtins.github.io/>
+
+- Pushed at: _Mar 7, 2015 5:31PM (UTC)_
+
+### antimatter15/ocrad.js
+
+OCR in Javascript via Emscripten
+
+- URL: <https://github.com/antimatter15/ocrad.js>
+
+- Site: <http://antimatter15.github.io/ocrad.js/demo.html>
+
+- Pushed at: _Jan 14, 2015 4:10AM (UTC)_
+
+### miguelfreitas/twister-core
+
+twister core / daemon
+
+- URL: <https://github.com/miguelfreitas/twister-core>
+
+- Pushed at: _Mar 10, 2015 10:58PM (UTC)_
+
+### farbrausch/fr_public
+
+Farbrausch demo tools 2001-2011
+
+- URL: <https://github.com/farbrausch/fr_public>
+
+- Pushed at: _Sep 8, 2014 4:44PM (UTC)_
+
+### paulasmuth/fnordmetric
+
+FnordMetric allows you collect and visualize timeseries data with SQL.
+
+- URL: <https://github.com/paulasmuth/fnordmetric>
+
+- Site: <http://fnordmetric.io/>
+
+- Pushed at: _Feb 8, 2015 2:46AM (UTC)_
+
+### ariya/phantomjs
+
+Scriptable Headless WebKit
+
+- URL: <https://github.com/ariya/phantomjs>
+
+- Site: <http://phantomjs.org>
+
+- Pushed at: _Mar 12, 2015 5:05AM (UTC)_
+
+## [CSS](id:css)
+
+28 repositories
+### IanLunn/Hover
+
+A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in CSS, Sass, and LESS.
+
+- URL: <https://github.com/IanLunn/Hover>
+
+- Site: <http://ianlunn.github.io/Hover/>
+
+- Pushed at: _Feb 26, 2015 11:23PM (UTC)_
+
+### helios-framework/helios
+
+An extensible open-source mobile backend framework
+
+- URL: <https://github.com/helios-framework/helios>
+
+- Pushed at: _Dec 8, 2014 2:23PM (UTC)_
+
+### justinwalsh/daux.io
+
+Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way.
+
+- URL: <https://github.com/justinwalsh/daux.io>
+
+- Site: <daux.io>
+
+- Pushed at: _Dec 12, 2014 2:00AM (UTC)_
+
+### dhg/Skeleton
+
+Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
+
+- URL: <https://github.com/dhg/Skeleton>
+
+- Site: <http://www.getskeleton.com>
+
+- Pushed at: _Dec 29, 2014 6:38PM (UTC)_
+
+### scotthasbrouck/HackerSurf
+
+All the hacker jobs in one place.
+
+- URL: <https://github.com/scotthasbrouck/HackerSurf>
+
+- Pushed at: _Feb 6, 2015 2:07AM (UTC)_
+
+### codrops/HoverEffectIdeas
+
+Some inspiration and modern ideas for subtle hover effects.
+
+- URL: <https://github.com/codrops/HoverEffectIdeas>
+
+- Pushed at: _Oct 31, 2014 9:24PM (UTC)_
+
+### 10up/Engineering-Best-Practices
+
+10up Engineering Best Practices
+
+- URL: <https://github.com/10up/Engineering-Best-Practices>
+
+- Pushed at: _Feb 26, 2015 9:47PM (UTC)_
+
+### lipis/bootstrap-sweetalert
+
+A beautiful "replacement" for JavaScript's alert
+
+- URL: <https://github.com/lipis/bootstrap-sweetalert>
+
+- Site: <https://lipis.github.io/bootstrap-sweetalert/>
+
+- Pushed at: _Jan 22, 2015 11:51AM (UTC)_
+
+### FezVrasta/bootstrap-material-design
+
+Material design theme for Bootstrap 3
+
+- URL: <https://github.com/FezVrasta/bootstrap-material-design>
+
+- Site: <http://fezvrasta.github.io/bootstrap-material-design/>
+
+- Pushed at: _Mar 16, 2015 2:45PM (UTC)_
+
+### twbs/ratchet
+
+Build mobile apps with simple HTML, CSS, and JavaScript components. 
+
+- URL: <https://github.com/twbs/ratchet>
+
+- Site: <http://goratchet.com>
+
+- Pushed at: _Mar 10, 2015 10:48AM (UTC)_
+
+### jazzychad/PushServer
+
+nodejs server for sending Apple APNS push notifications
+
+- URL: <https://github.com/jazzychad/PushServer>
+
+- Pushed at: _Apr 29, 2014 6:43PM (UTC)_
+
+### bootflat/bootflat.github.io
+
+BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.3.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.
+
+- URL: <https://github.com/bootflat/bootflat.github.io>
+
+- Site: <http://bootflat.github.io>
+
+- Pushed at: _Dec 6, 2014 6:12PM (UTC)_
+
+### mdo/code-guide
+
+Standards for flexible, durable, and sustainable HTML and CSS.
+
+- URL: <https://github.com/mdo/code-guide>
+
+- Site: <http://codeguide.co>
+
+- Pushed at: _Jan 13, 2015 8:38PM (UTC)_
+
+### afaqurk/linux-dash
+
+A drop-in, low-overhead monitoring web dashboard for a linux machine.
+
+- URL: <https://github.com/afaqurk/linux-dash>
+
+- Site: <http://linuxdash.afaqtariq.com>
+
+- Pushed at: _Mar 13, 2015 1:30PM (UTC)_
+
+### sahat/hackathon-starter
+
+A boilerplate for Node.js web applications
+
+- URL: <https://github.com/sahat/hackathon-starter>
+
+- Site: <http://hackathonstarter.herokuapp.com>
+
+- Pushed at: _Mar 15, 2015 2:37AM (UTC)_
+
+### Pixelkit/PixelKit-Bootstrap-UI-Kits
+
+Free UI Kits built on Bootstrap for any developer that wants to build a cool looking and functional website. Enjoy!
+
+- URL: <https://github.com/Pixelkit/PixelKit-Bootstrap-UI-Kits>
+
+- Site: < http://pixelkit.com/free-ui-kits/>
+
+- Pushed at: _May 23, 2014 8:24AM (UTC)_
+
+### songz/OpenTokRTC
+
+WebRTC Demo using OpenTok's WebRTC library
+
+- URL: <https://github.com/songz/OpenTokRTC>
+
+- Pushed at: _Oct 25, 2013 11:56PM (UTC)_
+
+### h5bp/Effeckt.css
+
+A Performant Transitions and Animations Library
+
+- URL: <https://github.com/h5bp/Effeckt.css>
+
+- Site: <http://h5bp.github.io/Effeckt.css>
+
+- Pushed at: _Feb 7, 2015 9:41AM (UTC)_
+
+### divshot/geo-bootstrap
+
+A timeless Twitter Bootstrap theme built for the modern web.
+
+- URL: <https://github.com/divshot/geo-bootstrap>
+
+- Site: <http://divshot.github.com/geo-bootstrap>
+
+- Pushed at: _Aug 6, 2014 7:12PM (UTC)_
+
+### ThisIsDallas/Simple-Grid
+
+A basic responsive grid for winners. This project is based on Chris Coyier's post on grids http://css-tricks.com/dont-overthink-it-grids/
+
+- URL: <https://github.com/ThisIsDallas/Simple-Grid>
+
+- Pushed at: _Jan 21, 2015 12:11AM (UTC)_
+
+### nkrode/RedisLive
+
+Visualize your redis instances, analyze query patterns and spikes. 
+
+- URL: <https://github.com/nkrode/RedisLive>
+
+- Site: <http://www.nkrode.com/article/real-time-dashboard-for-redis>
+
+- Pushed at: _Jan 5, 2015 3:43PM (UTC)_
+
+### daylerees/colour-schemes
+
+Colour schemes for a variety of editors created by Dayle Rees.
+
+- URL: <https://github.com/daylerees/colour-schemes>
+
+- Site: <http://daylerees.github.io>
+
+- Pushed at: _Mar 21, 2014 11:04PM (UTC)_
+
+### zurb/foundation
+
+The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+
+- URL: <https://github.com/zurb/foundation>
+
+- Site: <http://foundation.zurb.com>
+
+- Pushed at: _Mar 11, 2015 10:04PM (UTC)_
+
+### gravityonmars/Balloons.IO
+
+Balloons.IO is a web multi-room chat server and client ready to use. It’s built with the help of node.JS, Express, Socket.IO and Redis. Balloons uses PassportJS for authentication with Twitter and Facebook
+
+- URL: <https://github.com/gravityonmars/Balloons.IO>
+
+- Site: <http://balloons.io>
+
+- Pushed at: _Mar 30, 2014 11:23AM (UTC)_
+
+### twbs/bootstrap
+
+The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+- URL: <https://github.com/twbs/bootstrap>
+
+- Site: <http://getbootstrap.com>
+
+- Pushed at: _Mar 16, 2015 7:57AM (UTC)_
+
+### chriskempson/tomorrow-theme
+
+Tomorrow Theme the precursor to Base16 Theme
+
+- URL: <https://github.com/chriskempson/tomorrow-theme>
+
+- Pushed at: _Jan 20, 2015 5:52PM (UTC)_
+
+### BonsaiDen/JavaScript-Garden
+
+A collection of documentation about the most quirky parts of the JavaScript language. 
+
+- URL: <https://github.com/BonsaiDen/JavaScript-Garden>
+
+- Site: <http://bonsaiden.github.com/JavaScript-Garden>
+
+- Pushed at: _Feb 28, 2015 5:28PM (UTC)_
+
+### rgrove/jquery-yui3-rosetta-stone
+
+A guide to idioms in YUI 3 and jQuery.
+
+- URL: <https://github.com/rgrove/jquery-yui3-rosetta-stone>
+
+- Site: <http://www.jsrosettastone.com/>
+
+- Pushed at: _May 29, 2014 6:08PM (UTC)_
+
+## [Haskell](id:haskell)
+
+2 repositories
+### jgm/pandoc
+
+Universal markup converter
+
+- URL: <https://github.com/jgm/pandoc>
+
+- Site: <http://johnmacfarlane.net/pandoc>
+
+- Pushed at: _Mar 16, 2015 3:26PM (UTC)_
+
+### facebook/Haxl
+
+A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+
+- URL: <https://github.com/facebook/Haxl>
+
+- Pushed at: _Feb 9, 2015 6:20PM (UTC)_
+
+## [AGS Script](id:ags script)
+
+1 repositories
+### akosma/eBook-Template
+
+Template to create PDF, ePub and Kindle books with Asciidoc and dblatex
+
+- URL: <https://github.com/akosma/eBook-Template>
+
+- Site: <http://akosma.github.io/eBook-Template>
+
+- Pushed at: _Feb 22, 2015 8:18PM (UTC)_
 
 ## [Perl](id:perl)
 
@@ -4670,7 +5586,7 @@ Sixteen Colors ANSI/ASCII Art Archive
 
 - Site: <http://sixteencolors.net/>
 
-- Pushed at: _Dec 8, 2014 1:39AM (UTC)_
+- Pushed at: _Feb 24, 2015 2:04AM (UTC)_
 
 ### sitetechie/Avatar
 
@@ -4700,7 +5616,7 @@ Business process execution engine
 
 - Site: <http://bpmengine.org>
 
-- Pushed at: _May 7, 2012 3:55AM (UTC)_
+- Pushed at: _Mar 13, 2015 12:11AM (UTC)_
 
 ### alnewkirk/Scrappy
 
@@ -4720,7 +5636,7 @@ PSGI toolkit and server adapters
 
 - Site: <http://plackperl.org/>
 
-- Pushed at: _Dec 10, 2014 10:25PM (UTC)_
+- Pushed at: _Mar 11, 2015 5:40PM (UTC)_
 
 ### PerlDancer/Dancer
 
@@ -4730,7 +5646,7 @@ The easiest way to write web applications with Perl (Perl web micro-framework)
 
 - Site: <http://perldancer.org/>
 
-- Pushed at: _Nov 26, 2014 10:20PM (UTC)_
+- Pushed at: _Feb 23, 2015 1:33AM (UTC)_
 
 ### miyagawa/web-scraper
 
@@ -4744,7 +5660,7 @@ Perl web scraping toolkit
 
 ## [Objective-C](id:objective-c)
 
-11 repositories
+10 repositories
 ### Codeux-Software/Textual
 
 Textual is an IRC client for OS X
@@ -4753,7 +5669,7 @@ Textual is an IRC client for OS X
 
 - Site: <http://www.codeux.com/textual/>
 
-- Pushed at: _Dec 5, 2014 5:55PM (UTC)_
+- Pushed at: _Mar 16, 2015 2:35AM (UTC)_
 
 ### eczarny/spectacle
 
@@ -4763,7 +5679,7 @@ Spectacle allows you to organize your windows without using a mouse.
 
 - Site: <http://spectacleapp.com/>
 
-- Pushed at: _Nov 6, 2014 12:42AM (UTC)_
+- Pushed at: _Jan 5, 2015 10:25PM (UTC)_
 
 ### fitztrev/shuttle
 
@@ -4773,7 +5689,7 @@ A simple SSH shortcut menu for OS X
 
 - Site: <http://fitztrev.github.io/shuttle/>
 
-- Pushed at: _Dec 9, 2014 6:02PM (UTC)_
+- Pushed at: _Mar 3, 2015 8:10PM (UTC)_
 
 ### gobackspaces/DLCImagePickerController
 
@@ -4803,7 +5719,7 @@ An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymi
 
 - Site: <https://mike.tig.as/onionbrowser/>
 
-- Pushed at: _Nov 12, 2014 5:03AM (UTC)_
+- Pushed at: _Mar 12, 2015 3:35AM (UTC)_
 
 ### gimenete/iOS-boilerplate
 
@@ -4823,23 +5739,15 @@ photoshop-style filter interface for UIImage class on iOS to make instagram-styl
 
 - Pushed at: _Nov 15, 2012 3:22AM (UTC)_
 
-### ByteProject/Ascension
+### ansilove/Ascension
 
-NFO DIZ ASC viewer for OS X (public 2.x branch)
+ASCII / ANSI art viewer and text editor for OS X
 
-- URL: <https://github.com/ByteProject/Ascension>
+- URL: <https://github.com/ansilove/Ascension>
 
 - Site: <http://ascension.byteproject.net>
 
-- Pushed at: _Mar 26, 2013 9:56PM (UTC)_
-
-### patch-engineering/api-examples
-
-Example applications using the Outside.in API
-
-- URL: <https://github.com/patch-engineering/api-examples>
-
-- Pushed at: _Mar 20, 2012 6:24PM (UTC)_
+- Pushed at: _Feb 1, 2015 12:25AM (UTC)_
 
 ### samuelclay/NewsBlur
 
@@ -4849,108 +5757,18 @@ NewsBlur is a personal news reader that brings people together to talk about the
 
 - Site: <http://www.newsblur.com>
 
-- Pushed at: _Dec 10, 2014 8:34PM (UTC)_
+- Pushed at: _Mar 14, 2015 1:07AM (UTC)_
 
-## [C](id:c)
-
-9 repositories
-### rxi/dyad
-
-Asynchronous networking for C 
-
-- URL: <https://github.com/rxi/dyad>
-
-- Pushed at: _Oct 4, 2014 5:34PM (UTC)_
-
-### vysheng/tg
-
-telegram-cli
-
-- URL: <https://github.com/vysheng/tg>
-
-- Pushed at: _Dec 6, 2014 2:01PM (UTC)_
-
-### ex3ndr/telegram
-
-Telegram S Edition Android App
-
-- URL: <https://github.com/ex3ndr/telegram>
-
-- Pushed at: _Apr 5, 2014 4:32PM (UTC)_
-
-### DrKLO/Telegram
-
-Telegram for Android source
-
-- URL: <https://github.com/DrKLO/Telegram>
-
-- Pushed at: _Dec 4, 2014 8:27PM (UTC)_
-
-### cockpit-project/cockpit
-
-Cockpit, a user interface for GNU/Linux servers
-
-- URL: <https://github.com/cockpit-project/cockpit>
-
-- Site: <http://www.cockpit-project.org/>
-
-- Pushed at: _Dec 11, 2014 2:56PM (UTC)_
-
-### google/gumbo-parser
-
-- URL: <https://github.com/google/gumbo-parser>
-
-- Pushed at: _Nov 9, 2014 8:43PM (UTC)_
-
-### deanmao/node-chimera
-
-A new kind of headless webkit integration for nodejs; a great alternative to phantomjs.
-
-- URL: <https://github.com/deanmao/node-chimera>
-
-- Site: <http://www.deanmao.com/2012/08/13/enter-chimera/>
-
-- Pushed at: _Jul 23, 2013 5:02AM (UTC)_
-
-### ByteProject/AnsiLove-C
-
-ANSi / ASCII art to PNG converter in C
-
-- URL: <https://github.com/ByteProject/AnsiLove-C>
-
-- Pushed at: _Mar 6, 2014 7:24PM (UTC)_
-
-### sdiehl/pycraig
-
-Python library for scraping data from Craigslist
-
-- URL: <https://github.com/sdiehl/pycraig>
-
-- Pushed at: _Aug 26, 2011 12:42PM (UTC)_
-
-## [Haskell](id:haskell)
+## [PigLatin](id:piglatin)
 
 1 repositories
-### facebook/Haxl
+### mortardata/mortar-recsys
 
-A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+A customizable recommendation engine for Hadoop and Pig by Mortar Data.
 
-- URL: <https://github.com/facebook/Haxl>
+- URL: <https://github.com/mortardata/mortar-recsys>
 
-- Pushed at: _Nov 22, 2014 4:42PM (UTC)_
-
-## [Scala](id:scala)
-
-1 repositories
-### takezoe/gitbucket
-
-The easily installable Github clone powered by Scala
-
-- URL: <https://github.com/takezoe/gitbucket>
-
-- Site: <http://takezoe.github.io/gitbucket/>
-
-- Pushed at: _Dec 7, 2014 4:39PM (UTC)_
+- Pushed at: _Dec 22, 2014 12:52PM (UTC)_
 
 ## [VimL](id:viml)
 
@@ -4961,7 +5779,7 @@ Flatland is a simple theme and accompanying color scheme for Sublime Text 2.
 
 - URL: <https://github.com/thinkpixellab/flatland>
 
-- Pushed at: _Oct 9, 2014 3:35PM (UTC)_
+- Pushed at: _Jan 14, 2015 2:01AM (UTC)_
 
 ## [C#](id:c#)
 
@@ -4977,6 +5795,6 @@ Inbox2 deskop client
 - Pushed at: _Aug 6, 2012 4:28PM (UTC)_
 
 ---
-Generated at: Dec 11, 2014 4:26PM (UTC)
+Generated at: Mar 16, 2015 3:35PM (UTC)
 
 _Get generator on [GitHub](https://github.com/skyjia/repogen)_
